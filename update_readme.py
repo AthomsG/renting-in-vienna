@@ -20,7 +20,7 @@ recent_listings = df.head(20)
 recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link', 'Published Date']]
 
 recent_listings['Location'] = recent_listings['Location'].apply(
-    lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}"
+    lambda x: f"{str(x).split(',')[1].split('.')[0]}. {str(x).split(',')[-1].strip()}" if isinstance(x, str) else "Unknown"
 )
 
 recent_listings['Link'] = recent_listings['Link'].apply(lambda x: quote(x, safe='/:?=&%'))
