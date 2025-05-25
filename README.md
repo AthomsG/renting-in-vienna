@@ -22,6 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                          | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          781 |           nan |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/mitten-im-10ten---zentral-und-ruhig-gelegen-1570323177/) | May 23, 13:20      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                             | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          700 |            40 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/sanierter-neubau-2-zimmer-mit-einbauk%C3%BCche-n%C3%A4he-ameisbr%C3%BCcke-hiezing-u4-keine-abl%C3%B6se-%21%21%21-1453069059/) | May 25, 10:20      |
+|          568 |            52 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/wiener-wohnen:-wundersch%C3%B6ne-2-zimmer-wohnung-mit-balkon-im-14.-bezirk---weitergabe-nur-mit-vms-1805766836/)              | May 24, 15:23      |
