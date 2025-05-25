@@ -77,7 +77,7 @@ if not old_listings.empty:
     max_old_published_date = old_listings['Published Date'].max()
 else:
     # Use a very old timestamp with the same timezone awareness
-    max_old_published_date = pd.Timestamp('1900-01-01')
+    max_old_published_date = pd.Timestamp('1900-01-01').tz_localize('UTC')
 
 new_listings = recent_listings[
     (recent_listings['Link'].isin(new_links)) & 
