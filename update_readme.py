@@ -76,7 +76,8 @@ old_listings = recent_listings[recent_listings['Link'].isin(old_links)]
 if not old_listings.empty:
     max_old_published_date = old_listings['Published Date'].max()
 else:
-    max_old_published_date = datetime.min  # If no old listings, assume no previous entries
+    # Use a very old timestamp with the same timezone awareness
+    max_old_published_date = pd.Timestamp('1900-01-01')
 
 new_listings = recent_listings[
     (recent_listings['Link'].isin(new_links)) & 
@@ -109,7 +110,8 @@ for _, row in new_listings.iterrows():
         'text': message,
         'parse_mode': 'HTML'
     }
-    response = requests.post(telegram_url, data=message_data)
-
-    if response.status_code != 200:
-        print(f"Failed to send message for listing: {row['Link']}. Response: {response.text}")
+    try:
+        response = requests.post(telegram_url, data=message_data)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"Failed to send message for listing: {row['Link']}. Error: {e}")
