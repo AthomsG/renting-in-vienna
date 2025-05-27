@@ -24,6 +24,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                          | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       572    |            45 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/15-zimmer-reine-hofruhelage-3.-liftstock-957626650/)                    | May 27, 13:53      |
 |       749.59 |            39 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/wundersch%C3%B6ne-2-zimmer-wohnung-in-top-lage---1050-wien-1894119286/) | May 27, 13:19      |
 |       650    |            62 |          3 | 12. Meidling   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/direktvergabe-gemeindewohnung---vormerkschein-f.-3-zimmer-1035361550/)    | May 27, 11:20      |
 |       618    |            58 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/gemeindewhg-direktvergabe-vmd-%21%21-30.04.25-%21%21-1605941524/)          | May 26, 23:09      |
