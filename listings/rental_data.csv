@@ -4,6 +4,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-23T09:14:00Z,N/A,Sankt Veit-Gasse
 1208697997,"Bertha-von-Suttner-Gasse 10, 1220 Wien / K2+K3","Wien, 22. Bezirk, Donaustadt",1220,819,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-23T08:44:00Z,N/A,Bertha-von-Suttner-Gasse 10
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-20T12:39:00Z,N/A,N/A
+2003692789,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,51,Wien,Wien,0.85,4,Wohnung,2025-05-29T08:19:00Z,1080.0,N/A
+871555716,TOLLE 2 ZIMMERWOHNUNG + TERRASSE - ERSTBEZUG - U4 FRIEDENSBRÜCKE,"Wien, 20. Bezirk, Brigittenau",1200,1001.9,2,44,Wien,Wien,1.0,N/A,Wohnung,2025-05-29T08:15:00Z,1001.9,N/A
 1574521776,"Moderne Altbauwohnung mit 4,5 Zimmern im 3. Bezirk","Wien, 03. Bezirk, Landstraße",1030,2860.08,5,158,Wien,Wien,1.0,1,Wohnung,2025-05-29T08:13:00Z,2860.08,Wassergasse 15
 2078083530,Nähe Neubaugasse!!! Hofseitige 2-Zimmer-Neubauwohnung - 5.OG!!,"Wien, 07. Bezirk, Neubau",1070,1349.91,2,56,Wien,Wien,0.9,5,Wohnung,2025-05-29T08:09:00Z,1349.91,N/A
 965371851,Moderne Neubauwohnung mit Balkon in Traum-Lage in GRINZING!!!,"Wien, 19. Bezirk, Döbling",1190,1498,3,84,Wien,Wien,1.0,2,Wohnung,2025-05-29T08:08:00Z,1498.0,N/A
@@ -588,8 +590,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1579829919,"3 Zi Altbau im Dachgechoß, Landstraßer Hauptstraße, ruhige Innenhoflage, 5 min. von der U-Bahn U3","Wien, 03. Bezirk, Landstraße",1030,1820,3,76,Wien,Wien,1.0,1,Wohnung,2025-05-28T06:39:00Z,1820.0,Landstraßer Hauptstraße 114
 1858521540,HOFSEITIGE 1-ZIMMERWOHNUNG NÄHE MARIAHILFER STRASSE! Liniengasse 48 - Top 1,"Wien, 06. Bezirk, Mariahilf",1060,594,1,28,Wien,Wien,1.0,1,Wohnung,2025-05-28T06:31:00Z,594.0,N/A
 930303650,Luxus! Hochwertige 4 Zimmer mit 2 privaten Dachterrassen in Bestlage. 2 min zur Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,2720,4,94,Wien,Wien,1.0,6,Wohnung,2025-05-28T06:01:00Z,2720.0,Hirschengasse 24
-2069322074,"Donaumarina, Bestlage Donau & Innenstadt, direkt an der U-Bahn, 2 Zimmer mit Fitness, Sauna, Loggia","Wien, 02. Bezirk, Leopoldstadt",1020,1980,3,70,Wien,Wien,1.0,7,Wohnung,2025-05-28T05:34:00Z,1980.0,Wehlistraße 330/stiege 1
-1560117963,3 Zimmer Gemeindewohnung Direktvergabe,"Wien, 10. Bezirk, Favoriten",1100,656,3,58,Wien,Wien,1.0,1,Wohnung,2025-05-28T05:17:00Z,656.0,Troststrasse
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1029,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-28T02:53:00Z,N/A,Arsenalstraße 8
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1170.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-27T14:20:00Z,N/A,Dresdner Straße
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-27T12:28:00Z,N/A,St. Veit-Gasse 25
@@ -604,6 +604,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1603776733,Exklusive Townhouses in Zentrumsnähe - Ihr neues Zuhause in Bestlage!,"Wien, 03. Bezirk, Landstraße",1030,3390,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-26T12:15:00Z,N/A,Charasgasse
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-25T03:28:00Z,N/A,Apollogasse
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,1379.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-24T04:23:00Z,N/A,Wagramer Straße
+1187985828,"Neubau mit 15m2 Balkon direkt am Park am Hundsturm & Ubahn, geräumige 2 Zimmer, 72m2, 6. Liftstock","Wien, 05. Bezirk, Margareten",1050,1510,2,70,Wien,Wien,1.0,9,Wohnung,2025-05-30T05:29:00Z,1510.0,Am Hundsturm 5
+1977644275,Frisch renovierte 3 Zimmer Wohnung im 9. Bezirk mit Aufzug. Viele Tramvai Linien in der Nähe,"Wien, 09. Bezirk, Alsergrund",1090,2100,3,80,Wien,Wien,1.0,5,Wohnung,2025-05-30T05:19:00Z,2100.0,Marktgasse 6
 1268598270,"Wunderschön sanierte 2 Zimmer Altbauwohnung im 3ten Bezirk, Nähe U-Bahn U3, Donaukanal & Prater","Wien, 03. Bezirk, Landstraße",1030,1170,2,46,Wien,Wien,1.0,8,Wohnung,2025-05-30T05:14:00Z,1170.0,Schlachthausgasse 14
 1528637547,"Erstbezug 2 Zi mit Terrasse, ruhige Lage, Nähe Klinik Favoriten, Tram 1 & Bus 65A","Wien, 10. Bezirk, Favoriten",1100,910,2,44,Wien,Wien,1.0,6,Wohnung,2025-05-30T05:07:00Z,910.0,Braunspergengasse 4
 922084502,"3 Zi mit Altbauflair im 19. Bezirk, perfekte Anbindung mit der Straßenbahn D sowie U4 Heiligenstadt","Wien, 19. Bezirk, Döbling",1190,1470,3,89,Wien,Wien,1.0,1,Wohnung,2025-05-30T04:56:00Z,1470.0,Greinergasse 6
@@ -1002,5 +1004,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2033517990,provisionsfrei - 81 qm große Nestwohnung im Zentrum - man ist frei - es ist hell - empfehlenswert,"Wien, 01. Bezirk, Innere Stadt",1010,1957.19,2,81,Wien,Wien,0.73,5,Wohnung,2025-05-29T08:22:00Z,1957.19,N/A
 1155574936,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,50,Wien,Wien,0.85,4,Wohnung,2025-05-29T08:21:00Z,1080.0,N/A
 974647409,Großzügige 4-Zimmer Wohnung an der Thaliastraße in 1160 Wien zu mieten,"Wien, 16. Bezirk, Ottakring",1160,1695,4,128,Wien,Wien,0.67,6,Wohnung,2025-05-29T08:20:00Z,1695.0,N/A
-2003692789,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,51,Wien,Wien,0.85,4,Wohnung,2025-05-29T08:19:00Z,1080.0,N/A
-871555716,TOLLE 2 ZIMMERWOHNUNG + TERRASSE - ERSTBEZUG - U4 FRIEDENSBRÜCKE,"Wien, 20. Bezirk, Brigittenau",1200,1001.9,2,44,Wien,Wien,1.0,N/A,Wohnung,2025-05-29T08:15:00Z,1001.9,N/A
