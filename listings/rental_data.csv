@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1240071599,Helle und günstige 1-Zimmer Wohnung,"Wien, 20. Bezirk, Brigittenau",1200,482.9,1,30,Wien,Wien,1.0,3,Wohnung,2025-06-04T09:11:00Z,482.9,Karajangasse 13
+898723650,Vollmöbliert & hochwertig - einziehen ohne Aufwand,"Wien, 20. Bezirk, Brigittenau",1200,1696.2,2,48,Wien,Wien,1.0,27,Wohnung,2025-06-04T09:00:00Z,1696.2,Dresdner Straße
 1015388105,Smart Living in Brigittenau - Ihr neues Zuhause mit Stil,"Wien, 20. Bezirk, Brigittenau",1200,1398.1,2,36,Wien,Wien,1.0,26,Wohnung,2025-06-04T09:00:00Z,1398.1,Dresdner Straße
 1373038989,Ready to Move In - Design Apartments at Dresdner Straße,"Wien, 20. Bezirk, Brigittenau",1200,1797.4,2,49,Wien,Wien,1.0,26,Wohnung,2025-06-04T09:00:00Z,1797.4,Dresdner Straße
 1544248457,Modern Comfort with Urban Convenience,"Wien, 20. Bezirk, Brigittenau",1200,1192.4,1,32,Wien,Wien,1.0,26,Wohnung,2025-06-04T09:00:00Z,1192.4,Dresdner Straße
@@ -30,8 +32,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1319490262,"2-Zi neubau Wohnung mit Balkon, Fitness und Sauna direkt am Hauptbahnhof","Wien, 10. Bezirk, Favoriten",1100,1460,2,49,Wien,Wien,1.0,20,Wohnung,2025-06-04T08:03:00Z,1460.0,Canettistraße 4
 1611514157,"2 Zi Wohnung im 1. Stock mit moderner Küche und Badezimmer in sehr ruhige, ländliche und grüne Lage","Wien, 13. Bezirk, Hietzing",1130,1200,2,50,Wien,Wien,1.0,5,Wohnung,2025-06-04T07:56:00Z,1200.0,Fasangartengasse 14
 1573671201,"Charmante 2 Zi Wohnung mit Balkon, Vienna 22 mit Wellness, Gym, Co-Working Fläche, U1 Kagran","Wien, 22. Bezirk, Donaustadt",1220,1390,2,46,Wien,Wien,1.0,32,Wohnung,2025-06-04T07:51:00Z,1390.0,Dr.-Adolf-Schärf-Platz 5
-1464814085,"Traumblick über Wien, 28. Stock HelioTower mit Gym, Interspar & Lounges, 2 Zimmer + Balkon, U-Bahn","Wien, 03. Bezirk, Landstraße",1030,1580,2,53,Wien,Wien,1.0,33,Wohnung,2025-06-04T07:44:00Z,1580.0,Döblerhofstraße 10
-2122498488,3 Zimmer Gartenwohnung im 22ten Bezirk,"Wien, 22. Bezirk, Donaustadt",1220,1190,3,78,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T07:34:00Z,1190.0,N/A
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,919.15,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-04T02:53:00Z,N/A,Arsenalstraße 8
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1170.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-03T14:20:00Z,N/A,Dresdner Straße
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-03T12:28:00Z,N/A,St. Veit-Gasse 25
@@ -52,6 +52,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-30T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-30T09:14:00Z,N/A,Sankt Veit-Gasse
 1208697997,"Bertha-von-Suttner-Gasse 10, 1220 Wien / K2+K3","Wien, 22. Bezirk, Donaustadt",1220,819,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-30T08:44:00Z,N/A,Bertha-von-Suttner-Gasse 10
+1244202388,ELEGANTE ALTBAUWOHNUNG IN INNENSTADTNÄHE,"Wien, 04. Bezirk, Wieden",1040,1590,3,92,Wien,Wien,1.0,3,Wohnung,2025-06-04T18:36:00Z,1590.0,Graf-Starhemberggasse 16
+1887446727,MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1111.62,2,55,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:27:00Z,1111.62,Ziegelhofstraße 72
 2008184321,MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1485.28,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:27:00Z,1485.28,Ziegelhofstraße 72
 1096942651,MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1490.75,3,72,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:27:00Z,1490.75,Ziegelhofstraße 72
 1196758618,MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1445.19,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:27:00Z,1445.19,Ziegelhofstraße 72
@@ -450,8 +452,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1689958728,Top Lage im 3. Bezirk - möblierte 2 Zimmer-Wohnung in der Custozzagasse,"Wien, 03. Bezirk, Landstraße",1030,936.25,0,78,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T09:18:00Z,936.25,Custozzagasse
 1605944316,(reserviert) Moderne 2-Zimmer-Wohnung mit Balkon in 1220 Wien - weitervergabe,"Wien, 22. Bezirk, Donaustadt",1220,717,2,45,Wien,Wien,1.0,1,Wohnung,2025-06-04T09:17:00Z,717.0,Hirschstettner Straße 61/2
 2017565580,Generalsanierte 2 Zimmerwohnung mit 30 m² Terrasse,"Wien, 23. Bezirk, Liesing",1230,1107.84,2,54,Wien,Wien,1.0,1,Wohnung,2025-06-04T09:13:00Z,1107.84,Leo-Mathauser-Gasse
-1240071599,Helle und günstige 1-Zimmer Wohnung,"Wien, 20. Bezirk, Brigittenau",1200,482.9,1,30,Wien,Wien,1.0,3,Wohnung,2025-06-04T09:11:00Z,482.9,Karajangasse 13
-898723650,Vollmöbliert & hochwertig - einziehen ohne Aufwand,"Wien, 20. Bezirk, Brigittenau",1200,1696.2,2,48,Wien,Wien,1.0,27,Wohnung,2025-06-04T09:00:00Z,1696.2,Dresdner Straße
+1802694835,Drei-Zimmer-Dachgeschoßwohnung mit Terrasse- Erstbezug - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1700,3,65,Wien,Wien,0.85,8,Wohnung,2025-06-05T17:00:00Z,1700.0,N/A
+1903361745,"ZOLLERGASSE | Exklusive 4 Zimmer Dachgeschosswohnung | U3 ""Neubaugasse""","Wien, 07. Bezirk, Neubau",1070,2595,4,121,Wien,Wien,1.0,5,Wohnung,2025-06-05T16:58:00Z,2595.0,N/A
 2123635263,Erstbezug: 2-Zimmer-Wohnung mit Balkon und Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1150,2,48,Wien,Wien,0.85,7,Wohnung,2025-06-05T16:57:00Z,1150.0,N/A
 1294923812,Erstbezug - 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1150,2,47,Wien,Wien,0.85,7,Wohnung,2025-06-05T16:55:00Z,1150.0,N/A
 1025502897,Altbauwohnung mit Terrasse - 5 Zimmer - unbefristet zu mieten,"Wien, 04. Bezirk, Wieden",1040,3238.59,5,164,Wien,Wien,1.0,1,Wohnung,2025-06-05T16:52:00Z,3238.59,N/A
@@ -850,8 +852,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 934956534,Dachgeschoßwohnung mit 23m2 Terrasse | 2-Zimmer Wohnung | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,949,2,45,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:46:00Z,949.0,Michael-Reś
 1567904942,ERSTBEZUG 4 Zimmer Neubauwohnung,"Wien, 10. Bezirk, Favoriten",1100,1449,4,71,Wien,Wien,1.0,1,Wohnung,2025-06-04T18:45:00Z,1449.0,Knöllgasse
 2030589450,Luxuswohnung in absoluter Bestlage!,"Wien, 01. Bezirk, Innere Stadt",1010,6332.93,4,191,Wien,Wien,1.0,1,Wohnung,2025-06-04T18:45:00Z,6332.93,Plankengasse
-1244202388,ELEGANTE ALTBAUWOHNUNG IN INNENSTADTNÄHE,"Wien, 04. Bezirk, Wieden",1040,1590,3,92,Wien,Wien,1.0,3,Wohnung,2025-06-04T18:36:00Z,1590.0,Graf-Starhemberggasse 16
-1887446727,MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1111.62,2,55,Wien,Wien,1.0,N/A,Wohnung,2025-06-04T18:27:00Z,1111.62,Ziegelhofstraße 72
+1055820739,| 3 ZIMMER | 3. OG | BALKON | ERSTBEZUG IN HIETZING | NAHE UNTER ST. VEIT | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1689,3,70,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:35:00Z,1689.0,Sankt Veit-Gasse
+1317322271,| DREI ZIMMER | 3. GESCHOSS | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1729,3,70,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:35:00Z,1729.0,Sankt Veit-Gasse
 1059303014,Sehr gemütliche Singlewohnung mit ruhiger Loggia,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,738.17,1,42,Wien,Wien,1.0,1,Wohnung,2025-06-06T07:14:00Z,738.17,Pouthongasse 20
 1079058850,Repräsentation groß geschrieben: Altbauwohnung mit 138 qm und 12 qm Balkon,"Wien, 04. Bezirk, Wieden",1040,2657.16,4,138,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:13:00Z,2657.16,N/A
 1155551790,Großzügige 4 Zimmer Wohnung mit Loggia und Garage,"Wien, 11. Bezirk, Simmering",1110,1500,4,113,Wien,Wien,0.67,5,Wohnung,2025-06-06T07:13:00Z,1500.0,N/A
@@ -917,10 +919,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1747817348,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,2379.01,4,91,Wien,Wien,1.0,4,Wohnung,2025-06-06T03:11:00Z,2379.01,St. Veit-Gasse 25
 1424912685,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,1778.99,3,79,Wien,Wien,1.0,3,Wohnung,2025-06-06T03:09:00Z,1778.99,St. Veit-Gasse 25
 1302955248,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-06-06T03:08:00Z,1199.0,St. Veit-Gasse 25
-1473747334,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-06-06T03:06:00Z,1199.0,Sankt Veit-Gasse
 1175125473,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,1548.99,3,77,Wien,Wien,1.0,1,Wohnung,2025-06-06T03:06:00Z,1548.99,St. Veit-Gasse 25
 1295323787,"gut geschnittene, hofseitige Kleinwohnung mit separater Küche & Abstellraum in U-Bahn-Nähe (U4/U6 Längenfeldgasse)","Wien, 12. Bezirk, Meidling",1120,770,1,37,Wien,Wien,1.0,3,Wohnung,2025-06-06T03:06:00Z,770.0,N/A
 1903712694,"Charmante, ruhige 3-Zimmer-Altbauwohnung am Kohlmarkt - Innenstadtflair mit Stil!","Wien, 01. Bezirk, Innere Stadt",1010,2095.26,3,93,Wien,Wien,1.0,2,Wohnung,2025-06-06T03:06:00Z,2095.26,Kohlmarkt 7
+1473747334,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-06-06T03:06:00Z,1199.0,Sankt Veit-Gasse
 1486651590,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,2219,3,90,Wien,Wien,1.0,5,Wohnung,2025-06-06T03:05:00Z,2219.0,St. Veit-Gasse 25
 875457049,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,2599,4,108,Wien,Wien,1.0,4,Wohnung,2025-06-06T03:04:00Z,2599.0,St. Veit-Gasse 25
 1445364077,**Erstbezug - Hofseite** Neubauwohnung mit Balkon in sehr guter Lage!,"Wien, 19. Bezirk, Döbling",1190,949.5,2,34,Wien,Wien,1.0,1,Wohnung,2025-06-06T03:03:00Z,949.5,Weinberggasse
@@ -965,10 +967,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1183776084,Erstbezug: 3 Zimmer-Wohnung mit Loggia und Balkon - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1680,3,69,Wien,Wien,0.85,5,Wohnung,2025-06-05T20:57:00Z,1680.0,N/A
 1524799943,Erstbezug: 2-Zimmer-Wohnung mit Balkon und Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,47,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:55:00Z,1080.0,N/A
 2071231792,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,50,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:54:00Z,1080.0,N/A
-1386491242,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,50,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:51:00Z,1080.0,N/A
 1692983185,2-Zimmer Wohnung mit Loggia | Thaliastraße | Billa im Haus | 4. Liftstock hofseitig,"Wien, 16. Bezirk, Ottakring",1160,949,2,41,Wien,Wien,1.0,4,Wohnung,2025-06-05T20:51:00Z,949.0,Lindauergasse
 2048063401,3-Zimmer Wohnung Nähe U4 Friedensbrücke,"Wien, 20. Bezirk, Brigittenau",1200,1349,3,52,Wien,Wien,1.0,2,Wohnung,2025-06-05T20:51:00Z,1349.0,Webergasse
 1895704272,2-Zimmer Wohnung mit 5m2 Loggia | Thaliastraße | Billa im Haus | 4. Liftstock,"Wien, 16. Bezirk, Ottakring",1160,979,2,42,Wien,Wien,1.0,4,Wohnung,2025-06-05T20:51:00Z,979.0,Lindauergasse
+1386491242,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,50,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:51:00Z,1080.0,N/A
 951737829,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,50,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:49:00Z,1080.0,N/A
 1486474760,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,51,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:46:00Z,1080.0,N/A
 919146554,Erstbezug - Sonnige 2-Zimmer-Wohnung mit Loggia - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1080,2,51,Wien,Wien,0.85,4,Wohnung,2025-06-05T20:43:00Z,1080.0,N/A
@@ -1050,5 +1052,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 623812539,"Bertha-von-Suttner-Gasse 10, 1220 Wien - Parkplätze","Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-06-05T17:07:00Z,N/A,Bertha-von-Suttner-Gasse 10
 1661947957,NEUBAUWOHNUNG am SCHAFBERG,"Wien, 18. Bezirk, Währing",1180,2090,4,104,Wien,Wien,1.0,3,Wohnung,2025-06-05T17:06:00Z,2090.0,N/A
 1896769701,Drei-Zimmer-Dachgeschoßwohnung mit Terrasse- Erstbezug - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1690,3,66,Wien,Wien,0.85,8,Wohnung,2025-06-05T17:03:00Z,1690.0,N/A
-1802694835,Drei-Zimmer-Dachgeschoßwohnung mit Terrasse- Erstbezug - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1700,3,65,Wien,Wien,0.85,8,Wohnung,2025-06-05T17:00:00Z,1700.0,N/A
-1903361745,"ZOLLERGASSE | Exklusive 4 Zimmer Dachgeschosswohnung | U3 ""Neubaugasse""","Wien, 07. Bezirk, Neubau",1070,2595,4,121,Wien,Wien,1.0,5,Wohnung,2025-06-05T16:58:00Z,2595.0,N/A
