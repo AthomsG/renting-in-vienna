@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                             | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       720    |            42 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/all-inclusive-bright-2-room-apartment-in-vienna-1528114653/)                                | Jun 22, 10:33      |
-|       550.27 |            65 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/%28reserviert%29-2-zimmer-wohnung-10.-bezirk---wiener-wohn-ticket-erforderlich-2132432693/) | Jun 21, 19:02      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                             | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       750    |            35 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/15-zimmer-singelwohnung-am-rochusmarkt---all-inclusive-1847734592/)                   | Jun 22, 16:24      |
+|       720    |            42 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/all-inclusive-bright-2-room-apartment-in-vienna-1528114653/)                                | Jun 22, 10:33      |
+|       550.27 |            65 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/%28reserviert%29-2-zimmer-wohnung-10.-bezirk---wiener-wohn-ticket-erforderlich-2132432693/) | Jun 21, 19:02      |
