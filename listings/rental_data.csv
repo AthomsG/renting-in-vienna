@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1703656724,"2 Zimmer GARTEN Wohnung, HOFSEITIG - Nahe U6 Am Schöpfwerk!","Wien, 12. Bezirk, Meidling",1120,1249,2,62,Wien,Wien,1.0,0,Wohnung,2025-07-05T15:45:00Z,1249.0,Altmannsdorfer Straße
 1516399608,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,52,Wien,Wien,1.0,N/A,Wohnung,2025-07-05T15:40:00Z,1099.0,Podhagskygasse 12
 1319412148,"Mietwohnung mit Balkon, XXL-Garageplatz & Luxusausstattung","Wien, 14. Bezirk, Penzing",1140,2700,4,128,Wien,Wien,1.0,1,Wohnung,2025-07-05T15:28:00Z,2700.0,Myrbachgasse 5
 1835830428,klimatisiertes Wohlfühl-Domizil in 1050 Wien,"Wien, 05. Bezirk, Margareten",1050,1055,2,42,Wien,Wien,1.0,5,Wohnung,2025-07-05T15:25:00Z,1055.0,N/A
@@ -130,7 +131,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1886713316,Schöne 1-Zimmer-Wohnung,"Wien, 02. Bezirk, Leopoldstadt",1020,896,1,42,Wien,Wien,N/A,2,Wohnung,2025-07-04T22:49:00Z,896.0,Wachaustrasse
 1174074909,"Erstbezug - Wunderschöne, moderne 2-Zimmerwohnung mit Balkon - Nähe Kutschkermarkt / AKH","Wien, 18. Bezirk, Währing",1180,1179,2,43,Wien,Wien,1.0,3,Wohnung,2025-07-04T22:26:00Z,1179.0,Schumanngasse 35
 1092168691,"Provisionsfrei - 2-Zimmer-Erstbezug, seperat begehbar mit Balkon in Ruhelage, Nähe Zehetnergasse","Wien, 14. Bezirk, Penzing",1140,1050,2,50,Wien,Wien,N/A,4,Wohnung,2025-07-04T22:15:00Z,1050.0,Linzerstraße
-1023240970,"2-Zimmerwohnung, zentral, 860 Euro inkl Betriebskosten","Wien, 10. Bezirk, Favoriten",1100,860,2,55,Wien,Wien,N/A,4,Wohnung,2025-07-04T21:52:00Z,860.0,Fernkorngasse
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-04T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-04T09:14:00Z,N/A,Sankt Veit-Gasse
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-02T21:41:00Z,N/A,N/A
@@ -138,13 +138,14 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-01T12:28:00Z,N/A,St. Veit-Gasse 25
 1557597672,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-06-30T15:27:00Z,N/A,N/A
 915235432,Sensationeller ERSTBEZUG! Fußbodenheizung - UND kühlung!,"Wien, 05. Bezirk, Margareten",1050,1225,0,N/A,Wien,Wien,0.9,N/A,N/A,2025-06-30T15:06:00Z,N/A,N/A
-1838644884,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999,3,92,Wien,Wien,1.0,N/A,Wohnung,2025-07-06T21:40:00Z,1999.0,N/A
+1397790941,PRIVAT - 3-Zimmer Wohnung mit Balkon und Garage am Rufolf-Bednar Park,"Wien, 02. Bezirk, Leopoldstadt",1020,2101.31,3,79,Wien,Wien,N/A,1,Wohnung,2025-07-06T21:56:00Z,2101.31,N/A
 1017541084,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Terrasse und Garten!,"Wien, 22. Bezirk, Donaustadt",1220,1899,3,76,Wien,Wien,1.0,0,Wohnung,2025-07-06T21:40:00Z,1899.0,N/A
+1838644884,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999,3,92,Wien,Wien,1.0,N/A,Wohnung,2025-07-06T21:40:00Z,1999.0,N/A
 1944008086,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,924.58,2,63,Wien,Wien,1.0,0,Wohnung,2025-07-06T21:38:00Z,924.58,Anni-Haider-Weg 3
 1392075085,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1366.67,3,83,Wien,Wien,1.0,0,Wohnung,2025-07-06T21:38:00Z,1366.67,Anni-Haider-Weg 3
 2048589040,"++Der Platzhirsch++ Fantastische 2,5 Zimmer Erstbezug mit Terrasse","Wien, 22. Bezirk, Donaustadt",1220,1599,2,68,Wien,Wien,1.0,1,Wohnung,2025-07-06T21:37:00Z,1599.0,N/A
-895926384,Direktvergabe Gemeindewohnung (nur mit Vormerksdatum bis 30.04.2025),"Wien, 23. Bezirk, Liesing",1230,396.52,2,61,Wien,Wien,1.0,4,Wohnung,2025-07-06T21:35:00Z,396.52,Rößlergasse 15/3/8
 2058125604,2 Zimmer mit südlichem Weitblick direkt beim Belvedere im Haus mit viel Wohnkomfort!,"Wien, 10. Bezirk, Favoriten",1100,1428.44,2,57,Wien,Wien,1.0,15,Wohnung,2025-07-06T21:35:00Z,1428.44,Arsenalstraße
+895926384,Direktvergabe Gemeindewohnung (nur mit Vormerksdatum bis 30.04.2025),"Wien, 23. Bezirk, Liesing",1230,396.52,2,61,Wien,Wien,1.0,4,Wohnung,2025-07-06T21:35:00Z,396.52,Rößlergasse 15/3/8
 1358535983,Serviced Apartment mit Balkon in Oberlaa! All inclusive!,"Wien, 10. Bezirk, Favoriten",1100,1035,1,34,Wien,Wien,1.0,4,Wohnung,2025-07-06T21:33:00Z,1035.0,Kurbadstraße 8
 1793867341,Serviced Apartment mit Balkon in Oberlaa! All inclusive!,"Wien, 10. Bezirk, Favoriten",1100,1033,1,34,Wien,Wien,1.0,5,Wohnung,2025-07-06T21:33:00Z,1033.0,Kurbadstraße 8
 802813381,"""Grüne Oase über den Dächern Währings - lichtdurchflutete Wohnung mit Baumkulisse (Ohne Makler)","Wien, 18. Bezirk, Währing",1180,1211,2,68,Wien,Wien,1.0,3,Wohnung,2025-07-06T21:26:00Z,1211.0,Wallrißstraße 12A
@@ -337,4 +338,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1090624091,"PROVISIONSFREI wunderschöne neuwertige 2016 erbaute 2-Zimmer-Wohnung im Herzen von Hernals mit 7,13 grosser Terrasse","Wien, 17. Bezirk, Hernals",1170,995,2,52,Wien,Wien,N/A,N/A,Wohnung,2025-07-05T16:21:00Z,995.0,N/A
 1021089469,"Erstbezug nach Renovierung: Großzügige 4-Zimmer-Wohnung mit separater Küche, Loggia & hochwertiger Ausstattung in 1130 Wien","Wien, 13. Bezirk, Hietzing",1130,2747,4,117,Wien,Wien,N/A,2,Wohnung,2025-07-05T16:17:00Z,2747.0,N/A
 1304056316,"| NAHE TABORSTRASSE | 4,5 ZIMMER | AB SOFORT VERFÜGBAR | 4. LIFTSTOCK | LICHTDURCHFLUTET | NEUE EINBAUKÜCHE","Wien, 02. Bezirk, Leopoldstadt",1020,3603.18,4,N/A,Wien,Wien,1.0,4,Wohnung,2025-07-05T16:14:00Z,3603.18,Rotensterngasse
-1703656724,"2 Zimmer GARTEN Wohnung, HOFSEITIG - Nahe U6 Am Schöpfwerk!","Wien, 12. Bezirk, Meidling",1120,1249,2,62,Wien,Wien,1.0,0,Wohnung,2025-07-05T15:45:00Z,1249.0,Altmannsdorfer Straße
