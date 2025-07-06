@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1090624091,"PROVISIONSFREI wunderschöne neuwertige 2016 erbaute 2-Zimmer-Wohnung im Herzen von Hernals mit 7,13 grosser Terrasse","Wien, 17. Bezirk, Hernals",1170,995,2,52,Wien,Wien,N/A,N/A,Wohnung,2025-07-05T16:21:00Z,995.0,N/A
 1021089469,"Erstbezug nach Renovierung: Großzügige 4-Zimmer-Wohnung mit separater Küche, Loggia & hochwertiger Ausstattung in 1130 Wien","Wien, 13. Bezirk, Hietzing",1130,2747,4,117,Wien,Wien,N/A,2,Wohnung,2025-07-05T16:17:00Z,2747.0,N/A
 1304056316,"| NAHE TABORSTRASSE | 4,5 ZIMMER | AB SOFORT VERFÜGBAR | 4. LIFTSTOCK | LICHTDURCHFLUTET | NEUE EINBAUKÜCHE","Wien, 02. Bezirk, Leopoldstadt",1020,3603.18,4,N/A,Wien,Wien,1.0,4,Wohnung,2025-07-05T16:14:00Z,3603.18,Rotensterngasse
 1703656724,"2 Zimmer GARTEN Wohnung, HOFSEITIG - Nahe U6 Am Schöpfwerk!","Wien, 12. Bezirk, Meidling",1120,1249,2,62,Wien,Wien,1.0,0,Wohnung,2025-07-05T15:45:00Z,1249.0,Altmannsdorfer Straße
@@ -127,7 +128,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2111438448,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1488.2,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-07-05T00:38:00Z,1488.2,N/A
 995985039,Kompakte 2-Zimmer Wohnung in toller Lage - nahe U3 Kendlerstraße,"Wien, 14. Bezirk, Penzing",1140,994.07,2,40,Wien,Wien,1.0,4,Wohnung,2025-07-05T00:38:00Z,994.07,N/A
 1207557874,| TRAUMWOHNUNG MIT KLIMAANLAGE AM ALSERGRUND | | LUXUSERSTBEZUG |GENERALSANIERT |,"Wien, 09. Bezirk, Alsergrund",1090,3088.6,5,153,Wien,Wien,1.0,N/A,Wohnung,2025-07-05T00:37:00Z,3088.6,Alserbachstraße
-1714786256,Top 1-Zimmer Wohnung,"Wien, 10. Bezirk, Favoriten",1100,600,1,23,Wien,Wien,N/A,2,Wohnung,2025-07-04T23:25:00Z,600.0,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-04T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-04T09:14:00Z,N/A,Sankt Veit-Gasse
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-02T21:41:00Z,N/A,N/A
@@ -135,6 +135,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-01T12:28:00Z,N/A,St. Veit-Gasse 25
 1557597672,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-06-30T15:27:00Z,N/A,N/A
 915235432,Sensationeller ERSTBEZUG! Fußbodenheizung - UND kühlung!,"Wien, 05. Bezirk, Margareten",1050,1225,0,N/A,Wien,Wien,0.9,N/A,N/A,2025-06-30T15:06:00Z,N/A,N/A
+1778994807,Wohnen wie im Wellness-Hotel - Zentrum Kagran-U1,"Wien, 22. Bezirk, Donaustadt",1220,1350,2,65,Wien,Wien,1.0,4,Wohnung,2025-07-06T23:22:00Z,1350.0,Attemsgasse 7
 912697125,Direktvergabe Wiener Wohnen Vormerkschein vor 05/2024,"Wien, 03. Bezirk, Landstraße",1030,670,3,65,Wien,Wien,N/A,4,Wohnung,2025-07-06T23:08:00Z,670.0,Am Modenapark
 1744869956,"PROVISIONSFREI für den Mieter! Kreuzgasse / Martinstraße, Altbaumiete 34m², Nächst U6, Studenten bevorzugt!","Wien, 18. Bezirk, Währing",1180,498,2,34,Wien,Wien,1.0,2,Wohnung,2025-07-06T22:12:00Z,498.0,Kreuzgasse 14
 1397790941,PRIVAT - 3-Zimmer Wohnung mit Balkon und Garage am Rufolf-Bednar Park,"Wien, 02. Bezirk, Leopoldstadt",1020,2101.31,3,79,Wien,Wien,N/A,1,Wohnung,2025-07-06T21:56:00Z,2101.31,N/A
@@ -334,4 +335,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1270119214,SOMMERAKTION - 1 Monat Mietfrei | Balkon | U-Bahn/Kagraner Platz -5 Minuten zu Fuß entfernt | Stephansplatz binnen 15 min zu erreichen!,"Wien, 22. Bezirk, Donaustadt",1220,955,2,45,Wien,Wien,1.0,1,Wohnung,2025-07-05T16:25:00Z,955.0,N/A
 1177987177,DIE ZIMMEREI | Möblierte 2-Zimmer Wohnung im 2. Bezirk | fully furnished apartment | XL Bude,"Wien, 02. Bezirk, Leopoldstadt",1020,950,2,46,Wien,Wien,1.0,3,Wohnung,2025-07-05T16:25:00Z,950.0,Vorgartenstraße 204
 1733953908,"PROVISIONSFREI LUXUSWOHNUNG umgeben von grünen Weinbergen mit 15,26 m2 großem Balkon in einer der besten Lagen Wiens inkl. Garagenplatz","Wien, 19. Bezirk, Döbling",1190,1500,2,72,Wien,Wien,1.0,N/A,Wohnung,2025-07-05T16:24:00Z,1500.0,N/A
-1090624091,"PROVISIONSFREI wunderschöne neuwertige 2016 erbaute 2-Zimmer-Wohnung im Herzen von Hernals mit 7,13 grosser Terrasse","Wien, 17. Bezirk, Hernals",1170,995,2,52,Wien,Wien,N/A,N/A,Wohnung,2025-07-05T16:21:00Z,995.0,N/A
