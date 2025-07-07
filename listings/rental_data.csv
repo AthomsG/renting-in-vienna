@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1574258425,3-Zimmer Wohnung inkl. Freifläche und Einbauküche- ab August beziehbar. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,1099.94,3,67,Wien,Wien,1.0,2,Wohnung,2025-07-07T07:45:00Z,1099.94,Stammersdorfer Straße 236
 1334000684,SONNENUNTERGANG UND URLAUBSGEFÜHL MITTEN IN DER STADT,"Wien, 05. Bezirk, Margareten",1050,3100.3,3,86,Wien,Wien,1.0,6,Wohnung,2025-07-07T07:45:00Z,3100.3,N/A
 1052783041,"(reserviert) Helle Gemeinde Wohnung, 55m2 im 5. Bezirk","Wien, 05. Bezirk, Margareten",1050,609.2,2,55,Wien,Wien,1.0,1,Wohnung,2025-07-07T07:38:00Z,609.2,Siebenbrunnenfeldgasse 26-30/25
 1822314768,Wunderschöne Wohnung neben DONAUZENTRUM & 3 min entfernt von der U1 Kagran!,"Wien, 22. Bezirk, Donaustadt",1220,1980,3,90,Wien,Wien,1.0,5,Wohnung,2025-07-07T07:26:00Z,1980.0,Wagramer Straße 93
@@ -149,7 +150,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1121384276,"3-Zimmer-Wohnung in Ruhelage - herrlicher, großer GEMEINSCHAFTSGARTEN","Wien, 23. Bezirk, Liesing",1230,1180,3,72,Wien,Wien,1.0,1,Wohnung,2025-07-06T01:13:00Z,1180.0,Khekgasse/Ecke Josef Kutscha Gasse
 1701709142,Wunderschöne helle 2-Zimmer-Neubauwohnung mit großer Terrasse - Grünblick und Ruhelage,"Wien, 17. Bezirk, Hernals",1170,1180,2,62,Wien,Wien,1.0,0,Wohnung,2025-07-06T00:37:00Z,1180.0,N/A
 1965768206,3-Zimmer-Gemeindewohnung zur direktvergabe,"Wien, 22. Bezirk, Donaustadt",1220,889.41,3,87,Wien,Wien,0.0,EG,Wohnung,2025-07-06T00:31:00Z,889.41,Hirschtetten
-312179558,Neubauwohnung in entspannter Wohnatmosphäre mit höchster Lebensqualität,"Wien, 03. Bezirk, Landstraße",1030,1150,2,51,Wien,Wien,N/A,N/A,Wohnung,2025-07-05T23:37:00Z,1150.0,Fred-Zinnemann Platz
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,928.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-05T04:23:00Z,N/A,Wagramer Straße
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1375.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-04T14:44:00Z,N/A,Erich-Sokol-Gasse
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-04T11:35:00Z,N/A,N/A
@@ -159,6 +159,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-01T12:28:00Z,N/A,St. Veit-Gasse 25
 1454429805,POG 81 - Hochwertige Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-01T03:04:00Z,N/A,Pogrelzstraße 81
 942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,1099,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-01T02:57:00Z,N/A,Stammersdorfer Straße 236-238
+1164406289,Vollmöblierte 2 Zimmer-Wohnung mit Balkon in Hofruhelage,"Wien, 14. Bezirk, Penzing",1140,930,2,39,Wien,Wien,N/A,2,Wohnung,2025-07-07T23:41:00Z,930.0,N/A
 1320937022,"Wiener wohnen Direktvergabe Vormerkschein VOR 30.06.2025, 1Zimmer","Wien, 11. Bezirk, Simmering",1110,290,1,49,Wien,Wien,1.0,3 mit Aufz,Wohnung,2025-07-07T23:15:00Z,290.0,Rosa-Jochmann-Ring 5
 1036301327,Neu sanierte 3er WG Studenten Wohnung ab 1.8 bezugsfertig,"Wien, 04. Bezirk, Wieden",1040,1700,4,75,Wien,Wien,N/A,3,Wohnung,2025-07-07T23:15:00Z,1700.0,Rienösslgasse
 1828066339,2 Zimmer Wohnung 13 Bezirk Nähe u4,"Wien, 13. Bezirk, Hietzing",1130,1150,2,62,Wien,Wien,N/A,1,Wohnung,2025-07-07T22:46:00Z,1150.0,N/A
@@ -558,4 +559,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 779192007,Sonnige Mietwohnung in einmaligem k. u. k. Gründerzeithaus,"Wien, 03. Bezirk, Landstraße",1030,1400,0,61,Wien,Wien,1.0,4,Wohnung,2025-07-07T07:55:00Z,1400.0,Eslarngasse 16
 853640090,Großzügige 2-Wohnung mit Hofblick - direkt an der Mariahilfer Straße,"Wien, 07. Bezirk, Neubau",1070,1798.99,2,74,Wien,Wien,1.0,3,Wohnung,2025-07-07T07:55:00Z,1798.99,N/A
 1911629016,Großzügig geschnittene Ein-Zimmer Wohnung in sehr guter Lage im 7. Bezirk,"Wien, 07. Bezirk, Neubau",1070,940.11,1,37,Wien,Wien,1.0,1,Wohnung,2025-07-07T07:55:00Z,940.11,N/A
-1574258425,3-Zimmer Wohnung inkl. Freifläche und Einbauküche- ab August beziehbar. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,1099.94,3,67,Wien,Wien,1.0,2,Wohnung,2025-07-07T07:45:00Z,1099.94,Stammersdorfer Straße 236
