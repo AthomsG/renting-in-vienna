@@ -22,7 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                          | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          480 |            45 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/gemeindewohnung-direktvergabe--vormerkschein-bis-30.06.2025-883828221/)    | Jul 12, 14:30      |
-|          640 |            64 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-1100-direktvergabe-vormerkschein-31.05.2024-1443238457/) | Jul 11, 16:58      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                       | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          480 |            45 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/gemeindewohnung-direktvergabe--vormerkschein-bis-30.06.2025-883828221/) | Jul 12, 14:30      |
