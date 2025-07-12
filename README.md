@@ -24,5 +24,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                          | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          480 |            45 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/direktvergabe--vormerkschein-bis-30.06.2025-883828221/)                    | Jul 12, 14:30      |
 |          700 |            43 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/albrechtskreithgasse-%7C-neubau-%7C-2-zimmer-2039340182/)                | Jul 11, 21:32      |
 |          640 |            64 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-1100-direktvergabe-vormerkschein-31.05.2024-1443238457/) | Jul 11, 16:58      |
