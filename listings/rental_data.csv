@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1555464065,"Kurzzeitvermietung! Traumhafte, schön möblierte 2-Zimmer-Wohnung!","Wien, 07. Bezirk, Neubau",1070,1100,2,45,Wien,Wien,1.0,2,Wohnung,2025-07-12T15:05:00Z,1100.0,Lerchenfelder Gürtel 18
 1779731878,"Sonnige, möblierte 1-Zimmer-Wohnung in zentraler Lage! Kurzzeitvermietung!","Wien, 07. Bezirk, Neubau",1070,770,1,26,Wien,Wien,1.0,2,Wohnung,2025-07-12T14:55:00Z,770.0,Lerchenfelder Gürtel 18
 1346092967,"Kurzzeitvermietung! Traumhaft möblierte, moderne 1-Zimmer-Wohnung!","Wien, 07. Bezirk, Neubau",1070,770,1,29,Wien,Wien,1.0,2,Wohnung,2025-07-12T14:55:00Z,770.0,Lerchenfelder Gürtel 18
 1938713341,Möblierte 1-Zimmer-Wohnung in zentraler Lage! Kurzzeitvermietung!,"Wien, 07. Bezirk, Neubau",1070,770,1,28,Wien,Wien,1.0,2,Wohnung,2025-07-12T14:55:00Z,770.0,Lerchenfelder Gürtel 18
@@ -135,7 +136,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 990468156,3 schlaf-zimmer WG/ Familien-Wohnung direkt neben U4/ U6-Station Längenfeldgasse,"Wien, 12. Bezirk, Meidling",1120,1500,4,85,Wien,Wien,1.0,2,Wohnung,2025-07-11T23:05:00Z,1500.0,Längenfeldgasse 1
 1886713316,Schöne 1-Zimmer-Wohnung,"Wien, 02. Bezirk, Leopoldstadt",1020,896,1,42,Wien,Wien,N/A,2,Wohnung,2025-07-11T22:49:00Z,896.0,Wachaustrasse
 2139932671,Zentrale Wohnung mit großem Balkon und Einbauküche,"Wien, 22. Bezirk, Donaustadt",1220,790,2,48,Wien,Wien,N/A,3,Wohnung,2025-07-11T22:04:00Z,790.0,Senekowitschgasse
-1023240970,"2-Zimmerwohnung, zentral, 860 Euro inkl Betriebskosten","Wien, 10. Bezirk, Favoriten",1100,860,2,55,Wien,Wien,N/A,4,Wohnung,2025-07-11T21:52:00Z,860.0,Fernkorngasse
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1375.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T14:44:00Z,N/A,Erich-Sokol-Gasse
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T09:14:00Z,N/A,Sankt Veit-Gasse
@@ -143,6 +143,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-09T10:45:00Z,N/A,N/A
 1929104823,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-09T09:28:00Z,N/A,N/A
 915235432,Sensationeller ERSTBEZUG! Fußbodenheizung - UND kühlung!,"Wien, 05. Bezirk, Margareten",1050,1225,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-07T15:06:00Z,N/A,N/A
+1397790941,PRIVAT - 3-Zimmer Wohnung mit Balkon und Garage am Rufolf-Bednar Park,"Wien, 02. Bezirk, Leopoldstadt",1020,2101.31,3,79,Wien,Wien,N/A,1,Wohnung,2025-07-13T21:56:00Z,2101.31,N/A
 1838644884,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999,3,92,Wien,Wien,1.0,N/A,Wohnung,2025-07-13T21:40:00Z,1999.0,N/A
 1379903038,SELBER GARTELN : Nähe Selbsterntegarten Ketzergasse!,"Wien, 23. Bezirk, Liesing",1230,1099,3,66,Wien,Wien,1.0,3,Wohnung,2025-07-13T21:40:00Z,1099.0,N/A
 1382373603,"GROßZüGIGE WG, WOHNEN MIT HOME-OFFICE ODER GEMüTLICHE FAMILIENWOHNUNG IN LEBENDIGER UMGEBUNG","Wien, 16. Bezirk, Ottakring",1160,1150,3,85,Wien,Wien,N/A,2,Wohnung,2025-07-13T21:40:00Z,1150.0,N/A
@@ -342,4 +343,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1075061210,Kurzzeitvermietung! Schön möblierte 1-Zimmer-Wohnung im Herzen von Wien!,"Wien, 07. Bezirk, Neubau",1070,770,1,27,Wien,Wien,1.0,3,Wohnung,2025-07-12T15:05:00Z,770.0,Lerchenfelder Gürtel 18
 1322341716,"Kurzzeitvermietung! Charmante, sonnige 1-Zimmer-Wohnung!","Wien, 07. Bezirk, Neubau",1070,770,1,33,Wien,Wien,1.0,3,Wohnung,2025-07-12T15:05:00Z,770.0,Lerchenfelder Gürtel 18
 793013473,"Wunderschöne, möblierte 2-Zimmer-Wohnung! Kurzzeitvermietung!","Wien, 07. Bezirk, Neubau",1070,1250,2,44,Wien,Wien,1.0,3,Wohnung,2025-07-12T15:05:00Z,1250.0,Lerchenfelder Gürtel 18
-1555464065,"Kurzzeitvermietung! Traumhafte, schön möblierte 2-Zimmer-Wohnung!","Wien, 07. Bezirk, Neubau",1070,1100,2,45,Wien,Wien,1.0,2,Wohnung,2025-07-12T15:05:00Z,1100.0,Lerchenfelder Gürtel 18
