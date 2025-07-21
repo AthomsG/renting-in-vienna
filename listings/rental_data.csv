@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1028887815,43m² | Moderne und helle 2-Zimmer-Wohnung im 4. OG | Nahe U4 Friedensbrücke,"Wien, 20. Bezirk, Brigittenau",1200,989,2,43,Wien,Wien,1.0,N/A,Wohnung,2025-07-20T14:24:00Z,989.0,Webergasse
 1779053943,Charmante Altbauwohnung nahe Uni & Hannovermarkt - ideal für Pärchen oder Studierende,"Wien, 20. Bezirk, Brigittenau",1200,1149,2,69,Wien,Wien,N/A,Mezzanin,Wohnung,2025-07-20T14:11:00Z,1149.0,othmargasse
 974686288,High end living! Danube Flats - 38 OG,"Wien, 22. Bezirk, Donaustadt",1220,1980,1,36,Wien,Wien,1.0,38,Wohnung,2025-07-20T13:48:00Z,1980.0,Wagramerstraße 2
 2014486768,3 Zimmer Sonnwendviertel Garage Wienblick Loggia Neubau 1299. -,"Wien, 10. Bezirk, Favoriten",1100,1299,3,62,Wien,Wien,N/A,5,Wohnung,2025-07-20T13:43:00Z,1299.0,bloch bauer promenade
@@ -44,7 +45,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1121384276,"3-Zimmer-Wohnung in Ruhelage - herrlicher, großer GEMEINSCHAFTSGARTEN","Wien, 23. Bezirk, Liesing",1230,1080,3,72,Wien,Wien,N/A,1,Wohnung,2025-07-20T01:13:00Z,1080.0,Khekgasse/Ecke Josef Kutscha Gasse
 1701709142,Wunderschöne helle 2-Zimmer-Neubauwohnung mit großer Terrasse - Grünblick und Ruhelage,"Wien, 17. Bezirk, Hernals",1170,1180,2,62,Wien,Wien,1.0,0,Wohnung,2025-07-20T00:37:00Z,1180.0,N/A
 1965768206,3-Zimmer-Gemeindewohnung zur direktvergabe,"Wien, 22. Bezirk, Donaustadt",1220,889.41,3,87,Wien,Wien,0.0,EG,Wohnung,2025-07-20T00:31:00Z,889.41,Hirschtetten
-1345879545,Helle Wohnung in grüner Gegend - Direktvergabe Gemeindewohnung!,"Wien, 22. Bezirk, Donaustadt",1220,603.77,2,56,Wien,Wien,1.0,6,Wohnung,2025-07-20T00:00:00Z,603.77,saikogasse 6
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,928.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-19T04:23:00Z,N/A,Wagramer Straße
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-18T11:35:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.98,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-18T11:26:00Z,N/A,N/A
@@ -58,6 +58,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-15T12:28:00Z,N/A,St. Veit-Gasse 25
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-15T11:49:00Z,N/A,N/A
 942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-15T02:57:00Z,N/A,Stammersdorfer Straße 236-238
+1223281085,"1010 Wien ab August: Schöne 5-Zimmer Stadtwohnung ca. 138m² am Fleischmarkt; EUR 2.660,- zu vermieten","Wien, 01. Bezirk, Innere Stadt",1010,2659.83,5,138,Wien,Wien,1.0,2,Wohnung,2025-07-21T11:50:00Z,2659.83,Fleischmarkt
 1134307384,Sanierter Wohntraum im Botschaftsviertel mit sehr guter Infrastruktur!,"Wien, 04. Bezirk, Wieden",1040,2981,4,125,Wien,Wien,1.0,3,Wohnung,2025-07-21T11:48:00Z,2981.0,Brucknerstraße
 987100911,With Video! 1 to 6 months rental period! Beautiful furnished 3-room apartment in prime location!,"Wien, 08. Bezirk, Josefstadt",1080,1990,3,85,Wien,Wien,1.0,N/A,Wohnung,2025-07-21T11:47:00Z,1990.0,Josefstädter Straße
 1592486596,2 Zimmer Wohnung im Neubau Zentrum Simmering,"Wien, 11. Bezirk, Simmering",1110,789.43,2,64,Wien,Wien,N/A,1,Wohnung,2025-07-21T11:45:00Z,789.43,N/A
@@ -257,7 +258,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1720763870,38m² | 1. Etage | 2-Zimmer Wohnung | 8m² Balkon | Ausrichtung Süd-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,38,Wien,Wien,1.0,N/A,Wohnung,2025-07-20T14:34:00Z,899.0,Michael-Reś
 1913094587,"Wohnung 80 m² generalsaniert , WG geeignet, ruhig und grün gelegen,","Wien, 10. Bezirk, Favoriten",1100,990,3,80,Wien,Wien,1.0,2,Wohnung,2025-07-20T14:25:00Z,990.0,hardtmuthgasse 121
 2053324904,1. Etage | 2-Zimmer Wohnung | 7m² Balkon | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,N/A,Wohnung,2025-07-20T14:24:00Z,899.0,Michael-Reś
-1028887815,43m² | Moderne und helle 2-Zimmer-Wohnung im 4. OG | Nahe U4 Friedensbrücke,"Wien, 20. Bezirk, Brigittenau",1200,989,2,43,Wien,Wien,1.0,N/A,Wohnung,2025-07-20T14:24:00Z,989.0,Webergasse
+1066822495,2 Zimmerwohnung in Top Lage,"Wien, 07. Bezirk, Neubau",1070,1085,2,60,Wien,Wien,N/A,1,Wohnung,2025-07-22T00:05:00Z,1085.0,Kirchengasse
 813266371,"1100 Wien, LEEBGASSE: sonnige, liebevoll sanierte 2-Zimmer-Altbautraumwohnung, ca. 55 m2 MIT LIFT UNBEFRISTET zu vermieten!","Wien, 10. Bezirk, Favoriten",1100,617,2,55,Wien,Wien,N/A,3,Wohnung,2025-07-21T23:24:00Z,617.0,LEEBGASSE
 854529267,Wohnung mit großzügiger Terrasse,"Wien, 23. Bezirk, Liesing",1230,976,2,54,Wien,Wien,N/A,EG,Wohnung,2025-07-21T23:24:00Z,976.0,N/A
 1463219017,Helle 89 m² Wohnung in Toplage - Erstbezug nach Sanierung - Ideal für Studenten-WG,"Wien, 17. Bezirk, Hernals",1170,1490,3,89,Wien,Wien,1.0,3,Wohnung,2025-07-21T23:22:00Z,1490.0,Hernalser Hauptstraße 80
@@ -657,4 +658,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1623533958,3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1729,3,70,Wien,Wien,1.0,3,Wohnung,2025-07-21T11:52:00Z,1729.0,St. Veit-Gasse 25
 2122593709,## 270° Rundum-Blick - 3 ZIMMER mit großzügigem Balkon - TOP 37 ##,"Wien, 23. Bezirk, Liesing",1230,1323.02,3,81,Wien,Wien,1.0,N/A,Wohnung,2025-07-21T11:52:00Z,1323.02,Rößlergasse
 1911595930,Großzügige 4 Zimmerwohnung mit Südwestbalkon und Blick Richtung Grinzing,"Wien, 19. Bezirk, Döbling",1190,3490.61,4,140,Wien,Wien,1.0,1,Wohnung,2025-07-21T11:52:00Z,3490.61,Langackergasse 15
-1223281085,"1010 Wien ab August: Schöne 5-Zimmer Stadtwohnung ca. 138m² am Fleischmarkt; EUR 2.660,- zu vermieten","Wien, 01. Bezirk, Innere Stadt",1010,2659.83,5,138,Wien,Wien,1.0,2,Wohnung,2025-07-21T11:50:00Z,2659.83,Fleischmarkt
