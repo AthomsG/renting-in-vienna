@@ -1,4 +1,15 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1944355978,| 3 ZIMMER | KOCHINSEL | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,79,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1719.0,Sankt Veit-Gasse
+1037340542,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1249,2,51,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1249.0,Sankt Veit-Gasse
+1852565577,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,70,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1719.0,Sankt Veit-Gasse
+1693339039,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1639,3,72,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1639.0,Sankt Veit-Gasse
+1571679931,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1799,3,76,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1799.0,Sankt Veit-Gasse
+906799339,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1219.0,Sankt Veit-Gasse
+1673422569,| 3 ZIMMER | ZWEI BÄDER | BALKON | ST. VEIT GASSE 25| ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1569,3,70,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1569.0,Sankt Veit-Gasse
+2021194859,Möblierte 2-Zimmer-Wohnung in ruhiger Lage nahe Vetmeduni,"Wien, 21. Bezirk, Floridsdorf",1210,900,2,53,Wien,Wien,N/A,N/A,Wohnung,2025-07-19T20:26:00Z,900.0,donaufelderstraße
+1873779788,"Top-möblierte 2,5-Zimmer-Wohnung nahe U1 - ideal für Firmen, Expats & Studierende - sofort beziehbar!","Wien, 22. Bezirk, Donaustadt",1220,1380,2,40,Wien,Wien,N/A,3,Wohnung,2025-07-19T20:22:00Z,1380.0,klenaugasse
+1865153741,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,52,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:13:00Z,1199.0,Sankt Veit-Gasse
+1932054104,| 3 ZIMMER | KOCHINSEL | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,79,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:13:00Z,1719.0,Sankt Veit-Gasse
 1620530118,| 2 ZIMMER | 3. OG | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219,2,51,Wien,Wien,1.0,3,Wohnung,2025-07-19T20:13:00Z,1219.0,Sankt Veit-Gasse
 964673262,Sonnige Wohnung in 1210 Wien Nähe Franz Jonas Platz,"Wien, 21. Bezirk, Floridsdorf",1210,680,1,38,Wien,Wien,1.0,Dachg./5.,Wohnung,2025-07-19T19:39:00Z,680.0,Schlosshoferstraße 20
 1996923524,"Moderne 2-Zimmer-Wohnung mit Terrasse, Parkettboden & Tiefgaragenparkplatz","Wien, 22. Bezirk, Donaustadt",1220,1150,2,53,Wien,Wien,1.0,2,Wohnung,2025-07-19T19:37:00Z,1150.0,Biberhaufenweg 10 1220 Wien
@@ -75,14 +86,24 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1415929439,Gute Lage: Schöne 2-Zimmer Altbauwohnung nahe Prater,"Wien, 02. Bezirk, Leopoldstadt",1020,990,2,58,Wien,Wien,1.0,3,Wohnung,2025-07-19T09:45:00Z,990.0,Am Tabor
 974057914,Geräumige 2 Zimmerwohnung in U-Bahn Nähe !,"Wien, 21. Bezirk, Floridsdorf",1210,1200,2,78,Wien,Wien,1.0,3,Wohnung,2025-07-19T09:35:00Z,1200.0,N/A
 1453158888,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-07-19T09:34:00Z,1099.0,Pfalzgasse 29
-1023189064,"Großzügige, charmante 137 m² Altbauwohnung I perfekter Grundriss","Wien, 01. Bezirk, Innere Stadt",1010,2879.75,3,137,Wien,Wien,1.0,2,Wohnung,2025-07-19T09:04:00Z,2879.75,Biberstraße
-1840029357,2-ZIMMER WOHNUNG NAHE MEIDLINGER MARKT,"Wien, 12. Bezirk, Meidling",1120,820,2,40,Wien,Wien,1.0,1,Wohnung,2025-07-19T08:54:00Z,820.0,Arndtstraße 68
-1829975064,Altbauwohnung Nähe Schottentor,"Wien, 09. Bezirk, Alsergrund",1090,1300,2,54,Wien,Wien,N/A,1,Wohnung,2025-07-19T08:49:00Z,1300.0,Wasagasse
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.98,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-18T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-18T09:14:00Z,N/A,Sankt Veit-Gasse
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-16T10:45:00Z,N/A,N/A
 1929104823,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-16T09:28:00Z,N/A,N/A
+1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-15T11:49:00Z,N/A,N/A
 942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-15T02:57:00Z,N/A,Stammersdorfer Straße 236-238
+1661922315,EFFENBERGPLATZ - WOHNGENUSS NAHE DER DONAU - VIELE EXTRAS ZUM WOHLFÜHLEN. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,815,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-14T17:14:00Z,N/A,Kaisermühlenstraße 8
+1703499611,"Möblierte 2-ZImmer-Wohnung mit Loggia zu vermieten - 53m², 1160 Wien","Wien, 16. Bezirk, Ottakring",1160,900,2,53,Wien,Wien,1.0,4,Wohnung,2025-07-21T09:08:00Z,900.0,N/A
+1718939075,Arsenalstraße: 2 Zimmer - Wohnen mit Komfort!,"Wien, 10. Bezirk, Favoriten",1100,1366.77,2,56,Wien,Wien,1.0,7,Wohnung,2025-07-21T09:05:00Z,1366.77,Arsenalstraße
+1744492633,"Sanierte 2-Zi-Whg in freistehendem Jahrhundertwendehaus, sonnig, hell, ruhig","Wien, 13. Bezirk, Hietzing",1130,953,2,55,Wien,Wien,N/A,2. Stock,Wohnung,2025-07-21T09:02:00Z,953.0,testarellogasse
+2054315726,Lichtdurchflutete 2-Zimmer Wohnung in 1220 Wien - ab 01.09.2025 verfügbar!,"Wien, 22. Bezirk, Donaustadt",1220,898.99,2,40,Wien,Wien,1.0,6,Wohnung,2025-07-21T08:57:00Z,898.99,Kaisermühlenstraße 8
+2088034139,"Sonnige 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1025,1,46,Wien,Wien,N/A,8,Wohnung,2025-07-21T08:57:00Z,1025.0,N/A
+1435608830,Charmante 4 Zimmerwohnung mit Klimaanlage!,"Wien, 19. Bezirk, Döbling",1190,2670,4,99,Wien,Wien,1.0,2,Wohnung,2025-07-21T08:55:00Z,2670.0,Kaasgrabengasse
+1835437512,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,925,2,45,Wien,Wien,N/A,4,Wohnung,2025-07-21T08:55:00Z,925.0,N/A
+1011310568,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1075,2,45,Wien,Wien,N/A,9,Wohnung,2025-07-21T08:49:00Z,1075.0,N/A
+1423403745,"2 ZI-WOHNUNG IN WIEN - 17. BEZIRK - HERNALS, MÖBLIERT, AUF ZEIT","Wien, 17. Bezirk, Hernals",1170,1896,2,60,Wien,Wien,N/A,2,Wohnung,2025-07-21T08:47:00Z,1896.0,N/A
+1411539606,Gut geschnittene 2-Zimmer-Wohnung an der Lände,"Wien, 03. Bezirk, Landstraße",1030,900,2,45,Wien,Wien,1.0,2,Wohnung,2025-07-21T08:47:00Z,900.0,Erdberger Lände 36
+1493453987,3-Zimmerwohnung mit Pool & Eigengarten!,"Wien, 13. Bezirk, Hietzing",1130,1370,3,50,Wien,Wien,1.0,0,Wohnung,2025-07-21T08:47:00Z,1370.0,Gemeindeberggasse
 2077976596,Single-Hit *Top-Anzeige*,"Wien, 22. Bezirk, Donaustadt",1220,817,2,40,Wien,Wien,N/A,2,Wohnung,2025-07-21T08:44:00Z,817.0,Steinbrechergasse
 1209872030,"DANUBEFLATS - 45m2 Balkon inkl. Möblierung, Pool und Wellness Bereich - U1 vor der Türe! LUXUS LEBEN AM WASSER","Wien, 22. Bezirk, Donaustadt",1220,3500,3,79,Wien,Wien,N/A,25,Wohnung,2025-07-21T08:44:00Z,3500.0,N/A
 1235145149,GRINZING!!! Wunderschöne 4-Zimmer-Neubauwohnung mit 13m² Außenfläche,"Wien, 19. Bezirk, Döbling",1190,2699,4,100,Wien,Wien,N/A,2,Wohnung,2025-07-21T08:07:00Z,2699.0,N/A
@@ -164,8 +185,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 821298618,"Wohnung in Favoriten, 1100, mit guter Anbindung","Wien, 10. Bezirk, Favoriten",1100,370,1,30,Wien,Wien,1.0,2,Wohnung,2025-07-20T16:39:00Z,370.0,eckertgasse 17
 1673478345,"2,5 Zimmer Wohnung mit Balkon in der Patrizigasse zu vermieten!","Wien, 21. Bezirk, Floridsdorf",1210,919,3,67,Wien,Wien,1.0,4,Wohnung,2025-07-20T16:34:00Z,919.0,N/A
 1682867657,"2 Zimmer Gemeindewohnung zu vergeben, Stichtag 30.06.2025","Wien, 14. Bezirk, Penzing",1140,515.67,2,46,Wien,Wien,N/A,2,Wohnung,2025-07-20T16:30:00Z,515.67,N/A
-1893604330,DIE ZIMMEREI | Helles 2-Zimmer-Apartment mit Balkon im 2. Bezirk | Leopoldstadt | Maxi Bude,"Wien, 02. Bezirk, Leopoldstadt",1020,950,2,36,Wien,Wien,1.0,10,Wohnung,2025-07-20T16:28:00Z,950.0,Vorgartenstraße 204
 940815722,Kleines refugium,"Wien, 10. Bezirk, Favoriten",1100,924,2,55,Wien,Wien,N/A,1,Wohnung,2025-07-20T16:28:00Z,924.0,Oberlaaerstrasse
+1893604330,DIE ZIMMEREI | Helles 2-Zimmer-Apartment mit Balkon im 2. Bezirk | Leopoldstadt | Maxi Bude,"Wien, 02. Bezirk, Leopoldstadt",1020,950,2,36,Wien,Wien,1.0,10,Wohnung,2025-07-20T16:28:00Z,950.0,vorgartenstraße 204
 1232690743,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,84,Wien,Wien,1.0,2,Wohnung,2025-07-20T16:24:00Z,1311.4,Anni-Haider-Weg 3
 1517677809,*AKH Nähe* 1-Zimmer Wohnung komplett neu modern saniert,"Wien, 17. Bezirk, Hernals",1170,850,0,45,Wien,Wien,N/A,N/A,Wohnung,2025-07-20T16:14:00Z,850.0,palffygasse
 1656203558,(reserviert) Schöne 2-Zimmer-Wohnung mit zusätzlichem Kabinett in top Lage - Nachmieter*in ab 1. oder 15. September 2025 gesucht,"Wien, 20. Bezirk, Brigittenau",1200,885.46,3,57,Wien,Wien,N/A,1,Wohnung,2025-07-20T15:58:00Z,885.46,N/A
@@ -272,14 +293,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1610678639,| 2 ZIMMER | 3. OG | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1259,2,51,Wien,Wien,1.0,3,Wohnung,2025-07-19T20:33:00Z,1259.0,Sankt Veit-Gasse
 1446569199,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1099,2,41,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1099.0,Sankt Veit-Gasse
 1737891065,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1159,2,51,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1159.0,Sankt Veit-Gasse
-1944355978,| 3 ZIMMER | KOCHINSEL | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,79,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1719.0,Sankt Veit-Gasse
-1037340542,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1249,2,51,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:33:00Z,1249.0,Sankt Veit-Gasse
-1852565577,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,70,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1719.0,Sankt Veit-Gasse
-1693339039,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1639,3,72,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1639.0,Sankt Veit-Gasse
-1571679931,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1799,3,76,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1799.0,Sankt Veit-Gasse
-906799339,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1219.0,Sankt Veit-Gasse
-1673422569,| 3 ZIMMER | ZWEI BÄDER | BALKON | ST. VEIT GASSE 25| ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1569,3,70,Wien,Wien,1.0,1,Wohnung,2025-07-19T20:33:00Z,1569.0,Sankt Veit-Gasse
-2021194859,Möblierte 2-Zimmer-Wohnung in ruhiger Lage nahe Vetmeduni,"Wien, 21. Bezirk, Floridsdorf",1210,900,2,53,Wien,Wien,N/A,N/A,Wohnung,2025-07-19T20:26:00Z,900.0,donaufelderstraße
-1873779788,"Top-möblierte 2,5-Zimmer-Wohnung nahe U1 - ideal für Firmen, Expats & Studierende - sofort beziehbar!","Wien, 22. Bezirk, Donaustadt",1220,1380,2,40,Wien,Wien,N/A,3,Wohnung,2025-07-19T20:22:00Z,1380.0,klenaugasse
-1865153741,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,52,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:13:00Z,1199.0,Sankt Veit-Gasse
-1932054104,| 3 ZIMMER | KOCHINSEL | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,79,Wien,Wien,1.0,2,Wohnung,2025-07-19T20:13:00Z,1719.0,Sankt Veit-Gasse
