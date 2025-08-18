@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1317022486,Terrasse mit Morgensonne und Grünblick,"Wien, 21. Bezirk, Floridsdorf",1210,1195,3,70,Wien,Wien,1.0,2,Wohnung,2025-08-17T16:04:00Z,1195.0,Bernreiterplatz 13
 1011921844,PROVISIONSFREI - 145qm Wohnbüro - neu saniert-sonnig - Weitblick,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1780,7,145,Wien,Wien,1.0,3,Wohnung,2025-08-17T16:03:00Z,1780.0,Wieninger Platz
 959231671,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1035.1,2,62,Wien,Wien,1.0,0,Wohnung,2025-08-17T15:27:00Z,1035.1,Anni-Haider-Weg 3
 1531694659,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,952.21,2,65,Wien,Wien,1.0,0,Wohnung,2025-08-17T15:27:00Z,952.21,Anni-Haider-Weg 3
@@ -69,7 +70,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2135872409,WOHNEN MIT QUALITÄT ? STILVOLL IM 21. BEZIRK,"Wien, 21. Bezirk, Floridsdorf",1210,1834.8,0,N/A,Wien,Wien,N/A,N/A,Wohnung,2025-08-17T02:19:00Z,1834.8,N/A
 1374379512,2 Zimmer Wohnung mit schönen Balkon & Garagenplatz in 21 zu vermieten / Privat ( wenige Minuten von Alte Donau),"Wien, 21. Bezirk, Floridsdorf",1210,1050,2,59,Wien,Wien,N/A,2,Wohnung,2025-08-17T00:51:00Z,1050.0,Siegfriedgasse
 1682867657,"(Reserviert) Vollmöblierte 2 Zimmer Gemeindewohnung zu vergeben, Stichtag 30.06.2025","Wien, 14. Bezirk, Penzing",1140,500,2,46,Wien,Wien,N/A,2,Wohnung,2025-08-17T00:08:00Z,500.0,N/A
-1009957161,3 Zimmer Gemeindewohnung zum Direkt Vergabe,"Wien, 23. Bezirk, Liesing",1230,796,3,86,Wien,Wien,1.0,3,Wohnung,2025-08-16T23:09:00Z,796.0,BreitenfurterStrasse 401-413
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,928.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-16T04:23:00Z,N/A,Wagramer Straße
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1375.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-15T14:44:00Z,N/A,Erich-Sokol-Gasse
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-08-15T11:35:00Z,N/A,N/A
@@ -89,6 +89,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-12T11:49:00Z,N/A,Donau-City Straße 8A
 2031094742,Villa Mauerbach2 - exklusives Wohnen in grüner Stadtrandlage - Erstbezugswohnungen mit Balkon/Garten/Terrasse - bezugsfertig ab September! JETZT VORMERKEN!,"Wien, 14. Bezirk, Penzing",1140,1450.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-12T09:54:00Z,N/A,N/A
 962789053,"Am Langen Felde 52, 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,769,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-12T08:44:00Z,N/A,Am langen Felde 52
+1503634017,*AB SOFORT* - Helle 2-Zimmer-Wohnung mit Loggia | Zentral & ruhig | Traum für Paare & StudentInnen!,"Wien, 10. Bezirk, Favoriten",1100,1089.79,2,62,Wien,Wien,1.0,4,Wohnung,2025-08-18T12:14:00Z,1089.79,Karmarschgasse 51
 1801494245,Ruhige 2 Zimmer Wohnung Nähe Schönbrunn,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1100,2,50,Wien,Wien,1.0,2,Wohnung,2025-08-18T12:07:00Z,1100.0,Goldschlagstraße 90-92
 1298310535,GARTEN | 2 ZIMMER | TERRASSE | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER,"Wien, 13. Bezirk, Hietzing",1130,1169,2,48,Wien,Wien,1.0,0,Wohnung,2025-08-18T12:03:00Z,1169.0,St. Veit-Gasse 25
 1119221143,Bright and charming furnished 1-bedroom-flat to rent,"Wien, 05. Bezirk, Margareten",1050,1420,1,52,Wien,Wien,N/A,3,Wohnung,2025-08-18T12:01:00Z,1420.0,N/A
@@ -288,7 +289,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 981149266,Loftartige 4 Zimmer Wohnung ca. 235m² in Toplage des 7. Bezirks,"Wien, 07. Bezirk, Neubau",1070,4797.93,4,235,Wien,Wien,1.0,2,Wohnung,2025-08-17T16:45:00Z,4797.93,N/A
 1232690743,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,84,Wien,Wien,1.0,2,Wohnung,2025-08-17T16:24:00Z,1311.4,Anni-Haider-Weg 3
 2138526312,Gemeindebauwohnung mit Balkon,"Wien, 17. Bezirk, Hernals",1170,600,2,53,Wien,Wien,N/A,N/A,Wohnung,2025-08-17T16:09:00Z,600.0,Kastnergasse
-1317022486,Terrasse mit Morgensonne und Grünblick,"Wien, 21. Bezirk, Floridsdorf",1210,1195,3,70,Wien,Wien,1.0,2,Wohnung,2025-08-17T16:04:00Z,1195.0,Bernreiterplatz 13
+1537823522,Helle 4.5 -Zimmer-Traumwohnung mit Loggia & Garage - Nähe U1 Troststraße!,"Wien, 10. Bezirk, Favoriten",1100,2100,4,118,Wien,Wien,N/A,4,Wohnung,2025-08-18T23:10:00Z,2100.0,N/A
 1860130989,3-Zimmer-Wohnung mit Loggia | Top-Lage nahe Schönbrunn & VIO Plaza,"Wien, 12. Bezirk, Meidling",1120,1399,3,84,Wien,Wien,N/A,l1,Wohnung,2025-08-18T22:38:00Z,1399.0,Bischoffgasse
 1188217985,Lichtdurchflutete Wohnung in gediegener Gegend - WG-Eignung,"Wien, 19. Bezirk, Döbling",1190,1050,3,69,Wien,Wien,1.0,2,Wohnung,2025-08-18T22:23:00Z,1050.0,Barawitzkagasse 13a
 1702930463,Top renoviert!,"Wien, 12. Bezirk, Meidling",1120,789,2,42,Wien,Wien,1.0,5,Wohnung,2025-08-18T21:50:00Z,789.0,Vivenotgasse 3
@@ -688,4 +689,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2092610346,Schöner 2-Zimmer-Neubau in U-Bahnnähe,"Wien, 14. Bezirk, Penzing",1140,929,2,36,Wien,Wien,1.0,4,Wohnung,2025-08-18T12:16:00Z,929.0,N/A
 1369116316,"Weimarer Straße | 192,45 m² | 5 Zimmer | 3 Balkone | 2 Bäder | 10 Jahre befristete Vermietung","Wien, 19. Bezirk, Döbling",1190,3490,5,192,Wien,Wien,1.0,2,Wohnung,2025-08-18T12:16:00Z,3490.0,N/A
 1287239164,*PROVISIONSFREI* 1-Zimmer-Wohnung ohne WC (am Gang) in ruhiger Lage,"Wien, 12. Bezirk, Meidling",1120,445,1,25,Wien,Wien,1.0,2,Wohnung,2025-08-18T12:14:00Z,445.0,Hilschergasse -
-1503634017,*AB SOFORT* - Helle 2-Zimmer-Wohnung mit Loggia | Zentral & ruhig | Traum für Paare & StudentInnen!,"Wien, 10. Bezirk, Favoriten",1100,1089.79,2,62,Wien,Wien,1.0,4,Wohnung,2025-08-18T12:14:00Z,1089.79,Karmarschgasse 51
