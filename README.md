@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                   | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       787.74 |            59 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sch%C3%B6ne-2-zimmer-wohnung-muhrengasse-2.stock-ohne-lift-%21%21%21-1630626025/) | Aug 23, 14:04      |
-|       416    |            39 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/gemeindewohnung-mit-vormerkschein-bis-30.06.25-1349787911/)                 | Aug 22, 19:09      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                     | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       750    |            33 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/stylisch-kompakt-zentral---dein-neuer-r%C3%BCckzugsort-1767116053/) | Aug 23, 17:24      |
+|       787.74 |            59 |          2 | 10. Favoriten            | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sch%C3%B6ne-2-zimmer-wohnung-muhrengasse-2.stock-ohne-lift-%21%21%21-1630626025/)   | Aug 23, 14:04      |
+|       416    |            39 |          2 | 03. Landstraße           | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/gemeindewohnung-mit-vormerkschein-bis-30.06.25-1349787911/)                   | Aug 22, 19:09      |
