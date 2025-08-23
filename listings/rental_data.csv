@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1323033129,ALL-INCLUSIVE MIETE | VOLLMÖBLIERT | FLEXIBLE MIETDAUER | 4-ZIMMER-WOHNUNG IN 1090 WIEN,"Wien, 09. Bezirk, Alsergrund",1090,2999,4,98,Wien,Wien,1.0,3,Wohnung,2025-08-22T11:00:00Z,2999.0,N/A
 1661964491,Elegante Altbauwohnung mit Klimaanlage,"Wien, 01. Bezirk, Innere Stadt",1010,3778.3,4,166,Wien,Wien,1.0,3,Wohnung,2025-08-22T11:00:00Z,3778.3,Krugerstraße 4/7
 1295182456,ALL-INCLUSIVE MIETE | VOLLMÖBLIERT | FLEXIBLE MIETDAUER | MODERNES STUDIO APARTMENT IN 1090 WIEN,"Wien, 09. Bezirk, Alsergrund",1090,1150,1,34,Wien,Wien,1.0,4,Wohnung,2025-08-22T11:00:00Z,1150.0,N/A
 1261061460,ALL-INCLUSIVE MIETE | VOLLMÖBLIERT | FLEXIBLE MIETDAUER | MODERNES STUDIO APARTMENT IN 1090 WIEN,"Wien, 09. Bezirk, Alsergrund",1090,1150,1,32,Wien,Wien,1.0,4,Wohnung,2025-08-22T11:00:00Z,1150.0,N/A
@@ -133,7 +134,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1250985153,"Grünblick im Prater (Concierge, Pool & Sauna) - Erstbezug","Wien, 02. Bezirk, Leopoldstadt",1020,1700,2,55,Wien,Wien,1.0,5,Wohnung,2025-08-21T23:06:00Z,1700.0,Meiereistrasse 14
 1801080821,"Nachmieter für Privatwohnung gesucht (54 qm / EUR 597,25)","Wien, 10. Bezirk, Favoriten",1100,597.25,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-08-21T22:19:00Z,597.25,Braunspergengasse 10/20
 1673260176,Wohntraum zwischen Augarten und Donaukanal,"Wien, 02. Bezirk, Leopoldstadt",1020,1033.14,2,55,Wien,Wien,N/A,2,Wohnung,2025-08-21T21:56:00Z,1033.14,Rembrandtstraße
-1310347254,"ALTBAUTRAUM | SONNIG | 3,5 ZIMMER | 3.STOCK | ERSTBEZUG NACH KOMPLETTSANIERUNG","Wien, 19. Bezirk, Döbling",1190,2089.38,4,147,Wien,Wien,1.0,3. Stock,Wohnung,2025-08-21T21:42:00Z,2089.38,N/A
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-21T10:26:00Z,N/A,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-20T21:41:00Z,N/A,N/A
 725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,775,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-20T12:05:00Z,N/A,Effenbergplatz
@@ -146,6 +146,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1661922315,EFFENBERGPLATZ - WOHNGENUSS NAHE DER DONAU - VIELE EXTRAS ZUM WOHLFÜHLEN. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,917.19,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-18T17:14:00Z,N/A,Kaisermühlenstraße 8
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,1499.91,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-08-18T16:13:00Z,N/A,N/A
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-12T12:39:00Z,N/A,N/A
+1241921341,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-08-22T18:09:00Z,1099.0,Podhagskygasse 12
 2082225224,Modern Living at Vienna's Central Station - Provisionsfreie Mietwohnungen,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-08-22T18:06:00Z,N/A,Karl-Popper-Straße 5
 2012745404,Bestens aufgeteilte Zweizimmerwohnung bei U3 Hütteldorfer Straße,"Wien, 14. Bezirk, Penzing",1140,1287.96,2,62,Wien,Wien,N/A,3,Wohnung,2025-08-22T18:02:00Z,1287.96,Grassigasse 2 / Hüttelsdorfer Straße 108
 1657350729,"GENERALSANIERTES ALTBAUJUWEL MIT 4,5 ZIMMERN - RUHIG - HELL - BALKON - AUSSENBESCHATTUNG - NÄHE U1 SÜDTIROLERPLATZ","Wien, 04. Bezirk, Wieden",1040,2990,5,144,Wien,Wien,1.0,N/A,Wohnung,2025-08-22T17:57:00Z,2990.0,FAVORITENSTRASSE 70
@@ -345,7 +346,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 827507842,++FonteFlats++ Hochwertiger 4-Zimmer Neubau-ERSTBEZUG mit toller Terrasse!,"Wien, 10. Bezirk, Favoriten",1100,2270,4,103,Wien,Wien,1.0,4,Wohnung,2025-08-22T11:02:00Z,2270.0,N/A
 1758001539,FLO07 - Malerische 2-Zimmer-Wohnung mit Blick auf den Kahlenberg an der Alten Donau mit Loggia,"Wien, 21. Bezirk, Floridsdorf",1210,789,2,40,Wien,Wien,1.0,6,Wohnung,2025-08-22T11:02:00Z,789.0,Floridsdorfer Hauptstraße 7-9
 963147479,ALL-INCLUSIVE MIETE | VOLLMÖBLIERT | FLEXIBLE MIETDAUER | 3-ZIMMER-WOHNUNG in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,2699,3,87,Wien,Wien,1.0,1,Wohnung,2025-08-22T11:00:00Z,2699.0,N/A
-1323033129,ALL-INCLUSIVE MIETE | VOLLMÖBLIERT | FLEXIBLE MIETDAUER | 4-ZIMMER-WOHNUNG IN 1090 WIEN,"Wien, 09. Bezirk, Alsergrund",1090,2999,4,98,Wien,Wien,1.0,3,Wohnung,2025-08-22T11:00:00Z,2999.0,N/A
+1965036200,"Nähe Alte Donau, provisionsfrei! Traumhafte 2 Zi -Wohnung, mit Loggia und Blick in den grünen Innenhof","Wien, 21. Bezirk, Floridsdorf",1210,899,2,60,Wien,Wien,1.0,2,Wohnung,2025-08-23T21:44:00Z,899.0,Mengergasse 50
 1540444090,"Stilvolles Business-Apartment mit Fernblick - Komfortabel, zentral und sofort bezugsbereit - All-in Miete, Top-Lage nahe U4 (provisionsfrei, flexible Mietdauer)","Wien, 12. Bezirk, Meidling",1120,1590,2,60,Wien,Wien,1.0,N/A,Wohnung,2025-08-23T21:35:00Z,1590.0,N/A
 951577152,"Sonnenlicht, Stil & Stadtnähe - 2,5 Zimmer-DG-Wohnung mit Balkon in Grünruhelage","Wien, 12. Bezirk, Meidling",1120,1390,2,80,Wien,Wien,1.0,N/A,Wohnung,2025-08-23T20:37:00Z,1390.0,N/A
 1073578501,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,2,Wohnung,2025-08-23T20:33:00Z,1199.0,Sankt Veit-Gasse
@@ -545,4 +546,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 883233440,38m² | 1. Etage | 2-Zimmer Wohnung | 8m² Balkon | Ausrichtung Süd-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,38,Wien,Wien,1.0,1,Wohnung,2025-08-22T18:57:00Z,899.0,Michael-Reś
 915682797,2 Dachterrassen & 2 Monate mietfrei - 3-Zimmer-DG-Wohnung mit Kühlung,"Wien, 22. Bezirk, Donaustadt",1220,1499,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-08-22T18:32:00Z,1499.0,Podhagskygasse 12
 698227033,Repräsentative Luxus-Altbauwohnung in toller innerstädtischer Lage! Prächtiger Altbau an einem ruhigen Platzl in 1010 Wien! Einziehen und Wohlfühlen...,"Wien, 01. Bezirk, Innere Stadt",1010,4620,4,153,Wien,Wien,1.0,2,Wohnung,2025-08-22T18:25:00Z,4620.0,N/A
-1241921341,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-08-22T18:09:00Z,1099.0,Podhagskygasse 12
