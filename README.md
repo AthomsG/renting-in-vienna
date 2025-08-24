@@ -22,6 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                   | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       787.74 |            59 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sch%C3%B6ne-2-zimmer-wohnung-muhrengasse-2.stock-ohne-lift-%21%21%21-1630626025/) | Aug 23, 14:04      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                         | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       784.28 |            48 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/h%C3%BCbsche-2-zimmer-wohnung---n%C3%A4he-elterleinplatz---4.-stock-mit-lift-1505836258/) | Aug 24, 09:24      |
+|       787.74 |            59 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sch%C3%B6ne-2-zimmer-wohnung-muhrengasse-2.stock-ohne-lift-%21%21%21-1630626025/)       | Aug 23, 14:04      |
