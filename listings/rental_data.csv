@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1872448587,(reserviert) CHARMANTE 2-ZIMMER WOHNUNG IN RUHIGER LAGE,"Wien, 14. Bezirk, Penzing",1140,600,2,37,Wien,Wien,1.0,1,Wohnung,2025-08-24T20:31:00Z,600.0,Ameisgasse 27
 940953955,ALL IN!! Möblierte 3-Zimmer Wohnung in bester Lage im 3. Bezirk,"Wien, 03. Bezirk, Landstraße",1030,1700,3,78,Wien,Wien,N/A,N/A,Wohnung,2025-08-24T20:22:00Z,1700.0,Hintzerstraße
 1945735306,Moderne 2-Zimmerwohnung I 100m zur U3-Station Kendlerstraße,"Wien, 16. Bezirk, Ottakring",1160,793.65,2,38,Wien,Wien,N/A,1,Wohnung,2025-08-24T19:54:00Z,793.65,Adolf-Czettel-Gasse
 1216504833,"(reserviert) Helle 1-Zimmer-Wohnung, 38 m² - Top Anbindung","Wien, 10. Bezirk, Favoriten",1100,590,1,38,Wien,Wien,N/A,4,Wohnung,2025-08-24T19:47:00Z,590.0,Zohmanngasse
@@ -88,7 +89,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 245438937,Wohnung ruhig hell voll möbliert,"Wien, 02. Bezirk, Leopoldstadt",1020,2200,2,74,Wien,Wien,N/A,4,Wohnung,2025-08-24T01:04:00Z,2200.0,Springergasse
 785068751,Direktvergabe Gemeindewohnung 3 Zimmer,"Wien, 22. Bezirk, Donaustadt",1220,862,3,79,Wien,Wien,N/A,4,Wohnung,2025-08-23T22:06:00Z,862.0,Herbert-boeckl-weg
 1009328392,Wunderschöne Wohnung im Boho Stil direkt an der U-Bahn,"Wien, 10. Bezirk, Favoriten",1100,935,2,65,Wien,Wien,N/A,N/A,Wohnung,2025-08-23T22:00:00Z,935.0,Ettenreichgasse
-1965036200,"Nähe Alte Donau, provisionsfrei! Traumhafte 2 Zi -Wohnung, mit Loggia und Blick in den grünen Innenhof","Wien, 21. Bezirk, Floridsdorf",1210,899,2,60,Wien,Wien,1.0,2,Wohnung,2025-08-23T21:44:00Z,899.0,Mengergasse 50
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,928.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-23T04:23:00Z,N/A,Wagramer Straße
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1849.15,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-22T14:44:00Z,N/A,Erich-Sokol-Gasse
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-08-22T11:35:00Z,N/A,N/A
@@ -106,6 +106,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T12:28:00Z,N/A,St. Veit-Gasse 25
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T11:49:00Z,N/A,Donau-City Straße 8A
 2031094742,Villa Mauerbach2 - exklusives Wohnen in grüner Stadtrandlage - Erstbezugswohnungen mit Balkon/Garten/Terrasse - bezugsfertig ab September! JETZT VORMERKEN!,"Wien, 14. Bezirk, Penzing",1140,1450.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T09:54:00Z,N/A,N/A
+1806641508,"149 m² Altbaucharme in Toplage - 5 Zimmer + Kabinett, 2 Balkone, Nähe Westbahnhof & Mariahilfer Straße","Wien, 06. Bezirk, Mariahilf",1060,2020,4,149,Wien,Wien,1.0,3,Wohnung,2025-08-25T12:16:00Z,2020.0,Wallgasse
 2092610346,Schöner 2-Zimmer-Neubau in U-Bahnnähe,"Wien, 14. Bezirk, Penzing",1140,929,2,36,Wien,Wien,1.0,4,Wohnung,2025-08-25T12:16:00Z,929.0,N/A
 851911168,Eleganz und Komfort vereint: Ihre neue Residenz in Wien,"Wien, 03. Bezirk, Landstraße",1030,4852.22,6,258,Wien,Wien,1.0,1,Wohnung,2025-08-25T12:15:00Z,4852.22,N/A
 902301753,Super aufgeteilte 3-Zimmer-Wohnung inkl. großer Freifläche!,"Wien, 05. Bezirk, Margareten",1050,1120.33,3,55,Wien,Wien,1.0,5,Wohnung,2025-08-25T12:14:00Z,1120.33,Zentagasse 11-13
@@ -305,7 +306,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1187438720,Gemeindewohnung Direktvergabe,"Wien, 03. Bezirk, Landstraße",1030,670,3,65,Wien,Wien,N/A,4,Wohnung,2025-08-24T21:03:00Z,670.0,am modenapark
 1980845793,"Heizung, Strom, Internet+TV & Fitness inklusive! Serviced Apartment im TABA Tower!","Wien, 10. Bezirk, Favoriten",1100,1017,1,32,Wien,Wien,1.0,5,Wohnung,2025-08-24T20:34:00Z,1017.0,Kurbadstraße 8
 920237698,"Generalsanierte 2-Zimmer-Wohnung - ideal auch als 2er WG, eigene Küchenauswahl!","Wien, 06. Bezirk, Mariahilf",1060,895,0,N/A,Wien,Wien,1.0,4,Wohnung,2025-08-24T20:33:00Z,895.0,N/A
-1872448587,(reserviert) CHARMANTE 2-ZIMMER WOHNUNG IN RUHIGER LAGE,"Wien, 14. Bezirk, Penzing",1140,600,2,37,Wien,Wien,1.0,1,Wohnung,2025-08-24T20:31:00Z,600.0,Ameisgasse 27
+779649816,Provisionsfrei: Hochwertig ausgestattetes Apartment mit Balkon in Toplage nahe U3 Rochusgasse!,"Wien, 03. Bezirk, Landstraße",1030,2900,3,119,Wien,Wien,1.0,4,Wohnung,2025-08-25T21:38:00Z,2900.0,N/A
 1627404438,Direktvergabe Wiener Gemeindebauwohnung VMD vor 31.07.2025,"Wien, 09. Bezirk, Alsergrund",1090,323,2,44,Wien,Wien,1.0,1,Wohnung,2025-08-25T21:38:00Z,323.0,Reznicekgasse 18-22
 1119067161,"FLOH23: Moderne, barrierefreie 2-Zimmer-Wohnung mit Garten und Terrasse.","Wien, 21. Bezirk, Floridsdorf",1210,937.59,0,42,Wien,Wien,1.0,0,Wohnung,2025-08-25T21:32:00Z,937.59,N/A
 1009919442,LAENDYARD | Charmante 2-Zimmer-Wohnung in Donaukanal Nähe,"Wien, 03. Bezirk, Landstraße",1030,919.45,2,44,Wien,Wien,N/A,7,Wohnung,2025-08-25T21:25:00Z,919.45,N/A
@@ -705,4 +706,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 789975620,"Helle 5-Zimmer-Wohnung mit Westbalkon, Klimaanlage und Tiefgarage","Wien, 19. Bezirk, Döbling",1190,3725,5,170,Wien,Wien,1.0,3,Wohnung,2025-08-25T12:17:00Z,3725.0,N/A
 1421887001,traumhafte Terrassenwohnung nahe dem Parlament- befristet,"Wien, 01. Bezirk, Innere Stadt",1010,2604.78,2,72,Wien,Wien,1.0,N/A,Wohnung,2025-08-25T12:17:00Z,2604.78,"Parlament, Rathausplatz, Volksgarten"
 2146581238,"Klassik & Design - Exklusive Stilwohnung mit Stuck, Kochinsel & edler Ausstattung","Wien, 07. Bezirk, Neubau",1070,4625.01,5,191,Wien,Wien,1.0,2,Wohnung,2025-08-25T12:16:00Z,4625.01,Kirchengasse 41
-1806641508,"149 m² Altbaucharme in Toplage - 5 Zimmer + Kabinett, 2 Balkone, Nähe Westbahnhof & Mariahilfer Straße","Wien, 06. Bezirk, Mariahilf",1060,2020,4,149,Wien,Wien,1.0,3,Wohnung,2025-08-25T12:16:00Z,2020.0,Wallgasse
