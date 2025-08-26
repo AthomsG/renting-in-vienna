@@ -1,5 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1771212985,Neubauwohnung nahe U1 Kagraner Platz - Ideal für Zwei,"Wien, 22. Bezirk, Donaustadt",1220,999,2,50,Wien,Wien,1.0,2,Wohnung,2025-08-25T03:17:00Z,999.0,Bertha-von-Suttner-Gasse 12
 1065080590,Familientraum - Reihenhaus im grünen Wildgarten mit mehreren Freiflächen,"Wien, 12. Bezirk, Meidling",1120,1890,4,115,Wien,Wien,1.0,0,Wohnung,2025-08-25T03:08:00Z,1890.0,Emil-Behring-Weg
 1541873678,MÖBLIERTER ERSTBEZUG,"Wien, 19. Bezirk, Döbling",1190,1320,1,40,Wien,Wien,N/A,N/A,Wohnung,2025-08-25T02:23:00Z,1320.0,N/A
 930188526,BEZUGSFERTIGER ERSTBEZUG,"Wien, 19. Bezirk, Döbling",1190,1485,3,70,Wien,Wien,N/A,N/A,Wohnung,2025-08-25T02:23:00Z,1485.0,N/A
@@ -132,6 +131,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T12:28:00Z,N/A,St. Veit-Gasse 25
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T11:49:00Z,N/A,Donau-City Straße 8A
 2031094742,Villa Mauerbach2 - exklusives Wohnen in grüner Stadtrandlage - Erstbezugswohnungen mit Balkon/Garten/Terrasse - bezugsfertig ab September! JETZT VORMERKEN!,"Wien, 14. Bezirk, Penzing",1140,1450.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-19T09:54:00Z,N/A,N/A
+886089807,"Neubau Studio mit Freifläche in unmittelbare Nähe zum Hauptbahnhof, Rooftop, Lounge, Fitnessraum","Wien, 10. Bezirk, Favoriten",1100,1435,2,44,Wien,Wien,1.0,19,Wohnung,2025-08-26T06:36:00Z,1435.0,Karl-popper-straße 5
 881291568,2-ZIMMERWOHNUNG MIT SEPARATE KÜCHE NÄHE PILGRAMGASSE! Schönbrunner Straße 94/17,"Wien, 05. Bezirk, Margareten",1050,1258.4,2,69,Wien,Wien,N/A,3,Wohnung,2025-08-26T06:28:00Z,1258.4,N/A
 2031468036,GROSZÜGIGE 2-ZIMMERWOHNUNG NÄHE BENNOPLATZ! Bennogasse 23/10,"Wien, 08. Bezirk, Josefstadt",1080,1122.95,2,62,Wien,Wien,N/A,2,Wohnung,2025-08-26T06:24:00Z,1122.95,N/A
 866939993,"Videorundgang: Hofseitige 1Zmr.-Altbauwohnung in der Währinger Straße, 2.Stock ohne Lift","Wien, 09. Bezirk, Alsergrund",1090,900,1,45,Wien,Wien,1.0,2,Wohnung,2025-08-26T06:04:00Z,900.0,Währinger Straße
@@ -226,7 +226,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 965708792,WOHNUNG,"Wien, 12. Bezirk, Meidling",1120,580,2,48,Wien,Wien,N/A,1,Wohnung,2025-08-25T18:11:00Z,580.0,N/A
 1059932805,"Sonnige, zentrale und moderne möblierte Wohnung mit Balkon #PROVISIONSFREI","Wien, 10. Bezirk, Favoriten",1100,1145,2,53,Wien,Wien,1.0,6,Wohnung,2025-08-25T18:10:00Z,1145.0,Leibnizgasse 34
 1281346169,Ruhig und modern: Neubau-Wohnung mit Balkon,"Wien, 19. Bezirk, Döbling",1190,1670,3,70,Wien,Wien,N/A,3,Wohnung,2025-08-25T18:06:00Z,1670.0,N/A
-1161931701,Neuwertiges 2 Zimmer-Apartment mit Terrasse | ZELLMANN IMMOBILIEN,"Wien, 13. Bezirk, Hietzing",1130,847,2,42,Wien,Wien,1.0,N/A,Wohnung,2025-08-25T18:04:00Z,847.0,Preyergasse 5
 1111998401,READY TO LIVE- LUXURIÖS MÖBLIERTES SERVICED LOFT. ALL IN. PROVISIONSFFREI,"Wien, 09. Bezirk, Alsergrund",1090,1800,1,40,Wien,Wien,1.0,N/A,Wohnung,2025-08-25T17:56:00Z,1800.0,N/A
 1589204415,"NEW & completely furnished with Doorman, Gym, Spa, Pool, Lounges, Supermarket in the tower","Wien, 22. Bezirk, Donaustadt",1220,1557.11,2,45,Wien,Wien,N/A,9,Wohnung,2025-08-25T17:56:00Z,1557.11,N/A
 1934404816,Sonnige 3-Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1690.01,3,66,Wien,Wien,N/A,16,Wohnung,2025-08-25T17:49:00Z,1690.01,N/A
