@@ -22,7 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       791.79 |            42 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/neu%21-ideale-2-zimmerwohnung-mit-perfekter-verkehrsanbindung%21-1805768083/)  | Aug 29, 16:54      |
-|       545.79 |            51 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/direktvergabe-wiener-wohnen-nur-mit-vormerkscheindatum-31.03.2025-1320133045/) | Aug 28, 20:03      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                               | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       791.79 |            42 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/neu%21-ideale-2-zimmerwohnung-mit-perfekter-verkehrsanbindung%21-1805768083/) | Aug 29, 16:54      |
