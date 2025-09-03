@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                 | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          740 |            55 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/helle-2-zimmer-wohnung-n%C3%A4he-u4-station-unter-st.-veit-1542401214/)           | Sep 03, 13:12      |
-|          440 |            50 |          2 | 11. Simmering  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/wohnung-mit-vormerkschein-zu-vergeben---direktvergabe-ab-september-1271186979/) | Sep 02, 16:38      |
-|          523 |            45 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/gemeindewohnung-in-1030-wien-1296450408/)                                 | Sep 02, 14:24      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                 | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          740 |            55 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/helle-2-zimmer-wohnung-n%C3%A4he-u4-station-unter-st.-veit-1542401214/)           | Sep 03, 13:12      |
+|          440 |            50 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/wohnung-mit-vormerkschein-zu-vergeben---direktvergabe-ab-september-1271186979/) | Sep 02, 16:38      |
