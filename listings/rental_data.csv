@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2117013635,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,849.99,1,32,Wien,Wien,N/A,9,Wohnung,2025-09-05T09:36:00Z,849.99,N/A
 1362470488,3-Zimmer-Wohnung mit 2 Bädern - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,2300,3,92,Wien,Wien,N/A,15,Wohnung,2025-09-05T09:34:00Z,2300.0,N/A
 1383780109,Sonnige 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1139.99,1,46,Wien,Wien,N/A,12,Wohnung,2025-09-05T09:33:00Z,1139.99,N/A
 1497976530,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1090,1,46,Wien,Wien,N/A,11,Wohnung,2025-09-05T09:31:00Z,1090.0,N/A
@@ -69,7 +70,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1302955248,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-09-05T03:08:00Z,1199.0,St. Veit-Gasse 25
 1892352830,MODERNER WOHNTRAUM MIT LOGGIA,"Wien, 19. Bezirk, Döbling",1190,1500,2,55,Wien,Wien,N/A,3,Wohnung,2025-09-05T02:23:00Z,1500.0,N/A
 1099579556,PROVISIONSFREI-ERSTBEZUG nach Modernisierung-5 Min zum Spitz-Grünblick-Sonnig,"Wien, 21. Bezirk, Floridsdorf",1210,999,2,62,Wien,Wien,1.0,4,Wohnung,2025-09-04T23:21:00Z,999.0,Deublergasse 1
-2020464246,Moderne & helle 3-Zimmer-Wohnung mit Balkon und Blick ins Grüne - U2 Nähe (provisionsfrei),"Wien, 22. Bezirk, Donaustadt",1220,1800,3,89,Wien,Wien,N/A,1,Wohnung,2025-09-04T22:59:00Z,1800.0,N/A
 1930839739,Generalsanierte Ein bis Fünf-Zimmer-Wohnungen in exklusiver Innenstadtlage - zu mieten in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,1695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-04T16:49:00Z,N/A,N/A
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,713.24,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-04T13:44:00Z,N/A,Prager Straße 105 109
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-03T21:41:00Z,N/A,N/A
@@ -90,6 +90,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,1374.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-30T03:18:00Z,N/A,N/A
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-28T10:26:00Z,N/A,N/A
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-26T12:39:00Z,N/A,N/A
+935517208,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,960,1,46,Wien,Wien,N/A,8,Wohnung,2025-09-05T17:19:00Z,960.0,N/A
 1832770322,"Neuwertige 2-Zimmer-Wohnung in 1050 Wien - Top Lage, moderne Ausstattung!","Wien, 05. Bezirk, Margareten",1050,1640.13,2,72,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T17:15:00Z,1640.13,N/A
 1123098638,Frisch saniert - direkt an U4 ! WG geeignet - 2 getrennte Zimmer,"Wien, 12. Bezirk, Meidling",1120,881.6,2,65,Wien,Wien,N/A,2,Wohnung,2025-09-05T17:14:00Z,881.6,Arndtstraße
 1990560146,3-Zimmer-DG-Wohnung mit 2 hofseitigen Terrassen in der Walfischgasse,"Wien, 01. Bezirk, Innere Stadt",1010,2794.12,3,138,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T17:06:00Z,2794.12,Walfischgasse
@@ -289,7 +290,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1121240965,In Ruhelage nähe U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,929,2,41,Wien,Wien,1.0,1,Wohnung,2025-09-05T09:45:00Z,929.0,Bertha-von-Suttner-Gasse 12A
 1362790028,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1090,1,46,Wien,Wien,N/A,11,Wohnung,2025-09-05T09:43:00Z,1090.0,N/A
 794857857,2-Zimmer-Wohnung mit Balkon & Grünblick - WG-tauglich nahe Schönbrunn,"Wien, 12. Bezirk, Meidling",1120,1150,2,63,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T09:37:00Z,1150.0,Hetzendorfer Straße 58-60
-2117013635,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,849.99,1,32,Wien,Wien,N/A,9,Wohnung,2025-09-05T09:36:00Z,849.99,N/A
+1795727621,Einmalige Terrassenwohnung im absoluten Zentrum,"Wien, 01. Bezirk, Innere Stadt",1010,1950,0,62,Wien,Wien,N/A,N/A,Wohnung,2025-09-06T23:12:00Z,1950.0,N/A
 1356658556,"Premium Location, bright apartment, garage - flexible","Wien, 19. Bezirk, Döbling",1190,1350,3,65,Wien,Wien,1.0,3,Wohnung,2025-09-06T22:32:00Z,1350.0,Grinzinger Allee 5
 862242337,"Großzügige 4,5-Zimmer-Wohnung im 2. Bezirk - viel Platz für Familie & Homeoffice","Wien, 02. Bezirk, Leopoldstadt",1020,1599,4,132,Wien,Wien,N/A,2+ Aufzug,Wohnung,2025-09-06T22:32:00Z,1599.0,Lilienbrunngasse
 785068751,Direktvergabe Gemeindewohnung 3 Zimmer,"Wien, 22. Bezirk, Donaustadt",1220,862,3,79,Wien,Wien,N/A,4,Wohnung,2025-09-06T22:06:00Z,862.0,Herbert-boeckl-weg
@@ -489,4 +490,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1502916875,charmante 2-Zimmer Wohnung mit großzügigem Balkon - ab Dezember verfügbar!,"Wien, 03. Bezirk, Landstraße",1030,1299,2,55,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T17:25:00Z,1299.0,N/A
 2074673246,(reserviert) NachmieterIn Wohnung 1050,"Wien, 05. Bezirk, Margareten",1050,755,2,53,Wien,Wien,N/A,N/A,Wohnung,2025-09-05T17:24:00Z,755.0,N/A
 1780495546,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1060.01,1,46,Wien,Wien,N/A,10,Wohnung,2025-09-05T17:21:00Z,1060.01,N/A
-935517208,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,960,1,46,Wien,Wien,N/A,8,Wohnung,2025-09-05T17:19:00Z,960.0,N/A
