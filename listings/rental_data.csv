@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2016851319,Wunderschöner Neubau mit Balkon in entspannter Umgebung!,"Wien, 21. Bezirk, Floridsdorf",1210,782.69,2,50,Wien,Wien,1.0,5,Wohnung,2025-09-05T10:40:00Z,782.69,Anna-Boschek-Platz 1
 2061407607,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neuer Wohntraum,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T10:37:00Z,1052.25,N/A
 858813361,Neuwertige 2-Zimmer-Wohnung in 1050 Wien - Ihr neues Zuhause wartet!,"Wien, 05. Bezirk, Margareten",1050,1313.96,2,58,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T10:37:00Z,1313.96,N/A
 1956824709,Freundliche 2 Zimmerwohnung an der U3!,"Wien, 03. Bezirk, Landstraße",1030,1099,2,53,Wien,Wien,1.0,4,Wohnung,2025-09-05T10:37:00Z,1099.0,Erdbergstraße
@@ -74,7 +75,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2134420663,"Exklusives Wohnen im Herzen Wiens - Stilvoll, ruhig und zentral","Wien, 01. Bezirk, Innere Stadt",1010,1121.19,1,31,Wien,Wien,N/A,5,Wohnung,2025-09-05T07:11:00Z,1121.19,N/A
 1871246976,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neues Zuhause wartet!,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T07:04:00Z,1052.25,N/A
 1548483361,2-Zimmer-Wohnung,"Wien, 16. Bezirk, Ottakring",1160,708.96,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T06:48:00Z,708.96,Baldiagasse 12
-1717213846,"OPTIMAL AUFGETEILTE, VOLLMÖBLIERTE 2 ZIMMERWOHNUNG IN MARIA HILF","Wien, 06. Bezirk, Mariahilf",1060,962.94,2,37,Wien,Wien,N/A,3,Wohnung,2025-09-05T06:36:00Z,962.94,Hirschengasse
 1930839739,Generalsanierte Ein bis Fünf-Zimmer-Wohnungen in exklusiver Innenstadtlage - zu mieten in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,1695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-04T16:49:00Z,N/A,N/A
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,713.24,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-04T13:44:00Z,N/A,Prager Straße 105 109
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-03T21:41:00Z,N/A,N/A
@@ -95,6 +95,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,1374.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-30T03:18:00Z,N/A,N/A
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-28T10:26:00Z,N/A,N/A
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-26T12:39:00Z,N/A,N/A
+698227033,Repräsentative Luxus-Altbauwohnung in toller innerstädtischer Lage! Prächtiger Altbau an einem ruhigen Platzl in 1010 Wien! Einziehen und Wohlfühlen...,"Wien, 01. Bezirk, Innere Stadt",1010,4620,4,153,Wien,Wien,1.0,2,Wohnung,2025-09-05T18:25:00Z,4620.0,N/A
 1241921341,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T18:09:00Z,1099.0,Podhagskygasse 12
 2082225224,Modern Living at Vienna's Central Station - Provisionsfreie Mietwohnungen,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T18:06:00Z,N/A,Karl-Popper-Straße 5
 2012745404,Bestens aufgeteilte Zweizimmerwohnung bei U3 Hütteldorfer Straße,"Wien, 14. Bezirk, Penzing",1140,1287.96,2,62,Wien,Wien,N/A,3,Wohnung,2025-09-05T18:02:00Z,1287.96,Grassigasse 2 / Hüttelsdorfer Straße 108
@@ -294,7 +295,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1867023215,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,3,116,Wien,Wien,1.0,1,Wohnung,2025-09-05T10:47:00Z,N/A,N/A
 864324974,PROVISIONSFREI - BALKON,"Wien, 21. Bezirk, Floridsdorf",1210,649,1,35,Wien,Wien,1.0,2,Wohnung,2025-09-05T10:46:00Z,649.0,Ferdinand-Platzer-Gasse 6
 1841416099,Perfekter Grundriss: 3-Zimmer-Wohnung mit separatem WC und eigenem Balkon,"Wien, 21. Bezirk, Floridsdorf",1210,1189.01,3,70,Wien,Wien,1.0,4,Wohnung,2025-09-05T10:44:00Z,1189.01,Ferdinand-Platzer-Gasse 6
-2016851319,Wunderschöner Neubau mit Balkon in entspannter Umgebung!,"Wien, 21. Bezirk, Floridsdorf",1210,782.69,2,50,Wien,Wien,1.0,5,Wohnung,2025-09-05T10:40:00Z,782.69,Anna-Boschek-Platz 1
+1020687651,"Sonniges Apartment, 30m2 Studentenwohnung","Wien, 03. Bezirk, Landstraße",1030,969,1,30,Wien,Wien,N/A,34,Wohnung,2025-09-07T06:27:00Z,969.0,N/A
 1401672401,"2 Zi.Wohnung, sehr ruhig, 50m zu U3-Station, Balkon, Küche","Wien, 14. Bezirk, Penzing",1140,895,2,39,Wien,Wien,1.0,2,Wohnung,2025-09-07T03:42:00Z,895.0,N/A
 1035176238,Geräumige Familienwohnung mit Potential - Unbefristet - Sanierungsbedarf,"Wien, 21. Bezirk, Floridsdorf",1210,1490,4,120,Wien,Wien,1.0,0,Wohnung,2025-09-07T03:42:00Z,1490.0,N/A
 1679111208,Wohnen mit Stil und Komfort - Ihr neues Zuhause in Simmering!,"Wien, 11. Bezirk, Simmering",1110,1120.48,2,54,Wien,Wien,1.0,3,Wohnung,2025-09-07T03:39:00Z,1120.48,Kobelgasse
@@ -494,4 +495,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1814301296,Charmante 2-Zimmer Wohnung - komplett saniert inkl. Küche & Bad - Kurzzeitmiete bis max. 6 Monate,"Wien, 20. Bezirk, Brigittenau",1200,2400,2,67,Wien,Wien,1.0,2,Wohnung,2025-09-05T18:34:00Z,2400.0,N/A
 915682797,2 Dachterrassen & 2 Monate mietfrei - 3-Zimmer-DG-Wohnung mit Kühlung,"Wien, 22. Bezirk, Donaustadt",1220,1499,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T18:32:00Z,1499.0,Podhagskygasse 12
 884394313,| AB DEZEMBER | ZWEI ZIMMER | SÜDEN | LEOPOLDAUER STRASSE,"Wien, 21. Bezirk, Floridsdorf",1210,806.3,2,45,Wien,Wien,1.0,3,Wohnung,2025-09-05T18:25:00Z,806.3,Leopoldauer Straße
-698227033,Repräsentative Luxus-Altbauwohnung in toller innerstädtischer Lage! Prächtiger Altbau an einem ruhigen Platzl in 1010 Wien! Einziehen und Wohlfühlen...,"Wien, 01. Bezirk, Innere Stadt",1010,4620,4,153,Wien,Wien,1.0,2,Wohnung,2025-09-05T18:25:00Z,4620.0,N/A
