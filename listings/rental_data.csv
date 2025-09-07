@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1984691107,Loggia-Wohnung inkl. Hz und WW im Zentrum von Wien !,"Wien, 01. Bezirk, Innere Stadt",1010,1642.77,2,71,Wien,Wien,1.0,3,Wohnung,2025-09-06T11:34:00Z,1642.77,N/A
 1708856169,Wohnen am Kaasgraben,"Wien, 19. Bezirk, Döbling",1190,1462.76,2,56,Wien,Wien,1.0,0,Wohnung,2025-09-06T11:24:00Z,1462.76,Stefan-Esders-Platz 7
 1397519807,"1070! Generalsanierte, perfekt aufgeteilte 4-Zimmer-Altbauwohnung direkt in der Neubaugasse!","Wien, 07. Bezirk, Neubau",1070,3359.91,4,137,Wien,Wien,1.0,1,Wohnung,2025-09-06T11:14:00Z,3359.91,N/A
 1532438978,"Blueground ID456, Brigittenau","Wien, 20. Bezirk, Brigittenau",1200,1960,3,78,Wien,Wien,1.0,6,Wohnung,2025-09-06T10:38:00Z,1960.0,Leithastraße 22
@@ -66,7 +67,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1140605598,Studio Nähe zur TU und Naschmarkt,"Wien, 04. Bezirk, Wieden",1040,905,1,34,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T23:33:00Z,905.0,Fleischmanngasse 3
 1584268673,Schöne 1-Zimmer-Wohnung,"Wien, 02. Bezirk, Leopoldstadt",1020,920,1,42,Wien,Wien,N/A,2,Wohnung,2025-09-05T22:21:00Z,920.0,Wachaustrasse
 983667091,Sonnige Grünruhelage Erholungsgebiet Wienerberg - PROVISIONSFREI,"Wien, 23. Bezirk, Liesing",1230,1400,3,85,Wien,Wien,N/A,2,Wohnung,2025-09-05T22:13:00Z,1400.0,hintschiggasse
-1835559692,"Moderne 4-Zimmer-Wohnung mit 3 Schlafzimmern, Balkon & Garage in 1210 Wien","Wien, 21. Bezirk, Floridsdorf",1210,1900,4,84,Wien,Wien,N/A,1,Wohnung,2025-09-05T21:54:00Z,1900.0,Weisselgasse
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,750,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-05T11:35:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-05T11:26:00Z,N/A,N/A
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-05T09:50:00Z,N/A,N/A
@@ -77,6 +77,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-02T11:49:00Z,N/A,Donau-City Straße 8A
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-01T10:53:00Z,N/A,N/A
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,1374.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-30T03:18:00Z,N/A,N/A
+912189758,Schöne Wohnung in 5. nachmieten,"Wien, 05. Bezirk, Margareten",1050,800,0,60,Wien,Wien,N/A,N/A,Wohnung,2025-09-07T21:47:00Z,800.0,spengergasse
 1838644884,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999,3,92,Wien,Wien,1.0,N/A,Wohnung,2025-09-07T21:40:00Z,1999.0,N/A
 1944008086,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,924.58,2,63,Wien,Wien,1.0,0,Wohnung,2025-09-07T21:38:00Z,924.58,Anni-Haider-Weg 3
 2048589040,"++Der Platzhirsch++ Fantastische 2,5 Zimmer Erstbezug mit Terrasse","Wien, 22. Bezirk, Donaustadt",1220,1599,2,68,Wien,Wien,1.0,1,Wohnung,2025-09-07T21:37:00Z,1599.0,N/A
@@ -276,4 +277,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1113491686,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25| ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219.01,2,51,Wien,Wien,1.0,1,Wohnung,2025-09-06T11:55:00Z,1219.01,Sankt Veit-Gasse
 2137247054,New price! Luxurious 3 room flat with balcony direct to the metro station and the DANUBE! Danubeview,"Wien, 22. Bezirk, Donaustadt",1220,1950,3,73,Wien,Wien,N/A,5,Wohnung,2025-09-06T11:54:00Z,1950.0,N/A
 1692423551,Möblierte 2-Zimmer-Wohnung im modernen Neubau - Perfekt für Singles & Paare,"Wien, 10. Bezirk, Favoriten",1100,1150,2,42,Wien,Wien,1.0,2,Wohnung,2025-09-06T11:50:00Z,1150.0,Gudrunstraße 120
-1984691107,Loggia-Wohnung inkl. Hz und WW im Zentrum von Wien !,"Wien, 01. Bezirk, Innere Stadt",1010,1642.77,2,71,Wien,Wien,1.0,3,Wohnung,2025-09-06T11:34:00Z,1642.77,N/A
