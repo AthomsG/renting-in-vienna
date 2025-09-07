@@ -39,9 +39,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1148681141,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,76,Wien,Wien,1.0,2,Wohnung,2025-09-05T09:15:00Z,1719.0,Sankt Veit-Gasse
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,999.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-05T09:14:00Z,N/A,Sankt Veit-Gasse
 1198928201,"* LUXUSWOHNUNG * 3,5 ZIMMER * RIESENBALKON * 2 BÄDER * ÜBER DEN WOLKEN * TRIIIPLE-TOWER","Wien, 03. Bezirk, Landstraße",1030,3210,3,94,Wien,Wien,1.0,11,Wohnung,2025-09-05T08:56:00Z,3210.0,Schnirchgasse
-791183088,Urban Living direkt bei U3 Hütteldorfer Straße - ideal für junge Paare (Expats welcome),"Wien, 14. Bezirk, Penzing",1140,1100,2,50,Wien,Wien,1.0,3,Wohnung,2025-09-05T08:52:00Z,1100.0,Reinlgasse 35
-1484986497,2-Zimmerwohntraum mit Balkon!,"Wien, 21. Bezirk, Floridsdorf",1210,1099,2,58,Wien,Wien,1.0,1,Wohnung,2025-09-05T08:45:00Z,1099.0,Oskar-Grissemann-Straße
-1515239547,Wohnung zu vermieten,"Wien, 04. Bezirk, Wieden",1040,1800,2,57,Wien,Wien,1.0,3,Wohnung,2025-09-05T08:44:00Z,1800.0,Argentinierstraße 31
 1381806709,Engerth 102- 5 Minuten zu U6 und S-Bahn HANDELSKAI! Hochwertige Einbauküchen und moderne Architektur! - JETZT ZUSCHLAGEN,"Wien, 20. Bezirk, Brigittenau",1200,925,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-05T08:14:00Z,N/A,Engerthstraße 102
 1930839739,Generalsanierte Ein bis Fünf-Zimmer-Wohnungen in exklusiver Innenstadtlage - zu mieten in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,1695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-04T16:49:00Z,N/A,N/A
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,713.24,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-04T13:44:00Z,N/A,Prager Straße 105 109
@@ -63,6 +60,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,1374.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-30T03:18:00Z,N/A,N/A
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-28T10:26:00Z,N/A,N/A
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-26T12:39:00Z,N/A,N/A
+863583838,Modern möblierte 2-Zimmer-Wohnung mit Loggia,"Wien, 02. Bezirk, Leopoldstadt",1020,1650,2,66,Wien,Wien,N/A,1,Wohnung,2025-09-05T18:53:00Z,1650.0,Franzensbrückenstraße
 1942461487,NEU SANIERT & UNBEFRISTET - STILVOLLE WOHUNG NÄHE MARIAHILFERSTRASSE (mit Balkon),"Wien, 06. Bezirk, Mariahilf",1060,1900,0,120,Wien,Wien,1.0,N/A,Wohnung,2025-09-05T18:52:00Z,1900.0,Stumpergasse 5
 1007766498,Geräumige 2-Zimmer-Balkonwohnung in Top Lage,"Wien, 03. Bezirk, Landstraße",1030,1311.15,2,78,Wien,Wien,1.0,4,Wohnung,2025-09-05T18:35:00Z,1311.15,N/A
 1814301296,Charmante 2-Zimmer Wohnung - komplett saniert inkl. Küche & Bad - Kurzzeitmiete bis max. 6 Monate,"Wien, 20. Bezirk, Brigittenau",1200,2400,2,67,Wien,Wien,1.0,2,Wohnung,2025-09-05T18:34:00Z,2400.0,N/A
@@ -143,7 +141,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2143557151,Traumhaft Wohnen in Hirschstetten: Apartment mit 2 Zimmern und Balkon,"Wien, 22. Bezirk, Donaustadt",1220,799.97,2,45,Wien,Wien,1.0,1,Wohnung,2025-09-05T14:21:00Z,799.97,Hirschstettner Straße 61
 1483817602,Großzügige 2 Zimmerdachgeschosswohnung + Terrasse in absoluter Ruhelage!! Tolle Lage - U1 Kagranerplatz! Nähe Alte Donau&Donauzentrum!!,"Wien, 22. Bezirk, Donaustadt",1220,1548.99,2,75,Wien,Wien,1.0,7,Wohnung,2025-09-05T14:16:00Z,1548.99,Finsterergasse
 1127930041,GROSSE 3-ZIMMER WOHNUNG IM PASSIVHAUS,"Wien, 21. Bezirk, Floridsdorf",1210,1495.01,3,99,Wien,Wien,1.0,1,Wohnung,2025-09-05T14:16:00Z,1495.01,Fritz-Kandl-Gasse 1-3
-1170886763,Hier müssen Sie schnell sein - AB SOFORT BEZIEHBAR!! Tolle 3 Zimmerwohnung + Terrasse/Garten! Absolute Ruhelage - Tokiostraße!!,"Wien, 22. Bezirk, Donaustadt",1220,1498.99,3,60,Wien,Wien,1.0,0,Wohnung,2025-09-05T14:16:00Z,1498.99,Tokiostraße
 1537774999,Top ausgestattete Neubau-Wohnung an der Prager Straße - Straßenbahn 26 vor der Tür und alles in der Umgebung!,"Wien, 21. Bezirk, Floridsdorf",1210,929.99,2,49,Wien,Wien,1.0,3,Wohnung,2025-09-05T14:06:00Z,929.99,Prager Straße 105 109
 1541209921,Neubauwohnungen in Wien 1210 - Moderne Wohnqualität in gefragter Lage zwischen SCN und Lorettowiese,"Wien, 21. Bezirk, Floridsdorf",1210,929.99,2,49,Wien,Wien,1.0,3,Wohnung,2025-09-05T14:06:00Z,929.99,Prager Straße 105 109
 1911465056,Neubauwohnungen in Wien 1210 - Moderne Wohnqualität in gefragter Lage zwischen SCN und Lorettowiese,"Wien, 21. Bezirk, Floridsdorf",1210,810,2,46,Wien,Wien,1.0,4,Wohnung,2025-09-05T14:06:00Z,810.0,Prager Straße 105 109
@@ -263,6 +260,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1687452969,Wunderschöne Erstbezugs Wohnungen in hervorragender Lage! Nahe U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,1549,3,71,Wien,Wien,1.0,3,Wohnung,2025-09-05T10:53:00Z,1549.0,Schrottensteingasse 6
 1566967468,| 2 ZIMMER | BALKON | ST. VEIT GASSE | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1099,2,41,Wien,Wien,1.0,2,Wohnung,2025-09-05T10:52:00Z,1099.0,Sankt Veit-Gasse
 785493506,Erstbezug! Elegante 5-Zimmer Altbauwohnung Nähe Hoher Markt,"Wien, 01. Bezirk, Innere Stadt",1010,4512.76,5,191,Wien,Wien,1.0,4,Wohnung,2025-09-05T10:49:00Z,4512.76,N/A
+1491272066,Hier müssen Sie schnell sein - AB SOFORT BEZIEHBAR! Tolle 3 Zimmerwohnung + Terrasse/Garten! Absolute Ruhelage - Tokiostraße!,"Wien, 22. Bezirk, Donaustadt",1220,1498.98,3,60,Wien,Wien,1.0,0,Wohnung,2025-09-07T08:54:00Z,1498.98,Tokiostraße
 1704037980,Erstbezug. Zwei-Zimmer-Wohnung mit Balkon - sofort verfügbar - zu mieten in 1170 Wien,"Wien, 17. Bezirk, Hernals",1170,1383.21,2,62,Wien,Wien,N/A,2,Wohnung,2025-09-07T08:30:00Z,1383.21,N/A
 1674820234,5. OG!!! Zentral begehbare 3-Zimmer-Wohnung mit Top-Infrastruktur bei der CEU,"Wien, 10. Bezirk, Favoriten",1100,1350,3,80,Wien,Wien,N/A,5,Wohnung,2025-09-07T08:06:00Z,1350.0,N/A
 1837980284,Kleine Stadtwohnung in Währing,"Wien, 18. Bezirk, Währing",1180,1088,3,71,Wien,Wien,N/A,1,Wohnung,2025-09-07T08:00:00Z,1088.0,Gymnasiumstrasse
@@ -462,4 +460,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1433408349,2 Zimmer Neubau-Wohnung | großzügige Lagerflächen verfügbar | Tiefgaragenstellplätze verfügbar,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,2,Wohnung,2025-09-05T18:57:00Z,899.0,Michael-Reś
 883233440,38m² | 1. Etage | 2-Zimmer Wohnung | 8m² Balkon | Ausrichtung Süd-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,38,Wien,Wien,1.0,1,Wohnung,2025-09-05T18:57:00Z,899.0,Michael-Reś
 1790926078,Provisionsfreies Apartment im Dachgeschoss mit 3 Zimmern und Terrasse in schönster Lage,"Wien, 22. Bezirk, Donaustadt",1220,1174.63,3,65,Wien,Wien,1.0,3,Wohnung,2025-09-05T18:53:00Z,1174.63,Hirschstettner Straße 61
-863583838,Modern möblierte 2-Zimmer-Wohnung mit Loggia,"Wien, 02. Bezirk, Leopoldstadt",1020,1650,2,66,Wien,Wien,N/A,1,Wohnung,2025-09-05T18:53:00Z,1650.0,Franzensbrückenstraße
