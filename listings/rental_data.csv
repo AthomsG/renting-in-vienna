@@ -97,6 +97,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1204923054,"Danubeflats - Österreichs höchstes Wohnhochhaus mit atemberaubendem Ausblick, exklusivem Spa und urbanem Luxus direkt an der Neuen Donau","Wien, 22. Bezirk, Donaustadt",1220,3065.13,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-03T03:19:00Z,N/A,N/A
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1198.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-03T02:53:00Z,N/A,Arsenalstraße 8
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-28T10:26:00Z,N/A,N/A
+901225773,Tolle Balkonwohnung im TRIIIPLE Hochhaus mit Pool!,"Wien, 03. Bezirk, Landstraße",1030,1080,2,35,Wien,Wien,N/A,6,Wohnung,2025-09-10T01:08:00Z,1080.0,Schnirchgasse
 1518828931,Couple Loft For Internationals - Stylish Fully Furnished Apartment All inclusive - SHORT TERM RENTAL 3 - 6 MONTHS ONLY | COMMISSION FREE,"Wien, 17. Bezirk, Hernals",1170,1095,2,37,Wien,Wien,1.0,N/A,Wohnung,2025-09-10T00:35:00Z,1095.0,Hernalser Hauptstraße 170
 1178085340,Helle und geräumige Neubauwohnung mit exquisiter Teil- Möblierung am Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1500,3,95,Wien,Wien,N/A,7,Wohnung,2025-09-10T00:23:00Z,1500.0,N/A
 1810704977,Couple Loft For Internationals - Stylish Fully Furnished Apartment All inclusive - SHORT TERM RENTAL 3 - 6 MONTHS ONLY | COMMISSION FREE,"Wien, 17. Bezirk, Hernals",1170,1095,3,38,Wien,Wien,1.0,N/A,Wohnung,2025-09-10T00:23:00Z,1095.0,Hernalser Hauptstraße 170
@@ -216,7 +217,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2000896145,WG-tauglich! 4-Zimmer mit separater Küche beim Schloss Belvedere,"Wien, 04. Bezirk, Wieden",1040,2394.37,4,124,Wien,Wien,1.0,4,Wohnung,2025-09-09T16:20:00Z,2394.37,Weyringergasse
 1878202076,RUHIG GELEGENE 2-ZIMMER WOHNUNG MIT BALKON DIREKT BEIM BRUNNENMARKT 16.BEZIRK!,"Wien, 16. Bezirk, Ottakring",1160,956.85,2,54,Wien,Wien,1.0,2,Wohnung,2025-09-09T16:16:00Z,956.85,Brunnengasse 38
 1134378158,Erstbezug # Vollmöbliert # 1 bis max 6 Monate # 1080 Wien,"Wien, 08. Bezirk, Josefstadt",1080,2500,3,95,Wien,Wien,N/A,2,Wohnung,2025-09-09T16:09:00Z,2500.0,Lederergasse
-1021845997,GERÄUMIGE ECKWOHNUNG - ZWEI ZIMMER UND WOHNKÜCHE - WIRTSCHAFTSRAUM - BAD MIT WANNE - WC GETRENNT,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1148.72,3,93,Wien,Wien,N/A,1,Wohnung,2025-09-09T16:09:00Z,1148.72,N/A
 982988360,5.OG!! 2-Zimmer-Neubauwohnung mit Blick aufs Riesenrad,"Wien, 02. Bezirk, Leopoldstadt",1020,1295,2,56,Wien,Wien,N/A,5,Wohnung,2025-09-09T16:07:00Z,1295.0,N/A
 1115194382,Laudongasse: Schicke 2-Zimmer-Neubauwohnung mit Top-Grundriss in Traumlage,"Wien, 08. Bezirk, Josefstadt",1080,973.75,2,44,Wien,Wien,N/A,2,Wohnung,2025-09-09T16:07:00Z,973.75,N/A
 1064169425,WOHNGEMEINSCHAFT mit 3 Zimmer,"Wien, 21. Bezirk, Floridsdorf",1210,510.83,1,12,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T16:05:00Z,510.83,Mizzi-Günther-Weg 1
@@ -574,8 +574,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1306410058,ERSTBEZUG: Charmantes 2-Zimmer Townhouse mit Garten nahe Landstraßer Hauptstraße in 1030 Wien zu mieten,"Wien, 03. Bezirk, Landstraße",1030,1599,2,91,Wien,Wien,N/A,0,Wohnung,2025-09-09T13:22:00Z,1599.0,N/A
 1501917721,ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER | BALKON | 3 ZIMMER | ST. VEIT GASSE 25,"Wien, 13. Bezirk, Hietzing",1130,2148.99,3,77,Wien,Wien,1.0,4,Wohnung,2025-09-09T13:21:00Z,2148.99,St. Veit-Gasse 25
 1620023236,"Sonnige 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1090.01,1,46,Wien,Wien,N/A,10,Wohnung,2025-09-09T13:20:00Z,1090.01,N/A
-1365293028,Großzügige 2- Zimmerwohnung beim Schloss Belvedere,"Wien, 04. Bezirk, Wieden",1040,1100,2,77,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T13:19:00Z,1100.0,Theresianumgasse 5
 1061428828,"Dachgeschoßmaisonette - 4 Zimmer, Stiege 1/ Top 16","Wien, 19. Bezirk, Döbling",1190,3390,4,112,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T13:19:00Z,3390.0,Sieveringer Straße 221/1/16
+1365293028,Großzügige 3- Zimmerwohnung beim Schloss Belvedere,"Wien, 04. Bezirk, Wieden",1040,1100,2,77,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T13:19:00Z,1100.0,Theresianumgasse 5
 1628280232,HOFSEITIGE BALKONWOHNUNG IN DER NUSSDORFER STRASSE,"Wien, 09. Bezirk, Alsergrund",1090,999.98,2,48,Wien,Wien,1.0,2,Wohnung,2025-09-09T13:18:00Z,999.98,Nußdorfer Straße 90-92
 1140060699,schöne Dachterrassenwohnung beim Rathaus - 2 Schlafzimmer I unbefristet,"Wien, 01. Bezirk, Innere Stadt",1010,2950.83,3,82,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T13:17:00Z,2950.83,"Auerspergstraße, Parlament, Rathaus"
 1482605257,AKTION - Erster Monat Mietfrei! Erstbezug mit toller Ausstattung,"Wien, 11. Bezirk, Simmering",1110,910,1,59,Wien,Wien,0.0,N/A,Wohnung,2025-09-09T13:17:00Z,910.0,N/A
