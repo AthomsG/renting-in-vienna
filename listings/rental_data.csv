@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1603966505,"Landstraßer Hauptstraße 45, 1BD, Washing Machine, Elevator","Wien, 03. Bezirk, Landstraße",1030,2347,2,26,Wien,Wien,1.0,8,Wohnung,2025-09-10T15:00:00Z,2347.0,Landstraßer Hauptstraße 45
 1270530808,Urbanes Wohnen mit Klasse - exklusive Neubauwohnung beim Wiener Hauptbahnhof!,"Wien, 10. Bezirk, Favoriten",1100,1399,2,65,Wien,Wien,1.0,12,Wohnung,2025-09-10T14:59:00Z,1399.0,Arsenalstraße 8
 839203539,Kurzzeitvermietung! Wunderschöne möblierte 1-Zimmer-Wohnung in zentraler Lage!,"Wien, 07. Bezirk, Neubau",1070,990,1,26,Wien,Wien,1.0,3,Wohnung,2025-09-10T14:58:00Z,990.0,Lerchenfelder Gürtel 18
 2044221556,Erstbezug | Zwei Zimmer Balkonwohnung,"Wien, 12. Bezirk, Meidling",1120,1395,2,54,Wien,Wien,1.0,1,Wohnung,2025-09-10T14:58:00Z,1395.0,An den Froschlacken
@@ -198,7 +199,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 944452516,1030! Stilvolle 4-Zimmer Altbauwohnung mit Balkon Nähe Rochusmarkt!,"Wien, 03. Bezirk, Landstraße",1030,4624.05,4,191,Wien,Wien,1.0,3,Wohnung,2025-09-10T10:27:00Z,4624.05,N/A
 1619131305,| NIEDRIGE ENERGIEKOSTEN | GEMEINSCHAFTSTERRASSE | IDEALE VERKEHRSANBINDUNG | FREIFLAECHEN | NEUBAU |,"Wien, 21. Bezirk, Floridsdorf",1210,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-09-10T10:25:00Z,N/A,Kantnergasse
 1593775357,ERSTBEZUG / Wohnung privat zu vermieten / Neubau / direkt vom Eigentümer,"Wien, 22. Bezirk, Donaustadt",1220,1100,2,52,Wien,Wien,0.92,N/A,Wohnung,2025-09-10T10:19:00Z,1100.0,Wimpfengasse 30
-914002031,Nähe U4 und Hietzinger Hauptstraße - inkl. zwei Terrassen (ca 26m²) und Garagenstellplatz - zwischen Auhofstraße und Hietzinger Kai,"Wien, 13. Bezirk, Hietzing",1130,1819.98,3,116,Wien,Wien,1.0,3,Wohnung,2025-09-10T10:17:00Z,1819.98,N/A
 1719536999,Wohnen am Wilheminenberg,"Wien, 16. Bezirk, Ottakring",1160,912.07,2,50,Wien,Wien,0.79,2,Wohnung,2025-09-10T21:50:00Z,912.07,Engilgasse
 2006333987,TOPLAGE | TRAUMHAFTE ALTBAUWOHNUNG MIT BALKON | HELLE 4 ZIMMER | U-BAHN-NÄHE,"Wien, 03. Bezirk, Landstraße",1030,4624,4,191,Wien,Wien,N/A,5.OG,Wohnung,2025-09-10T21:49:00Z,4624.0,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T21:41:00Z,N/A,N/A
@@ -218,6 +218,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1218325291,"Mietwohnung 18., Gymnasiumstraße","Wien, 18. Bezirk, Währing",1180,2090,3,120,Wien,Wien,1.0,2,Wohnung,2025-09-10T21:14:00Z,2090.0,Gymnasiumstraße 5-7
 1826425564,STUDENTENWOHNUNG DIREKT VOM EIGENTÜMER,"Wien, 16. Bezirk, Ottakring",1160,900,2,65,Wien,Wien,1.0,2,Wohnung,2025-09-10T21:06:00Z,900.0,Pfenninggeldgasse 15 - 17
 1159522266,Direktvergabe Wiener Wohnen / NEUBAU mit traumhaftem Donau-Fernblick,"Wien, 02. Bezirk, Leopoldstadt",1020,420.64,2,50,Wien,Wien,N/A,N/A,Wohnung,2025-09-10T20:51:00Z,420.64,N/A
+1624858847,Ruhige 2-Zimmer Wohnung Richtung Innenhof Nähe Westbahnhof,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,882,2,52,Wien,Wien,N/A,1,Wohnung,2025-09-10T20:43:00Z,882.0,N/A
 1903170907,"Co-Working, Kino, Yoga - alles inklusive!","Wien, 20. Bezirk, Brigittenau",1200,1246.1,1,33,Wien,Wien,1.0,11,Wohnung,2025-09-10T20:41:00Z,1246.1,Dresdner Straße
 2015789039,Grün & modern - wohnen am Zukunftsstandort Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1692.7,2,48,Wien,Wien,1.0,10,Wohnung,2025-09-10T20:41:00Z,1692.7,Dresdner Straße
 1770446146,Wohnen mit Weitblick: Vollmöblierte Apartments an der Dresdner Straße 90,"Wien, 20. Bezirk, Brigittenau",1200,1268.1,1,34,Wien,Wien,1.0,12,Wohnung,2025-09-10T20:41:00Z,1268.1,Dresdner Straße
@@ -398,7 +399,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1373686489,Eleganter Stilaltbau am Naschmarkt - eine Ruheoase im Herzen Wiens,"Wien, 06. Bezirk, Mariahilf",1060,2590.3,4,130,Wien,Wien,1.0,2,Wohnung,2025-09-10T15:15:00Z,2590.3,Linke Wienzeile 64
 1588366112,Vienna City Flair & Nature Combined: Living at Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1205.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T15:14:00Z,N/A,Dresdner Straße
 1681831178,"Schöne, sehr helle Wohnung in Drasche-Park-Nähe","Wien, 05. Bezirk, Margareten",1050,1490,3,86,Wien,Wien,N/A,5,Wohnung,2025-09-10T15:04:00Z,1490.0,Hauslabgasse
-1603966505,"Landstraßer Hauptstraße 45, 1BD, Washing Machine, Elevator","Wien, 03. Bezirk, Landstraße",1030,2347,2,26,Wien,Wien,1.0,8,Wohnung,2025-09-10T15:00:00Z,2347.0,Landstraßer Hauptstraße 45
 914002031,Nähe U4 und Hietzinger Hauptstraße - inkl. zwei Terrassen (ca 26m²) und Garagenstellplatz - zwischen Auhofstraße und Hietzinger Kai,"Wien, 13. Bezirk, Hietzing",1130,1819.98,3,116,Wien,Wien,1.0,3,Wohnung,2025-09-10T10:17:00Z,1819.98,N/A
 911301081,Loggiawohnung in Döbling // Gemeinschaftsgarten // Unbefristet,"Wien, 19. Bezirk, Döbling",1190,649,1,48,Wien,Wien,1.0,4,Wohnung,2025-09-10T10:17:00Z,649.0,Döblinger Hauptstraße 50
 2008273437,schöne Altbauwohnung am Mezzanin nahe Kandlgasse I unbefristet,"Wien, 07. Bezirk, Neubau",1070,1207.98,2,64,Wien,Wien,1.0,MZ,Wohnung,2025-09-10T10:17:00Z,1207.98,"Halbgasse, Kandlgasse"
@@ -799,6 +799,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2072545082,MIETKAUF mit Fixpreisgarantie - Wohnen im Grünen nahe Badeteich Hirschstetten & U2,"Wien, 22. Bezirk, Donaustadt",1220,896.96,2,54,Wien,Wien,1.0,2,Wohnung,2025-09-09T11:53:00Z,896.96,Anni-Haider-Weg 3
 1794662976,"Heizung, Strom, Internet+TV & Fitness inklusive! Serviced Apartment im TABA Tower!","Wien, 10. Bezirk, Favoriten",1100,1083,1,32,Wien,Wien,1.0,8,Wohnung,2025-09-09T11:52:00Z,1083.0,Kurbadstraße 8
 1191117551,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1090,1,46,Wien,Wien,N/A,11,Wohnung,2025-09-09T11:52:00Z,1090.0,N/A
+951370059,"Services Apartment mit Balkon in Oberlaa! Strom, Heizung, Kühlung, Internet + TV, Fitness inkludiert!","Wien, 10. Bezirk, Favoriten",1100,990,1,34,Wien,Wien,1.0,6,Wohnung,2025-09-09T11:51:00Z,990.0,Kurbadstraße 8
 1393185906,UNBEFRISTETE 2 Zimmer Wohnung direkt am Naschmarkt!,"Wien, 04. Bezirk, Wieden",1040,1571.98,2,75,Wien,Wien,N/A,1,Wohnung,2025-09-09T11:50:00Z,1571.98,N/A
 1197807154,Renovierte Dachgeschosswohnung mit Terrasse - neue Küche,"Wien, 19. Bezirk, Döbling",1190,1686.79,3,80,Wien,Wien,1.0,N/A,Wohnung,2025-09-09T11:50:00Z,1686.79,N/A
 1447363592,Sonnige 2-Zimmer Neubauwohnung Nähe U4 Längenfeldgasse,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1045,2,59,Wien,Wien,1.0,4,Wohnung,2025-09-09T11:49:00Z,1045.0,Arnsteingasse
