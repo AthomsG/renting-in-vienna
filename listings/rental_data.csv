@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1513640182,Moderne 2 Zi Wohnung mit Balkon provisionsfrei - nahe U1,"Wien, 22. Bezirk, Donaustadt",1220,949,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-08T09:58:00Z,949.0,Bertha-von-Suttner-Gasse
 1215448100,2 Zi Wohnung (ca. 50 m²) mit Balkon provisionsfrei - nahe U1,"Wien, 22. Bezirk, Donaustadt",1220,999,2,50,Wien,Wien,1.0,N/A,Wohnung,2025-09-08T09:58:00Z,999.0,Bertha-von-Suttner-Gasse
 985634627,Moderne 1-Zi -Wohnung mit großüziger Terrasse - nahe Millennium City (provisionsfrei),"Wien, 20. Bezirk, Brigittenau",1200,849,0,36,Wien,Wien,1.0,6,Wohnung,2025-09-08T09:58:00Z,849.0,Dresdner Straße
 1402313447,Moderne 2 Zi Wohnung mit Balkon provisionsfrei - nahe U1,"Wien, 22. Bezirk, Donaustadt",1220,999,2,47,Wien,Wien,1.0,2,Wohnung,2025-09-08T09:58:00Z,999.0,Am langen Felde
@@ -61,7 +62,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1198626121,Moderne Neubauwohnung mit toller Ausstattung + U4/U6 Nähe!! AB OKTOBER!!,"Wien, 12. Bezirk, Meidling",1120,1099,2,45,Wien,Wien,N/A,1,Wohnung,2025-09-08T07:11:00Z,1099.0,N/A
 1386598430,Moderne möblierte 1-Zimmerwohnung im Herzen von Wien - klein aber fein! Miete - All Inclusive!,"Wien, 01. Bezirk, Innere Stadt",1010,1390,1,35,Wien,Wien,N/A,3,Wohnung,2025-09-08T07:11:00Z,1390.0,N/A
 1995744757,NÄHE PRATER UND AUGARTEN!!! Hochwertige Neubauwohnung mit 13m² ostseitiger Loggia,"Wien, 02. Bezirk, Leopoldstadt",1020,1799,2,76,Wien,Wien,0.0,6,Wohnung,2025-09-08T07:11:00Z,1799.0,N/A
-1089756718,Dachterrassenwohnung Schönbrunner Straße 170 - Stiege 1 Top 17!,"Wien, 12. Bezirk, Meidling",1120,899.8,2,55,Wien,Wien,N/A,1,Wohnung,2025-09-08T06:18:00Z,899.8,N/A
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1625,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-07T03:28:00Z,N/A,Apollogasse
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1849.15,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-05T14:44:00Z,N/A,Erich-Sokol-Gasse
 1808038206,"Das Projekt ""ASG IV"" in der Anton-Scharff-Gasse","Wien, 12. Bezirk, Meidling",1120,931.22,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-05T12:25:00Z,N/A,N/A
@@ -78,6 +78,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1929104823,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-03T09:28:00Z,N/A,N/A
 1197409747,Traditionsreiches Grätzl - Wohnen in Toplage,"Wien, 13. Bezirk, Hietzing",1130,1490,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-03T06:33:00Z,N/A,Frimbergergasse
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-08-28T10:26:00Z,N/A,N/A
+1923089578,3-Zimmer-Wohnung - Heizung & Warmwasser inkl. - Nähe U4 & Parkblick,"Wien, 19. Bezirk, Döbling",1190,1446.31,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-09-10T06:34:00Z,1446.31,N/A
 930303650,Luxus! Hochwertige 4 Zimmer mit 2 privaten Dachterrassen in Bestlage. 2 min zur Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,2005,4,94,Wien,Wien,1.0,6,Wohnung,2025-09-10T06:01:00Z,2005.0,Hirschengasse 24
 1518855136,2 Zimmer Gemeindewohnung Direktvergabe,"Wien, 23. Bezirk, Liesing",1230,640,2,54,Wien,Wien,N/A,3,Wohnung,2025-09-10T05:56:00Z,640.0,Traviatagasse
 1795191746,SOFORTBEZUG - 3er WG Studenten - im 2. Bezirk - 7min zur U2 Taborstraße,"Wien, 02. Bezirk, Leopoldstadt",1020,1600,3,80,Wien,Wien,N/A,2,Wohnung,2025-09-10T05:55:00Z,1600.0,Taborstraße
@@ -1077,4 +1078,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1760146755,Moderne 2 Zi Wohnung mit Balkon provisionsfrei - nahe U1,"Wien, 22. Bezirk, Donaustadt",1220,949,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-08T09:58:00Z,949.0,Bertha-von-Suttner-Gasse
 1669326743,"Moderne 1,5-Zi -Wohnung mit Balkon - nahe Millennium City (provisionsfrei)","Wien, 20. Bezirk, Brigittenau",1200,849,1,35,Wien,Wien,1.0,2,Wohnung,2025-09-08T09:58:00Z,849.0,Meldemannstraße
 1633308285,"Moderne 1,5-Zi Wohnung mit Außenfläche U1-Nähe - provisionsfrei","Wien, 10. Bezirk, Favoriten",1100,949,1,40,Wien,Wien,1.0,N/A,Wohnung,2025-09-08T09:58:00Z,949.0,Van-der-Nüll-Gasse
-1513640182,Moderne 2 Zi Wohnung mit Balkon provisionsfrei - nahe U1,"Wien, 22. Bezirk, Donaustadt",1220,949,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-08T09:58:00Z,949.0,Bertha-von-Suttner-Gasse
