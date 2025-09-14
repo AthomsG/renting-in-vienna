@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2061407607,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neuer Wohntraum,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T10:37:00Z,1052.25,N/A
 892366311,3-Zimmer-Wohntraum mit Balkon in zentraler Lage,"Wien, 03. Bezirk, Landstraße",1030,1450,3,75,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T10:37:00Z,1450.0,Arsenal 11d
 978525518,Helle 3-Zimmer Neubauwohnung mit Loggia Nähe Elterleinplatz,"Wien, 17. Bezirk, Hernals",1170,1299,3,75,Wien,Wien,1.0,3,Wohnung,2025-09-12T10:30:00Z,1299.0,Rötzergasse
 1322895023,PÄRCHENHIT INKL. EINBAUKÜCHE!,"Wien, 10. Bezirk, Favoriten",1100,1009.08,2,54,Wien,Wien,1.0,3,Wohnung,2025-09-12T10:30:00Z,1009.08,Sonnleithnergasse 2
@@ -97,7 +98,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1666461509,"""THE Fusion Kettenbrückengasse""","Wien, 04. Bezirk, Wieden",1040,1723.53,2,57,Wien,Wien,1.0,3,Wohnung,2025-09-12T07:12:00Z,1723.53,N/A
 1539495423,"""Direkt bei der S-Bahn - Helle 3-Zimmerwohnung in zentraler Ruhelage - WG geeignet""","Wien, 20. Bezirk, Brigittenau",1200,1160,3,70,Wien,Wien,N/A,6,Wohnung,2025-09-12T07:12:00Z,1160.0,N/A
 1871246976,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neues Zuhause wartet!,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T07:04:00Z,1052.25,N/A
-829036997,Attraktive 3-Zimmer-Dachgeschosswohnung mit Balkon in Ruhelage in 1190 Wien - JETZT ANFRAGEN,"Wien, 19. Bezirk, Döbling",1190,1670.5,3,68,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T06:55:00Z,1670.5,Hutweidengasse 6
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,713.24,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-11T13:44:00Z,N/A,Prager Straße 105 109
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-11T10:26:00Z,N/A,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T21:41:00Z,N/A,N/A
@@ -117,6 +117,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-08T14:24:00Z,N/A,Prager Straße 105 109
 973391654,"LEO 131 - hochwertige Neubauwohnungen mit Anbindung zu U6, S-Bahn und U1 mit inkludierter Küche - JETZT ANFRAGEN","Wien, 21. Bezirk, Floridsdorf",1210,716.73,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-08T13:44:00Z,N/A,Leopoldauer Straße 131
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-08T10:53:00Z,N/A,N/A
+1160408536,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,1240,2,45,Wien,Wien,N/A,11,Wohnung,2025-09-12T18:06:00Z,1240.0,N/A
 1657350729,"GENERALSANIERTES ALTBAUJUWEL MIT 4,5 ZIMMERN - RUHIG - HELL - BALKON - AUSSENBESCHATTUNG - NÄHE U1 SÜDTIROLERPLATZ","Wien, 04. Bezirk, Wieden",1040,2790,5,144,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T17:57:00Z,2790.0,FAVORITENSTRASSE 70
 1537286399,Müllnergasse - 2 Zimmer Neubau zu vermieten,"Wien, 09. Bezirk, Alsergrund",1090,795,2,49,Wien,Wien,1.0,4,Wohnung,2025-09-12T17:56:00Z,795.0,N/A
 1805157501,Großzügige 2-Zimmer-Wohnung mit Terrasse und Garten in Top-Lage des 19. Bezirks - Nähe Kahlenberg,"Wien, 19. Bezirk, Döbling",1190,1376.97,2,71,Wien,Wien,1.0,0,Wohnung,2025-09-12T17:56:00Z,1376.97,Springsiedelgasse
@@ -316,7 +317,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1456604798,"Helle, moderne 1-Zimmer-Wohnung mit Loggia in Simmeringer Toplage zu mieten!","Wien, 11. Bezirk, Simmering",1110,950,0,42,Wien,Wien,1.0,12,Wohnung,2025-09-12T10:45:00Z,950.0,N/A
 1481200621,Traumhafte 4-Zimmer Altbauwohnung mit Balkon beim Rochusmarkt,"Wien, 03. Bezirk, Landstraße",1030,2918.24,4,142,Wien,Wien,1.0,2,Wohnung,2025-09-12T10:37:00Z,2918.24,N/A
 858813361,Neuwertige 2-Zimmer-Wohnung in 1050 Wien - Ihr neues Zuhause wartet!,"Wien, 05. Bezirk, Margareten",1050,1313.96,2,58,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T10:37:00Z,1313.96,N/A
-2061407607,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neuer Wohntraum,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T10:37:00Z,1052.25,N/A
+1195919043,Geräumige 2-Zimmer-Wohnung mit Loggia und Einbauküche - ab sofort beziehbar! - JETZT ZUSCHLAGEN,"Wien, 10. Bezirk, Favoriten",1100,1232.07,2,69,Wien,Wien,1.0,2,Wohnung,2025-09-14T06:55:00Z,1232.07,Humboldtgasse 38
 1795067014,Exklusive Erstebezug Dachterrassen-Maisonette - Wohnen über den Dächern der Servitengasse,"Wien, 09. Bezirk, Alsergrund",1090,4125.67,5,137,Wien,Wien,1.0,3,Wohnung,2025-09-14T03:35:00Z,4125.67,N/A
 2135502181,Hietzinger Cottage - Sonne den ganzen Tag - 2 Terrassen - Neubau,"Wien, 13. Bezirk, Hietzing",1130,2302.78,4,118,Wien,Wien,1.0,3,Wohnung,2025-09-14T03:35:00Z,2302.78,N/A
 2034368251,"**VIDEO** Erstbezug ab sofort - gemütliche 2 Zimmer Dachgeschosswohnung mit Balkon, klimatisiert - Apollogasse 18","Wien, 07. Bezirk, Neubau",1070,1625,2,52,Wien,Wien,1.0,3,Wohnung,2025-09-14T03:30:00Z,1625.0,Apollogasse
@@ -516,4 +517,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1194631098,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,994.99,1,32,Wien,Wien,N/A,11,Wohnung,2025-09-12T18:06:00Z,994.99,N/A
 2082225224,Modern Living at Vienna's Central Station - Provisionsfreie Mietwohnungen,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T18:06:00Z,N/A,Karl-Popper-Straße 5
 2059492447,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,2350,3,91,Wien,Wien,N/A,11,Wohnung,2025-09-12T18:06:00Z,2350.0,N/A
-1160408536,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,1240,2,45,Wien,Wien,N/A,11,Wohnung,2025-09-12T18:06:00Z,1240.0,N/A
