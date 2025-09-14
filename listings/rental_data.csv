@@ -1,6 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-542428087,| WOHNAVITA | WOHNEN MIT HILFSBEREITSCHAFT | AM LIESINGBACH,"Wien, 23. Bezirk, Liesing",1230,905.9,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:59:00Z,N/A,Hilde-Spiel-Gasse 4
-542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,806.3,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:59:00Z,N/A,Leopoldauer Straße
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,915,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:59:00Z,N/A,Dittmanngasse
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:31:00Z,N/A,Zwerngasse 49
 864177745,"Mitten im Dritten - Erstbezug nahe U3, S-Bahn und hervorragender Infrastruktur mit hochwertiger Ausstattung!","Wien, 03. Bezirk, Landstraße",1030,729,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-09T14:55:00Z,N/A,Landstraßer Hauptstraße 157
@@ -9,6 +7,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,1399.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-08T16:13:00Z,N/A,N/A
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-08T14:24:00Z,N/A,Prager Straße 105 109
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-08T10:53:00Z,N/A,N/A
+859294162,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,749.99,1,30,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,749.99,N/A
 940051469,360° TOUR // REPRÄSENTATIVE ALTBAUWOHNUNG nächst STEPHANSDOM,"Wien, 01. Bezirk, Innere Stadt",1010,4800,5,207,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,4800.0,N/A
 1072771238,360° TOUR // CITYNAHE DACHGESCHOßWOHNUNG,"Wien, 02. Bezirk, Leopoldstadt",1020,2595,3,133,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,2595.0,N/A
 1193231164,360° TOUR // TERRASSENWOHNUNG mit FERNBLICK // TERRACE APARTMENT with DISTANT VIEWS,"Wien, 19. Bezirk, Döbling",1190,3098.16,4,138,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,3098.16,N/A
@@ -197,9 +196,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1477956945,Familienfreundliche 3-Zimmer Wohnung mit 84m2 + 15m2 Loggia nähe Ottakringer Brauerei,"Wien, 16. Bezirk, Ottakring",1160,1325.52,3,84,Wien,Wien,1.0,4,Wohnung,2025-09-12T12:47:00Z,1325.52,Neulerchenfelder Straße
 1621005114,UNBEFRISTET - Repräsentative 9-Zimmer Altbauwohnung mit Balkon und Blick auf das Rathaus - ca. 293 m² in bester Innenstadtlage - auch ideal als Büronutzung,"Wien, 01. Bezirk, Innere Stadt",1010,8883.02,9,293,Wien,Wien,1.0,3,Wohnung,2025-09-12T12:47:00Z,8883.02,Bartensteingasse
 1694022972,Gepflegte Dachgeschoßwohnung nahe Wilhelminenberg,"Wien, 16. Bezirk, Ottakring",1160,1700,3,83,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T12:47:00Z,1700.0,N/A
-1920218014,Dachgeschosstraum: Schöne 2-Zimmer-Wohnung mit Klimaanlage und Terrasse,"Wien, 05. Bezirk, Margareten",1050,1599.88,2,70,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T12:38:00Z,1599.88,N/A
-974953001,"Helle 2-Zimmer-Balkonwohnung ab 01.11., wenige Schritte zur U1 Rennbahnweg","Wien, 22. Bezirk, Donaustadt",1220,929,2,41,Wien,Wien,1.0,1,Wohnung,2025-09-12T12:34:00Z,929.0,N/A
-2090258565,"Premium Neubauwohnung inkl. Garagenplatz, Nähe Pötzleinsdorfer Schlosspark","Wien, 18. Bezirk, Währing",1180,1770,2,70,Wien,Wien,1.0,1,Wohnung,2025-09-12T12:33:00Z,1770.0,Kalbeckgasse 5/5
 1808038206,"Das Projekt ""ASG IV"" in der Anton-Scharff-Gasse","Wien, 12. Bezirk, Meidling",1120,931.22,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-12T12:25:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-12T11:26:00Z,N/A,N/A
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-12T09:50:00Z,N/A,N/A
@@ -209,6 +205,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T21:41:00Z,N/A,N/A
 725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE |,"Wien, 22. Bezirk, Donaustadt",1220,745,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T12:05:00Z,N/A,Effenbergplatz
 1929104823,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-10T09:28:00Z,N/A,N/A
+542428087,| WOHNAVITA | WOHNEN MIT HILFSBEREITSCHAFT | AM LIESINGBACH,"Wien, 23. Bezirk, Liesing",1230,905.9,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:59:00Z,N/A,Hilde-Spiel-Gasse 4
+542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,806.3,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:59:00Z,N/A,Leopoldauer Straße
+823441271,"traumhafte 2 Zimmer Whg. gegenüber Schloss Hetzendorf von privat, mit Klimaanlage","Wien, 12. Bezirk, Meidling",1120,997,2,53,Wien,Wien,1.0,3,Wohnung,2025-09-14T12:38:00Z,997.0,Strohbergg. 33
 764581368,DIE ZIMMEREI | Helle 1-Zimmer-Wohnung nahe SFU und WU - ideal für Studierende | Bigger Bude,"Wien, 02. Bezirk, Leopoldstadt",1020,536,1,23,Wien,Wien,1.0,6,Wohnung,2025-09-14T12:24:00Z,536.0,Vorgartenstraße 204
 1496164356,Althietzing 3 Zimmer Wohnung Erstbezug nach Sanierung!,"Wien, 13. Bezirk, Hietzing",1130,1565,3,76,Wien,Wien,1.0,2,Wohnung,2025-09-14T12:24:00Z,1565.0,Auhofstraße 12
 1179783460,Kleine Wohnung,"Wien, 12. Bezirk, Meidling",1120,700,1,40,Wien,Wien,0.79,3,Wohnung,2025-09-14T12:05:00Z,700.0,Fockygasse
@@ -408,4 +407,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1085671399,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,960.01,1,31,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,960.01,N/A
 1856540154,360° TOUR // MÖBLIERTE LUXUS-DACHTERRASSEN-WOHNUNG mit FERNBLICK // FURNISHED LUXURIOUS TERRACE APARTMENT with DISTANT VIEWS,"Wien, 19. Bezirk, Döbling",1190,2599.8,3,101,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,2599.8,N/A
 1665030354,360° TOUR // GARTEN & TERRASSENWOHNUNG in PÖTZLEINSDORF,"Wien, 18. Bezirk, Währing",1180,4149.18,6,226,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,4149.18,N/A
-859294162,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,749.99,1,30,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T03:28:00Z,749.99,N/A
