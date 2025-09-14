@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1271127884,Sehr schöne 4-Zimmer-Wohnung mit 13m² Außenfläche!!! Sofort verfügbar!,"Wien, 19. Bezirk, Döbling",1190,2670,4,100,Wien,Wien,N/A,2,Wohnung,2025-09-13T09:06:00Z,2670.0,N/A
+1023189064,"Großzügige, charmante 137 m² Altbauwohnung I perfekter Grundriss","Wien, 01. Bezirk, Innere Stadt",1010,2879.75,3,137,Wien,Wien,1.0,2,Wohnung,2025-09-13T09:04:00Z,2879.75,Biberstraße
+1967725870,TERRASSENTRAUM | HELLE 2 ZIMMER | HOCHWERTIGE AUSSTATTUNG | PÖTZLEINSDORFER SCHLOSSPARK | TOP-GRÜNLAGE,"Wien, 18. Bezirk, Währing",1180,1431,2,70,Wien,Wien,N/A,1.OG,Wohnung,2025-09-13T08:46:00Z,1431.0,N/A
+899678776,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,52,Wien,Wien,1.0,2,Wohnung,2025-09-13T08:35:00Z,1199.0,Sankt Veit-Gasse
 1531676739,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1089,1,41,Wien,Wien,1.0,1,Wohnung,2025-09-13T08:35:00Z,1089.0,Sankt Veit-Gasse
 2070225185,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199.01,2,51,Wien,Wien,1.0,1,Wohnung,2025-09-13T08:35:00Z,1199.01,Sankt Veit-Gasse
 1737022088,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-09-13T08:35:00Z,1199.0,Sankt Veit-Gasse
@@ -143,8 +147,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1219145732,Lichtblick - Designer-Chic,"Wien, 07. Bezirk, Neubau",1070,990,1,35,Wien,Wien,1.0,5,Wohnung,2025-09-12T16:35:00Z,990.0,N/A
 1178343151,"Bestlage Innere Stadt, wenige Schritte zur Stephansdom, U1/U4 Anbindung, geräumige 2 Zimmer Wohnung","Wien, 01. Bezirk, Innere Stadt",1010,2235,2,67,Wien,Wien,1.0,7,Wohnung,2025-09-12T16:31:00Z,2235.0,Dominikanerbastei 21
 1987274384,Luxuriöse möblierte Mietwohnung mit Garten - im Herzen des 19.Bezirks,"Wien, 19. Bezirk, Döbling",1190,1590,2,56,Wien,Wien,1.0,N/A,Wohnung,2025-09-12T16:26:00Z,1590.0,N/A
-1234769771,"Tolle Maisonette DG Wohnung mit 3 Zi, Aufzug vorhanden, Nähe Hauptbahnhof","Wien, 05. Bezirk, Margareten",1050,2900,3,99,Wien,Wien,1.0,5,Wohnung,2025-09-12T15:58:00Z,2900.0,kohlgasse 2c
-1189295743,Hochwertige 5-Zimmer-Wohnung mit exklusiven Vorteilen und viel Platz,"Wien, 04. Bezirk, Wieden",1040,5479.65,5,222,Wien,Wien,1.0,1,Wohnung,2025-09-12T15:56:00Z,5479.65,Taubstummengasse
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-12T11:26:00Z,N/A,N/A
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-12T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,999.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-12T09:14:00Z,N/A,Sankt Veit-Gasse
@@ -157,6 +159,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-10T03:31:00Z,N/A,Zwerngasse 49
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-09T11:49:00Z,N/A,Donau-City Straße 8A
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-08T10:53:00Z,N/A,N/A
+1814640448,Newly renovated apartment next to the American School,"Wien, 19. Bezirk, Döbling",1190,2280,3,85,Wien,Wien,N/A,1,Wohnung,2025-09-14T15:59:00Z,2280.0,Keylwerthgasse
+1697069274,RUHELAGE !!! 2. ZIMMER MIT BALKON UND LOGGIA NAHE LUGNER CITY U6 + U3...,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1126.7,2,62,Wien,Wien,1.0,4,Wohnung,2025-09-14T15:55:00Z,1126.7,Alberichgasse 7
+1917325793,WG geeignete Zwei Zimmer Wohnung Nahe Stadhalle und Lugner City mit Loggia...,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1198.55,2,69,Wien,Wien,1.0,2,Wohnung,2025-09-14T15:55:00Z,1198.55,Loeschenkohlgasse 8
+1810067419,TOP LAGE U3+U6 2.ZI. AB SOFORT ZU VERMIETEN... !!!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,836.13,2,44,Wien,Wien,1.0,3,Wohnung,2025-09-14T15:55:00Z,836.13,Loeschenkohlgasse 8
 1672745484,2-Zimmer-Gemeindewohnung (Direktvergabe) - Toplage im 2. Bezirk nahe Donauinsel | Perfekt für Studierende oder junge Berufstätige,"Wien, 02. Bezirk, Leopoldstadt",1020,429,2,46,Wien,Wien,N/A,2,Wohnung,2025-09-14T15:48:00Z,429.0,Vorgartenstraße
 1021650531,Wohnung zu vermieten Wien 2 Bezirk Schüttelstraße ab Ende November,"Wien, 02. Bezirk, Leopoldstadt",1020,480,1,35,Wien,Wien,1.0,3,Wohnung,2025-09-14T15:46:00Z,480.0,Schüttelstraße 91
 2086863769,Gemeindewohnung,"Wien, 10. Bezirk, Favoriten",1100,650,3,61,Wien,Wien,0.79,5,Wohnung,2025-09-14T15:45:00Z,650.0,Bernhardtstalgasse
@@ -353,7 +359,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1453158888,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-09-13T09:34:00Z,1099.0,Pfalzgasse 29
 1499730469,"Lust auf Pool, Fitness und besonderen Lifestyle? Provisionsfrei","Wien, 22. Bezirk, Donaustadt",1220,1200,1,34,Wien,Wien,0.0,6,Wohnung,2025-09-13T09:19:00Z,1200.0,N/A
 794912674,WUNDERSCHÖNE INNENSTADTWOHNUNG MIT BALKON,"Wien, 01. Bezirk, Innere Stadt",1010,4987.72,5,165,Wien,Wien,1.0,4,Wohnung,2025-09-13T09:17:00Z,4987.72,N/A
-1271127884,Sehr schöne 4-Zimmer-Wohnung mit 13m² Außenfläche!!! Sofort verfügbar!,"Wien, 19. Bezirk, Döbling",1190,2670,4,100,Wien,Wien,N/A,2,Wohnung,2025-09-13T09:06:00Z,2670.0,N/A
-1023189064,"Großzügige, charmante 137 m² Altbauwohnung I perfekter Grundriss","Wien, 01. Bezirk, Innere Stadt",1010,2879.75,3,137,Wien,Wien,1.0,2,Wohnung,2025-09-13T09:04:00Z,2879.75,Biberstraße
-1967725870,TERRASSENTRAUM | HELLE 2 ZIMMER | HOCHWERTIGE AUSSTATTUNG | PÖTZLEINSDORFER SCHLOSSPARK | TOP-GRÜNLAGE,"Wien, 18. Bezirk, Währing",1180,1431,2,70,Wien,Wien,N/A,1.OG,Wohnung,2025-09-13T08:46:00Z,1431.0,N/A
-899678776,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,52,Wien,Wien,1.0,2,Wohnung,2025-09-13T08:35:00Z,1199.0,Sankt Veit-Gasse
