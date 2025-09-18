@@ -98,8 +98,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1277422923,RARITÄT: 6-Zimmer Altbauwohnung in direkter U1-Nähe!!,"Wien, 04. Bezirk, Wieden",1040,4500,6,236,Wien,Wien,N/A,2,Wohnung,2025-09-17T12:38:00Z,4500.0,N/A
 1641319286,"Kleines sehr feines Juwel, inkl. Maßküche! U-Bahn Nähe! Top Infrastruktur! Urbanes Flair! ""Alternativ geschäftliche Nutzung (Therapie, etc.) möglich""","Wien, 03. Bezirk, Landstraße",1030,997.8,1,38,Wien,Wien,N/A,4,Wohnung,2025-09-17T12:34:00Z,997.8,N/A
 2014265311,"DG-Wohnung inkl. privater Terrasse! High-Tech mit Alarmanlage, Tresor uvm. Ruhelage: an der Schmelz","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1780,3,71,Wien,Wien,1.0,5,Wohnung,2025-09-17T12:34:00Z,1780.0,Toldgasse 2
-1117391123,Toplage beim Donauzentrum & U1 - 3 Zimmer-Wohnung mit Küche,"Wien, 22. Bezirk, Donaustadt",1220,1590,3,78,Wien,Wien,1.0,N/A,Wohnung,2025-09-17T12:32:00Z,1590.0,Wagramer Straße 93/Stiege 2
 1640875088,"Matzleinsdorfer Platz 30, 2BD, Elevator","Wien, 05. Bezirk, Margareten",1050,2010,3,85,Wien,Wien,N/A,N/A,Wohnung,2025-09-17T12:32:00Z,2010.0,Matzleinsdorfer Platz 30
+1117391123,Toplage beim Donauzentrum & U1 - 3 Zimmer-Wohnung mit Küche,"Wien, 22. Bezirk, Donaustadt",1220,1590,3,78,Wien,Wien,1.0,N/A,Wohnung,2025-09-17T12:32:00Z,1590.0,Wagramer Straße 93/Stiege 2
 1712415784,"Helle, generalrenovierte Altbauwohnung in ruhiger Lage!","Wien, 01. Bezirk, Innere Stadt",1010,3427.09,5,161,Wien,Wien,1.0,4,Wohnung,2025-09-17T12:27:00Z,3427.09,N/A
 974150524,Helle 3-Zimmer-Wohnung + Kabinett beim Prater - ca. 97 m²,"Wien, 02. Bezirk, Leopoldstadt",1020,1591.02,3,100,Wien,Wien,1.0,N/A,Wohnung,2025-09-17T12:27:00Z,1591.02,N/A
 969314429,U3 Hütteldorfer Straße II Dachgeschoss II 2-Zimmer mit Wohnküche II Nähe Wien Penzing Bahnhof und S45 Breitensee,"Wien, 14. Bezirk, Penzing",1140,826.28,2,77,Wien,Wien,1.0,N/A,Wohnung,2025-09-17T12:27:00Z,826.28,N/A
@@ -199,6 +199,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1769262799,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,2300,3,92,Wien,Wien,N/A,11,Wohnung,2025-09-17T10:08:00Z,2300.0,N/A
 619119239,"1230 Wien, Ernst-Wurnig-Weg 2-4 (Meischelgasse 4A) # Immobilien MIETE","Wien, 23. Bezirk, Liesing",1230,N/A,0,N/A,Wien,Wien,N/A,N/A,Wohnung,2025-09-17T10:05:00Z,N/A,Ernst-Wurnig-Weg 2-4
 786562885,Wiener Wohnen Gemeindewohnung 16ten Bezirk Direktvergabe,"Wien, 16. Bezirk, Ottakring",1160,210,1,34,Wien,Wien,0.79,2,Wohnung,2025-09-17T10:05:00Z,210.0,ABELEGASSE
+1591345091,Traumhafte 4-Zimmer-Wohnung im Herzen von Wien - Top-Innenstadtlage beim Stephansplatz!,"Wien, 01. Bezirk, Innere Stadt",1010,2799,4,107,Wien,Wien,1.0,5,Wohnung,2025-09-18T04:44:00Z,2799.0,N/A
 957640320,PENTHOUSE LIVING - ATEMBERAUBENDER WIENBLICK - DREI RIESEN TERRASSEN - ERSTBEZUG!!,"Wien, 19. Bezirk, Döbling",1190,1995,3,98,Wien,Wien,1.0,N/A,Wohnung,2025-09-18T03:41:00Z,1995.0,N/A
 2087619990,Sonnendurchflutete DACHGESCHOSS-Wohnung nahe KUTSCHKERMARKT | 5 min Fußweg zur U6 Station Michelbeuern AKH,"Wien, 18. Bezirk, Währing",1180,1436.64,2,68,Wien,Wien,1.0,N/A,Wohnung,2025-09-18T03:35:00Z,1436.64,N/A
 1619375563,Traumwohnung nächst Kutschkermarkt,"Wien, 18. Bezirk, Währing",1180,1564.72,3,79,Wien,Wien,1.0,4,Wohnung,2025-09-18T03:31:00Z,1564.72,Währinger Straße
@@ -344,7 +345,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2017043780,KAY - TRAUMHAFTE WOHNUNGEN IN DONAUNÄHE - HERVORRAGENDE INFRASTRUKTUR,"Wien, 20. Bezirk, Brigittenau",1200,999,2,49,Wien,Wien,1.0,7,Wohnung,2025-09-17T16:36:00Z,999.0,Engerthstraße 61-63
 808573945,"Möblierte, wunderschöne 1-Zimmer-Wohnung! Kurzzeitvermietung!","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,950,1,22,Wien,Wien,1.0,1,Wohnung,2025-09-17T16:35:00Z,950.0,Herklotzgasse 31
 1286712585,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,1090,2,46,Wien,Wien,N/A,11,Wohnung,2025-09-17T16:35:00Z,1090.0,N/A
-1257655034,U6 Spittelau ums Eck- Cityapartment beim Unizentrum,"Wien, 09. Bezirk, Alsergrund",1090,727.07,2,40,Wien,Wien,N/A,N/A,Wohnung,2025-09-17T16:34:00Z,727.07,N/A
 1594772612,"Exklusive 4-Zimmer-Altbauwohnung mit Blick auf das Hotel Imperial - Kärntner Ring, 1010 Wien","Wien, 01. Bezirk, Innere Stadt",1010,3994.32,4,162,Wien,Wien,1.0,5,Wohnung,2025-09-17T16:26:00Z,3994.32,Kärntner Ring
 1397658368,Moderne Stadtwohnung! Top Lage nähe Hauptbahnhof!,"Wien, 10. Bezirk, Favoriten",1100,1199,0,55,Wien,Wien,1.0,6,Wohnung,2025-09-17T16:25:00Z,1199.0,N/A
 1267046806,EDUART-Die Kunst des Wohnens: Hochwertiger 2-Zimmer ZWEITBEZUG mit ca. 3m² Loggia! (6/5) VERFÜGBAR AB DEZEMBER!,"Wien, 18. Bezirk, Währing",1180,1145,2,43,Wien,Wien,1.0,1,Wohnung,2025-09-17T16:25:00Z,1145.0,N/A
