@@ -1,4 +1,10 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+818154415,36 m² | 2-Zimmer Wohnung mit 9m² Balkon | 2. Etage | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,869,2,36,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,869.0,Michael-Reś
+1591284448,2. Etage | 2-Zimmer Wohnung | 9m² Balkon | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,869,2,36,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,869.0,Michael-Reś
+940702990,2-Zimmer Wohnung mit 4m² Balkon | Thaliastraße | Billa im Haus | 3. Liftstock hofseitig,"Wien, 16. Bezirk, Ottakring",1160,1149,2,51,Wien,Wien,1.0,3,Wohnung,2025-09-21T09:35:00Z,1149.0,Lindauergasse
+2005526497,2 Zimmer Neubau-Wohnung | großzügige Lagerflächen verfügbar | Tiefgaragenstellplätze verfügbar,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,899.0,Michael-Reś
+1025740926,2-Zimmer Wohnung mit Balkon | Ausrichtung Nord-Osten | 1. Etage,"Wien, 21. Bezirk, Floridsdorf",1210,879,2,36,Wien,Wien,1.0,1,Wohnung,2025-09-21T09:35:00Z,879.0,Michael-Reś
+833567294,36 m² Dachgeschosswohnung mit 20m² Terrasse | 1-Zimmer Wohnung | Ausrichtung Süden,"Wien, 21. Bezirk, Floridsdorf",1210,899,1,36,Wien,Wien,1.0,1,Wohnung,2025-09-21T09:35:00Z,899.0,Michael-Reś
 1656820719,Hofseitige 2-Zimmer Wohnung mit 4m² Balkon | 3. Liftstock | Thaliastraße | Billa im Haus,"Wien, 16. Bezirk, Ottakring",1160,1149,2,51,Wien,Wien,1.0,3,Wohnung,2025-09-21T09:35:00Z,1149.0,Lindauergasse
 1087713920,36 m² | 2-Zimmer Wohnung mit 13m² Balkon | 1. Etage | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,879,2,36,Wien,Wien,1.0,1,Wohnung,2025-09-21T09:35:00Z,879.0,Michael-Reś
 1506926663,36 m² | 5. Liftstock | Moderne 2-Zimmer-Wohnung mit Heiz- und Kühlkombi,"Wien, 14. Bezirk, Penzing",1140,919,2,36,Wien,Wien,1.0,5,Wohnung,2025-09-21T09:35:00Z,919.0,Flachgasse
@@ -100,8 +106,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1931178515,ERSTBEZUG - TOWNHOUSE NAHE MAURER HAU?TPLATZ,"Wien, 23. Bezirk, Liesing",1230,1599,3,91,Wien,Wien,1.0,N/A,Wohnung,2025-09-20T10:34:00Z,1599.0,Endresstraße 94-96
 1194717866,"Single-Hit! 1,5-Zimmer Wohnung in ruhiger Lage (Innenhof) - ab 01.10.2025!","Wien, 16. Bezirk, Ottakring",1160,690,0,35,Wien,Wien,0.79,N/A,Wohnung,2025-09-20T10:24:00Z,690.0,Blumberggasse
 1377478839,UNBEFRISTET: 2-Zimmer-Balkon-Wohnung in der Landstr.Hauptstr. 73-Top 1.08,"Wien, 03. Bezirk, Landstraße",1030,1233.3,2,58,Wien,Wien,1.0,N/A,Wohnung,2025-09-20T10:23:00Z,1233.3,Landstraßer Hauptstraße 73
-1379645489,2 Zimmer Wohnung nähe Alserstrasse,"Wien, 17. Bezirk, Hernals",1170,680,2,67,Wien,Wien,N/A,1,Wohnung,2025-09-20T09:36:00Z,680.0,N/A
-1453158888,2 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-09-20T09:34:00Z,1099.0,Pfalzgasse 29
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-19T11:26:00Z,N/A,N/A
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-19T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,999.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-19T09:14:00Z,N/A,Sankt Veit-Gasse
@@ -110,10 +114,16 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 864177745,"Mitten im Dritten - Erstbezug nahe U3, S-Bahn und hervorragender Infrastruktur mit hochwertiger Ausstattung!","Wien, 03. Bezirk, Landstraße",1030,849,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-09-16T14:55:00Z,N/A,Landstraßer Hauptstraße 157
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-16T11:49:00Z,N/A,N/A
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-09-15T10:53:00Z,N/A,N/A
-2084167028,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,960,1,46,Wien,Wien,N/A,8,Wohnung,2025-09-22T09:20:00Z,960.0,N/A
+1473353279,Absolute Traumlage: Rasumofskygasse / Rochusmarkt! Top-sanierte Neubauwohnung!,"Wien, 03. Bezirk, Landstraße",1030,1190,2,50,Wien,Wien,N/A,3,Wohnung,2025-09-22T09:38:00Z,1190.0,N/A
+1464099138,AB DEZEMBER: The Metropolitan - High Class Loft Living - 1-Zimmer-Wohnung inklusive Balkon,"Wien, 10. Bezirk, Favoriten",1100,830.01,1,32,Wien,Wien,1.0,15,Wohnung,2025-09-22T09:35:00Z,830.01,Karl-Popper-Straße 5
+1092018646,Wunderschönes Luxus-Loft in idealer Lage beim Hauptbahnhof!,"Wien, 10. Bezirk, Favoriten",1100,899,1,45,Wien,Wien,1.0,9,Wohnung,2025-09-22T09:33:00Z,899.0,Karl-Popper-Straße 5
+2037669189,"SIEBENBRUNNENPLATZ/ WG-EIGNUNG! Unbefristete 72 m2 Stilaltbaumiete, 2 getrennte Zimmer, Einbauküche, Gesamtmiete 1.090,--","Wien, 05. Bezirk, Margareten",1050,1090,2,72,Wien,Wien,1.0,1,Wohnung,2025-09-22T09:29:00Z,1090.0,Högelmüllergasse
+1224304561,AB OKTOBER: Wohlfühlwohnung mit Balkon - 2 Zimmer zum Verlieben,"Wien, 22. Bezirk, Donaustadt",1220,902.59,2,50,Wien,Wien,1.0,N/A,Wohnung,2025-09-22T09:25:00Z,902.59,Benjowskigasse 44-46
+1451269371,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1110,2,46,Wien,Wien,N/A,12,Wohnung,2025-09-22T09:21:00Z,1110.0,N/A
 774632000,PROVISIONSFREI: All-inclusive fully furnished City-Apartment | ab 01.10.2025,"Wien, 10. Bezirk, Favoriten",1100,1300,2,54,Wien,Wien,0.79,3,Wohnung,2025-09-22T09:20:00Z,1300.0,Senefeldergasse
-1367938917,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1060,1,46,Wien,Wien,N/A,10,Wohnung,2025-09-22T09:19:00Z,1060.0,N/A
+2084167028,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,960,1,46,Wien,Wien,N/A,8,Wohnung,2025-09-22T09:20:00Z,960.0,N/A
 1773009276,"U3 Zippererstraße! ALL IN Miete - 2 Zimmer Wohnung neben der U-Bahn, Billa und Hyblerpark","Wien, 11. Bezirk, Simmering",1110,1400,2,44,Wien,Wien,N/A,2,Wohnung,2025-09-22T09:19:00Z,1400.0,N/A
+1367938917,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1060,1,46,Wien,Wien,N/A,10,Wohnung,2025-09-22T09:19:00Z,1060.0,N/A
 1824629406,HELLE 2-ZIMMER WOHNUNG MIT BALKON | Scherbangasse 3,"Wien, 23. Bezirk, Liesing",1230,905.42,2,54,Wien,Wien,N/A,3,Wohnung,2025-09-22T09:17:00Z,905.42,N/A
 1511935917,MÖBLIERTES APARTMENT MIT BALKON UND OUTDOOR-POOL IN RUHIGER INNENHOFLAGE,"Wien, 22. Bezirk, Donaustadt",1220,994.05,1,30,Wien,Wien,1.0,1,Wohnung,2025-09-22T09:16:00Z,994.05,N/A
 1236944870,Unbefristete Hauptmietwohnung in 1200 Wien,"Wien, 20. Bezirk, Brigittenau",1200,767.28,2,51,Wien,Wien,N/A,4,Wohnung,2025-09-22T09:00:00Z,767.28,N/A
@@ -255,7 +265,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1672106471,"35qm, voll ausgestattet, frisch renoviert, 830, - all-in, 3 J befristet, privat","Wien, 09. Bezirk, Alsergrund",1090,830,1,35,Wien,Wien,0.79,5,Wohnung,2025-09-21T14:26:00Z,830.0,Clusiusgasse
 2105534866,SANIERT! 3-Zimmerwohnung mit Lift im 12.Wiener Gemeindebezirk zu vermieten,"Wien, 12. Bezirk, Meidling",1120,1399,3,74,Wien,Wien,1.0,3,Wohnung,2025-09-21T14:24:00Z,1399.0,N/A
 778291591,MODERNE 4-ZIMMER WOHNUNG MIT BALKON,"Wien, 18. Bezirk, Währing",1180,3035,4,108,Wien,Wien,1.0,N/A,Wohnung,2025-09-21T13:55:00Z,3035.0,N/A
-1051781257,Gut aufgeteilte 2-Zimmer Wohnung im 5. Bezirk,"Wien, 05. Bezirk, Margareten",1050,660.18,2,40,Wien,Wien,0.79,N/A,Wohnung,2025-09-21T13:47:00Z,660.18,Siebenbrunnengasse
+1051781257,(reserviert) Gut aufgeteilte 2-Zimmer Wohnung im 5. Bezirk,"Wien, 05. Bezirk, Margareten",1050,660.18,2,40,Wien,Wien,0.79,N/A,Wohnung,2025-09-21T13:47:00Z,660.18,Siebenbrunnengasse
 1052194719,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,89,Wien,Wien,1.0,N/A,Wohnung,2025-09-21T13:36:00Z,1311.4,Anni-Haider-Weg 3
 888319755,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,979.85,2,61,Wien,Wien,1.0,N/A,Wohnung,2025-09-21T13:36:00Z,979.85,Anni-Haider-Weg 3
 2143076502,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,979.85,2,62,Wien,Wien,1.0,N/A,Wohnung,2025-09-21T13:36:00Z,979.85,Anni-Haider-Weg 3
@@ -304,9 +314,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2076888676,GROSS-TERRASSEN-TRAUM IN DER FERNKORNGASSE,"Wien, 10. Bezirk, Favoriten",1100,949.08,2,55,Wien,Wien,1.0,4,Wohnung,2025-09-21T10:05:00Z,949.08,Fernkorngasse
 974213995,HELLE ALTBAUWOHNUNG DER FERNKORNGASSE,"Wien, 10. Bezirk, Favoriten",1100,1045.87,3,70,Wien,Wien,1.0,4,Wohnung,2025-09-21T10:05:00Z,1045.87,Fernkorngasse
 1391241462,51 m² | hofseitige Wohnung mit Balkon | Thaliastraße | Billa im Haus | 3. Liftstock,"Wien, 16. Bezirk, Ottakring",1160,1149,2,51,Wien,Wien,1.0,3,Wohnung,2025-09-21T09:35:00Z,1149.0,Lindauergasse
-818154415,36 m² | 2-Zimmer Wohnung mit 9m² Balkon | 2. Etage | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,869,2,36,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,869.0,Michael-Reś
-1591284448,2. Etage | 2-Zimmer Wohnung | 9m² Balkon | Ausrichtung Nord-Osten,"Wien, 21. Bezirk, Floridsdorf",1210,869,2,36,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,869.0,Michael-Reś
-940702990,2-Zimmer Wohnung mit 4m² Balkon | Thaliastraße | Billa im Haus | 3. Liftstock hofseitig,"Wien, 16. Bezirk, Ottakring",1160,1149,2,51,Wien,Wien,1.0,3,Wohnung,2025-09-21T09:35:00Z,1149.0,Lindauergasse
-2005526497,2 Zimmer Neubau-Wohnung | großzügige Lagerflächen verfügbar | Tiefgaragenstellplätze verfügbar,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,2,Wohnung,2025-09-21T09:35:00Z,899.0,Michael-Reś
-1025740926,2-Zimmer Wohnung mit Balkon | Ausrichtung Nord-Osten | 1. Etage,"Wien, 21. Bezirk, Floridsdorf",1210,879,2,36,Wien,Wien,1.0,1,Wohnung,2025-09-21T09:35:00Z,879.0,Michael-Reś
-833567294,36 m² Dachgeschosswohnung mit 20m² Terrasse | 1-Zimmer Wohnung | Ausrichtung Süden,"Wien, 21. Bezirk, Floridsdorf",1210,899,1,36,Wien,Wien,1.0,1,Wohnung,2025-09-21T09:35:00Z,899.0,Michael-Reś
