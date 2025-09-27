@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                          | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          725 |            56 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/%28reserviert%29-helle-&-gem%C3%BCtliche-2-zimmer-altbauwohnung-in-1120-wien-1880212143/) | Sep 26, 17:12      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       499.86 |            44 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/sanierte-altbauwohnung---1-zimmer-%2B-kabinett-in-ruhiger-lage-in-der-storkgasse-1898668647/) | Sep 27, 19:31      |
