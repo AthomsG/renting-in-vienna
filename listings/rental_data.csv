@@ -53,8 +53,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1406344281,Helle und ruhige 2-Zimmer-Wohnung mit Balkon nahe U3,"Wien, 14. Bezirk, Penzing",1140,983,2,44,Wien,Wien,0.79,4,Wohnung,2025-10-05T19:28:00Z,983.0,Zennerstrasse
 2108612560,Traumhafte 2-Zimmer-Wohnung mit großer Terrasse und Blick auf die Alte Donau - direkt bei der U1 Alte Donau,"Wien, 22. Bezirk, Donaustadt",1220,1100,2,50,Wien,Wien,0.79,16,Wohnung,2025-10-05T19:28:00Z,1100.0,Kratochwjlestraße
 1684027873,3-Zimmerwohntraum mit Eigengarten!,"Wien, 21. Bezirk, Floridsdorf",1210,1299,3,68,Wien,Wien,1.0,0,Wohnung,2025-10-05T18:56:00Z,1299.0,Oskar-Grissemann-Straße
-1410608061,"Dachgeschoß ohne Schrägen: Singlehit mit großer Terrasse und Traumblick, Wintergarten und Abstellraum | U6 Dresdner Straße","Wien, 20. Bezirk, Brigittenau",1200,985,1,53,Wien,Wien,1.0,7,Wohnung,2025-10-05T18:55:00Z,985.0,Stromstraße 28
 2073786962,Charmante 1-Zimmer Wohnung in Innenhofruhelage - ab sofort beziehbar. - WOHNTRAUM,"Wien, 10. Bezirk, Favoriten",1100,798.86,1,47,Wien,Wien,1.0,4,Wohnung,2025-10-05T18:55:00Z,798.86,Czeikestraße 2
+1410608061,"Dachgeschoß ohne Schrägen: Singlehit mit großer Terrasse und Traumblick, Wintergarten und Abstellraum | U6 Dresdner Straße","Wien, 20. Bezirk, Brigittenau",1200,985,1,53,Wien,Wien,1.0,7,Wohnung,2025-10-05T18:55:00Z,985.0,Stromstraße 28
 1919490310,"Entspanntes Wohnen in Grünruhelage: Tolle Grundrisse, Einbauküche und Freifläche! - JETZT ZUSCHLAGEN","Wien, 10. Bezirk, Favoriten",1100,798.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-05T18:53:00Z,N/A,Laaer-Berg-Straße 110
 1392299500,"All Inclusive, Comission-free, Fully Furnished City Apartment with Balcony","Wien, 03. Bezirk, Landstraße",1030,1990,3,89,Wien,Wien,0.79,6,Wohnung,2025-10-05T18:41:00Z,1990.0,Landstraßer Hauptstraße
 868159247,EXCLUSIVE SKY-LIVING RESIDENCE WITH ROOFTOP POOL,"Wien, 22. Bezirk, Donaustadt",1220,3300,3,80,Wien,Wien,N/A,33,Wohnung,2025-10-05T18:27:00Z,3300.0,N/A
@@ -120,8 +120,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2073491306,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,896.96,2,54,Wien,Wien,1.0,3,Wohnung,2025-10-05T13:25:00Z,896.96,Anni-Haider-Weg 3
 853737059,(reserviert) Helle Wohnung mit Loggia & Kühlung - Nähe Donauinsel & Millennium City,"Wien, 20. Bezirk, Brigittenau",1200,942.22,2,47,Wien,Wien,1.0,6,Wohnung,2025-10-05T13:17:00Z,942.22,Meldemannstraße 12
 1346020686,Gemeindewohnung WIENER WOHNEN TICKET VOM 30.06.2025 oder älter notwendig,"Wien, 10. Bezirk, Favoriten",1100,530,2,51,Wien,Wien,1.0,3,Wohnung,2025-10-05T13:12:00Z,530.0,Ernst-Ludwig-gasse 4/2
-1507494625,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,945,2,46,Wien,Wien,N/A,8,Wohnung,2025-10-05T13:07:00Z,945.0,N/A
 1793076046,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,945,2,46,Wien,Wien,N/A,8,Wohnung,2025-10-05T13:07:00Z,945.0,N/A
+1507494625,DC-FLATS: High-End-Apartment bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,945,2,46,Wien,Wien,N/A,8,Wohnung,2025-10-05T13:07:00Z,945.0,N/A
 1545267885,"Charmante, ruhige 3 Zimmer Wohnung mit Balkonen an der Alten Donau","Wien, 22. Bezirk, Donaustadt",1220,2047.46,3,83,Wien,Wien,1.0,N/A,Wohnung,2025-10-05T12:58:00Z,2047.46,N/A
 1203825673,Exklusive Wohnung mit Terrasse mit Blick auf den Stephansdom,"Wien, 01. Bezirk, Innere Stadt",1010,5500,4,178,Wien,Wien,1.0,N/A,Wohnung,2025-10-05T12:57:00Z,5500.0,N/A
 1391270152,Hochhaus Grünblick: Erstbezug 15.OG | U2 | XL-Balkon,"Wien, 02. Bezirk, Leopoldstadt",1020,2100,2,55,Wien,Wien,1.0,15,Wohnung,2025-10-05T12:54:00Z,2100.0,Meiereistraße
@@ -147,7 +147,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2076888676,GROSS-TERRASSEN-TRAUM IN DER FERNKORNGASSE,"Wien, 10. Bezirk, Favoriten",1100,949.08,2,55,Wien,Wien,1.0,4,Wohnung,2025-10-05T10:05:00Z,949.08,Fernkorngasse
 962078063,HELLER SOFORTGEZUG IN DER FERNKORNGASSE,"Wien, 10. Bezirk, Favoriten",1100,1236.11,3,71,Wien,Wien,1.0,4,Wohnung,2025-10-05T10:05:00Z,1236.11,Fernkorngasse
 1500713815,"Sonnige Hofruhelage, Nähe Hanusch-KH, 47 m2, 2 Zimmer, 5 m2 Balkon","Wien, 14. Bezirk, Penzing",1140,997,2,47,Wien,Wien,1.0,2,Wohnung,2025-10-05T10:00:00Z,997.0,Hütteldorferstraße 237
-920708181,moderne 2-Zimmer Wohnung bei den Maurer Weingärten mit Pool | ZELLMANN IMMOBILIEN,"Wien, 23. Bezirk, Liesing",1230,1040.06,2,47,Wien,Wien,1.0,2,Wohnung,2025-10-05T09:58:00Z,1040.06,Heudörfelgasse
 1904904525,++MOLLARD 50++ stilvolle 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/19),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,50,Wien,Wien,1.0,4,Wohnung,2025-10-05T09:58:00Z,1525.0,N/A
 1866800113,++MOLLARD 50++ moderne 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/16),"Wien, 06. Bezirk, Mariahilf",1060,1374.99,2,43,Wien,Wien,1.0,3,Wohnung,2025-10-05T09:58:00Z,1374.99,N/A
 2137060280,++MOLLARD 50++ Außergewöhnliche 3-Zimmer-Wohnung mitten im Herzen der Stadt (1/7),"Wien, 06. Bezirk, Mariahilf",1060,1725,3,65,Wien,Wien,1.0,2,Wohnung,2025-10-05T09:58:00Z,1725.0,N/A
@@ -163,6 +162,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 981935009,++MOLLARD 50++ fantastische 2-Zimmer-Wohnung mitten im Herzen der Stadt (3/4),"Wien, 06. Bezirk, Mariahilf",1060,1275,2,49,Wien,Wien,1.0,1,Wohnung,2025-10-05T09:58:00Z,1275.0,N/A
 1150026959,++MOLLARD 50++ fantastische 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/21),"Wien, 06. Bezirk, Mariahilf",1060,1425,2,43,Wien,Wien,1.0,4,Wohnung,2025-10-05T09:58:00Z,1425.0,N/A
 1423149736,++MOLLARD 50++ Stilvolle 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/3),"Wien, 06. Bezirk, Mariahilf",1060,1374.99,2,62,Wien,Wien,1.0,1,Wohnung,2025-10-05T09:58:00Z,1374.99,N/A
+920708181,moderne 2-Zimmer Wohnung bei den Maurer Weingärten mit Pool | ZELLMANN IMMOBILIEN,"Wien, 23. Bezirk, Liesing",1230,1040.06,2,47,Wien,Wien,1.0,2,Wohnung,2025-10-05T09:58:00Z,1040.06,Heudörfelgasse
 868374013,++MOLLARD 50++ fantastische 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/23)!,"Wien, 06. Bezirk, Mariahilf",1060,2624.99,3,81,Wien,Wien,1.0,5,Wohnung,2025-10-05T09:58:00Z,2624.99,N/A
 1983039543,++MOLLARD 50++ fantastische 3-Zimmer-Wohnung mitten im Herzen der Stadt (1/25),"Wien, 06. Bezirk, Mariahilf",1060,2175,3,76,Wien,Wien,1.0,6,Wohnung,2025-10-05T09:58:00Z,2175.0,N/A
 1230611833,++MOLLARD 50++ moderne 3-Zimmer-Wohnung mitten im Herzen der Stadt (1/17),"Wien, 06. Bezirk, Mariahilf",1060,1925,3,65,Wien,Wien,1.0,4,Wohnung,2025-10-05T09:58:00Z,1925.0,N/A
