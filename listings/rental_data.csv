@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+936683419,Geräumige 2-Zimmer-Wohnung mit Loggia und Einbauküche - ab sofort beziehbar! - JETZT ZUSCHLAGEN,"Wien, 10. Bezirk, Favoriten",1100,1201.26,2,69,Wien,Wien,1.0,2,Wohnung,2025-10-11T13:35:00Z,1201.26,Humboldtgasse 38
+1215302934,Exklusive 5-Zimmer-Dachgeschosswohnung mit großzügigem Grundriss und sonnigem Balkon - JETZT ANFRAGEN,"Wien, 19. Bezirk, Döbling",1190,3724.81,5,170,Wien,Wien,1.0,N/A,Wohnung,2025-10-11T13:35:00Z,3724.81,Hutweidengasse 60A
+962951600,4 Zimmer Wohnung in Ober St. Veith (provisionsfrei),"Wien, 13. Bezirk, Hietzing",1130,1745,4,121,Wien,Wien,N/A,N/A,Wohnung,2025-10-11T13:29:00Z,1745.0,N/A
+1724192405,/ BALKON / 3 ZIMMER / 2 BÄDER / MODERNE ANLAGE / U-BAHN NÄHE,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,3,77,Wien,Wien,1.0,6,Wohnung,2025-10-11T13:26:00Z,1569.0,Graumanngasse
 843375052,NÄHE ZENTRUM HIETZING - GENERALSANIERTE STILALTBAUWOHNUNG - UNBEFRISTETE VERMIETUNG,"Wien, 14. Bezirk, Penzing",1140,3099,4,161,Wien,Wien,1.0,1,Wohnung,2025-10-11T13:24:00Z,3099.0,N/A
 1283421861,++MOLLARD 50++ Exceptional 2-room apartment in the heart of the city (1/8),"Wien, 06. Bezirk, Mariahilf",1060,1475,2,62,Wien,Wien,1.0,2,Wohnung,2025-10-11T13:04:00Z,1475.0,N/A
 1302877145,3 Zimmer Wohnung in 1200,"Wien, 20. Bezirk, Brigittenau",1200,1595,3,81,Wien,Wien,N/A,5,Wohnung,2025-10-11T12:55:00Z,1595.0,N/A
@@ -124,10 +128,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1522278728,"Charmante Altbauwohnung im 9. Bezirk - 4 Zimmer, Toplage Schottentor","Wien, 09. Bezirk, Alsergrund",1090,2499.99,4,160,Wien,Wien,N/A,N/A,Wohnung,2025-10-10T17:33:00Z,2499.99,N/A
 2125002034,++NEU++ Exklusiver Erstbezug: Charmante 2-Zimmer-Wohnung mit Terrasse & Garten - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1275,2,47,Wien,Wien,1.0,0,Wohnung,2025-10-10T17:31:00Z,1275.0,Mollardgasse 50
 976846723,++NEU++ Top Lage: Stilvolle 3-Zimmer-Maisonette mit großer Terrasse - Erstbezug - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1975,3,64,Wien,Wien,1.0,4,Wohnung,2025-10-10T17:31:00Z,1975.0,Mollardgasse 50
-1657136408,Sonnige 3-Zimmer Dachgeschoßwohnung mit Terrasse in U-Bahn-Nähe (U3),"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1599,3,96,Wien,Wien,1.0,6,Wohnung,2025-10-10T17:24:00Z,1599.0,Flachgasse
-1780495546,Smarte 1 1/2 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1045,1,46,Wien,Wien,N/A,10,Wohnung,2025-10-10T17:21:00Z,1045.0,N/A
-1456520840,"Traumblick über Wien, Belview Tower mit Gym, Wellness & Lounge, 2 Zimmer + Balkon, 12. Stock, U-Bahn","Wien, 10. Bezirk, Favoriten",1100,1815,2,47,Wien,Wien,1.0,17,Wohnung,2025-10-10T17:16:00Z,1815.0,Arsenalstraße 8
-1832770322,"Neuwertige 2-Zimmer-Wohnung in 1050 Wien - Top Lage, moderne Ausstattung!","Wien, 05. Bezirk, Margareten",1050,1640.13,2,72,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T17:15:00Z,1640.13,N/A
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-10T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1099,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-10T09:14:00Z,N/A,Sankt Veit-Gasse
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,860.12,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T21:41:00Z,N/A,N/A
@@ -136,10 +136,13 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1929104823,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-08T09:28:00Z,N/A,N/A
 542428087,| WOHNAVITA | WOHNEN MIT HILFSBEREITSCHAFT | AM LIESINGBACH,"Wien, 23. Bezirk, Liesing",1230,905.9,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T03:59:00Z,N/A,Hilde-Spiel-Gasse 4
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T03:31:00Z,N/A,Zwerngasse 49
-1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-07T11:49:00Z,N/A,N/A
 1789911651,MODERNE MIETWOHNUNG IN TOLLER LAGE | 1150 WIEN | PROVISIONSFREI,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-06T10:58:00Z,N/A,Graumanngasse
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-06T10:53:00Z,N/A,N/A
+1570658580,++FonteFlats++ Hochwertiger 3-Zimmer Neubau-ERSTBEZUG mit toller Terrasse!,"Wien, 10. Bezirk, Favoriten",1100,1499,3,68,Wien,Wien,1.0,4,Wohnung,2025-10-12T17:24:00Z,1499.0,N/A
+2006955985,AB SOFORT BEZIEHBAR!! Traumhafte Dachgeschosswohnung inkl. sehr großer Terrasse! Tolle Anbindung - U1 Kagranerplatz!!,"Wien, 22. Bezirk, Donaustadt",1220,1748.99,2,84,Wien,Wien,1.0,7,Wohnung,2025-10-12T17:24:00Z,1748.99,Finsterergasse
+1478051821,Helle 2-Zimmer + Wohnküche (ca. 65 m²) in 1120 Wien - Nachmieter: in gesucht,"Wien, 12. Bezirk, Meidling",1120,991.96,3,65,Wien,Wien,0.79,3,Wohnung,2025-10-12T17:12:00Z,991.96,Krichbaumgasse
 1302784736,Helle 1-Zimmer-Wohnung (44 m²) direkt bei der U3 Schweglerstraße - Nachmieter gesucht!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,669.58,1,44,Wien,Wien,0.79,4,Wohnung,2025-10-12T17:10:00Z,669.58,Schweglerstr
+1720820941,Helle Neubauwohnung mit traumhafter Gemeinschaftsterrasse !,"Wien, 01. Bezirk, Innere Stadt",1010,1850,3,78,Wien,Wien,0.79,4,Wohnung,2025-10-12T17:08:00Z,1850.0,Gonzagagasse
 1664847273,"Gut geschnittene, hofseitige Kleinwohnung mit separater Küche & Abstellraum in U-Bahn-Nähe (U4/U6 Längenfeldgasse)","Wien, 12. Bezirk, Meidling",1120,838.84,1,42,Wien,Wien,1.0,1,Wohnung,2025-10-12T16:54:00Z,838.84,N/A
 793261393,Sehr ruhige 3-Zimmer Neubauwohnung mit Parkplatz,"Wien, 14. Bezirk, Penzing",1140,1249,3,76,Wien,Wien,0.79,1,Wohnung,2025-10-12T16:49:00Z,1249.0,Pfaffenbergengasse
 1110616741,"*Superprojekt: ''Über den Baumwipfeln"" Top 44 Erstklassige 2-Zimmer Loggia-Wohnung + TRAUMHAFTE SÜDAUSRICHTUNG mit Blick auf die Kastanienbäume","Wien, 10. Bezirk, Favoriten",1100,1299,2,53,Wien,Wien,1.0,4,Wohnung,2025-10-12T16:34:00Z,1299.0,N/A
@@ -335,7 +338,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1029402230,"3 Zimmer, 2 Bäder, Terrasse & Bulthaup-Küche inkl. Auto-Abstellplatz // 3 Rooms, 2 Baths, terrace & Bulthaup-kitchen incl. Car-Parking //","Wien, 22. Bezirk, Donaustadt",1220,2358.97,3,108,Wien,Wien,1.0,2,Wohnung,2025-10-11T13:37:00Z,2358.97,N/A
 1872603008,Ihre Dachgeschosswohnung in der Maroltingergasse - Komfort & Weitblick im 16. Bezirk. - WOHNTRAUM,"Wien, 16. Bezirk, Ottakring",1160,1898.29,4,106,Wien,Wien,1.0,N/A,Wohnung,2025-10-11T13:36:00Z,1898.29,Maroltingergasse 57
 1343047110,2-Zimmer Wohnung in 1100 Wien: Einbauküche und Loggia inklusive. - WOHNTRAUM,"Wien, 10. Bezirk, Favoriten",1100,1365.63,2,81,Wien,Wien,1.0,2,Wohnung,2025-10-11T13:36:00Z,1365.63,Humboldtgasse 38
-936683419,Geräumige 2-Zimmer-Wohnung mit Loggia und Einbauküche - ab sofort beziehbar! - JETZT ZUSCHLAGEN,"Wien, 10. Bezirk, Favoriten",1100,1201.26,2,69,Wien,Wien,1.0,2,Wohnung,2025-10-11T13:35:00Z,1201.26,Humboldtgasse 38
-1215302934,Exklusive 5-Zimmer-Dachgeschosswohnung mit großzügigem Grundriss und sonnigem Balkon - JETZT ANFRAGEN,"Wien, 19. Bezirk, Döbling",1190,3724.81,5,170,Wien,Wien,1.0,N/A,Wohnung,2025-10-11T13:35:00Z,3724.81,Hutweidengasse 60A
-962951600,4 Zimmer Wohnung in Ober St. Veith (provisionsfrei),"Wien, 13. Bezirk, Hietzing",1130,1745,4,121,Wien,Wien,N/A,N/A,Wohnung,2025-10-11T13:29:00Z,1745.0,N/A
-1724192405,/ BALKON / 3 ZIMMER / 2 BÄDER / MODERNE ANLAGE / U-BAHN NÄHE,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,3,77,Wien,Wien,1.0,6,Wohnung,2025-10-11T13:26:00Z,1569.0,Graumanngasse
