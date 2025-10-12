@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1945737709,Q11 Leben in Simmering - Lichtdurchflutete Balkonwohnung mit 3 Zimmern und Deckenkühlung!,"Wien, 11. Bezirk, Simmering",1110,1489.24,3,80,Wien,Wien,1.0,4,Wohnung,2025-10-10T12:53:00Z,1489.24,Simmeringer Hauptstraße 170
+1435113273,PRÄCHTIGE 4 ZIMMER-WOHNUNG - KÜCHE + 2 BÄDER + 2 TERRASSEN + FITNESSRAUM - ATTEMSGARTEN,"Wien, 22. Bezirk, Donaustadt",1220,2323.94,4,100,Wien,Wien,N/A,N/A,Wohnung,2025-10-10T12:53:00Z,2323.94,N/A
+1146130099,"Blueground ID476, Landstraße","Wien, 03. Bezirk, Landstraße",1030,3280,3,10367,Wien,Wien,1.0,6,Wohnung,2025-10-10T12:52:00Z,3280.0,Dannebergplatz 16A
+1712024851,"""Sicher Parken im Herzen von Kagran - Ihr Stellplatz im Projekt Das Arakawa""","Wien, 22. Bezirk, Donaustadt",1220,111.38,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T12:48:00Z,111.38,Tokiostrasse 5A
 1247189404,Charmante Wohnung mit im Herzen von Wien!,"Wien, 01. Bezirk, Innere Stadt",1010,1624.58,2,90,Wien,Wien,1.0,1,Wohnung,2025-10-10T12:48:00Z,1624.58,N/A
 1471971926,IU - Schöne 2-Zimmer Wohnung mit Balkon,"Wien, 03. Bezirk, Landstraße",1030,1349,2,56,Wien,Wien,1.0,3,Wohnung,2025-10-10T12:48:00Z,1349.0,Wehleweg
 1621005114,UNBEFRISTET - Repräsentative 9-Zimmer Altbauwohnung mit Balkon und Blick auf das Rathaus - ca. 293 m² in bester Innenstadtlage - auch ideal als Büronutzung,"Wien, 01. Bezirk, Innere Stadt",1010,8883.02,9,293,Wien,Wien,1.0,3,Wohnung,2025-10-10T12:47:00Z,8883.02,Bartensteingasse
@@ -27,10 +31,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1407111850,Traumhafte 3-Zimmer-Wohnung in der Wipplingerstraße,"Wien, 01. Bezirk, Innere Stadt",1010,3998.45,3,150,Wien,Wien,1.0,4,Wohnung,2025-10-10T11:58:00Z,3998.45,N/A
 2067805503,Unbefristete Wohnung nähe Floridsdorfer Spitz,"Wien, 21. Bezirk, Floridsdorf",1210,694.4,1,46,Wien,Wien,1.0,1,Wohnung,2025-10-10T11:58:00Z,694.4,N/A
 1350016806,360° TOUR // GENERALSANIERTE ALTBAUWOHNUNG // CLASSIC STYLE APARTMENT,"Wien, 04. Bezirk, Wieden",1040,3394.6,5,144,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T11:57:00Z,3394.6,N/A
-963481848,Lichtdurchflutete 2-Zimmer-Dachgeschosswohnung mit großer Terrasse in Kagran,"Wien, 22. Bezirk, Donaustadt",1220,1350,2,55,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T11:51:00Z,1350.0,Tokiostraße 5A Top 117
-1324120296,"Klassischer Altbau, 6 Zimmer, Nähe Judenplatz - unbefristet zu mieten","Wien, 01. Bezirk, Innere Stadt",1010,3796.89,6,203,Wien,Wien,N/A,3,Wohnung,2025-10-10T11:49:00Z,3796.89,N/A
-1236968115,"UNBEFRISTET, 3-Zimmer Dachgeschoßwohnung mit wunderschönem Ausblick - klimatisiert","Wien, 06. Bezirk, Mariahilf",1060,1990,3,108,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T11:48:00Z,1990.0,N/A
-812289887,*** Dachgeschoßgenießer aufgepasst *** 4 Zimmer zentral begehbar in der Zieglergasse 50 *** - ab sofort,"Wien, 07. Bezirk, Neubau",1070,2459,4,98,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T11:46:00Z,2459.0,Zieglergasse
 1729630906,Sofort verfügbar: Hochwertige 2- bis 3-Zimmer Erstbezug-Wohnungen im Herzen von Hernals in 1170 Wien zu mieten,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-10T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1099,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-10T09:14:00Z,N/A,Sankt Veit-Gasse
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-09T13:44:00Z,N/A,Prager Straße 105 109
@@ -45,6 +45,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1661922315,EFFENBERGPLATZ - WOHNGENUSS NAHE DER DONAU - VIELE EXTRAS ZUM WOHLFÜHLEN. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-06T17:14:00Z,N/A,Kaisermühlenstraße 8
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-06T14:24:00Z,N/A,Prager Straße 105 109
 1789911651,MODERNE MIETWOHNUNG IN TOLLER LAGE | 1150 WIEN | PROVISIONSFREI,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-06T10:58:00Z,N/A,Graumanngasse
+1936244804,"*Superprojekt: ''Über den Baumwipfeln"" TOP 46 MIT ÜBERDACHTEM BALKON (17,5 m²)","Wien, 10. Bezirk, Favoriten",1100,2270,4,101,Wien,Wien,1.0,4,Wohnung,2025-10-12T11:54:00Z,2270.0,N/A
+1565006100,Suche Nachmieter für zwei Zimmerwohnung in Wien Liesing (Waldmühle Rodaun),"Wien, 23. Bezirk, Liesing",1230,570,2,60,Wien,Wien,0.96,1,Wohnung,2025-10-12T11:47:00Z,570.0,Kaltenleutgener Strasse 24/7/5
+1990385333,++ schön und zentral wohnen ++ Rosensteingasse ++ 1170 Wien,"Wien, 17. Bezirk, Hernals",1170,1490,4,80,Wien,Wien,N/A,2,Wohnung,2025-10-12T11:47:00Z,1490.0,N/A
+1141421214,Wohnungsvermietung in Kagran (vollmöbliert),"Wien, 22. Bezirk, Donaustadt",1220,1750,3,86,Wien,Wien,0.79,1,Wohnung,2025-10-12T11:43:00Z,1750.0,Hans-Pollak-Weg
 1808075429,Charmante Altbauwohnung in Toplage auf der Praterstraße - ruhige Hoflage mitten im 2. Bezirk,"Wien, 02. Bezirk, Leopoldstadt",1020,1260.49,3,92,Wien,Wien,1.0,3,Wohnung,2025-10-12T11:35:00Z,1260.49,N/A
 892782738,(reserviert) Exklusive 2-Zimmer Wohnung mit Traumblick & Top-Ausstattung im Triiiple Tower - 1030 Wien,"Wien, 03. Bezirk, Landstraße",1030,1240.03,2,34,Wien,Wien,1.0,4,Wohnung,2025-10-12T11:33:00Z,1240.03,Schnirchgasse 9
 1866811255,*Provisionsfrei* - Elegante Wohnung mit Loggia im 19. Bezirk (Döbling),"Wien, 19. Bezirk, Döbling",1190,1450,2,55,Wien,Wien,0.79,N/A,Wohnung,2025-10-12T11:26:00Z,1450.0,Gatterburggasse
@@ -441,7 +445,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1985079611,Exklusive 2-Zimmer Wohnung mit lichtdurchflutetem Wohnzimmer in absoluter Ruhelage - jetzt Anfragen!,"Wien, 21. Bezirk, Floridsdorf",1210,1049,2,57,Wien,Wien,1.0,2,Wohnung,2025-10-10T12:56:00Z,1049.0,N/A
 1917719086,"ADELE - 2-Zimmerwohnung mit Balkon + hauseigenem Fitnessstudio, Pool & Gemeinschaftsdachterrasse!","Wien, 10. Bezirk, Favoriten",1100,1060,2,43,Wien,Wien,1.0,2,Wohnung,2025-10-10T12:55:00Z,1060.0,N/A
 1930064046,Neubau! Siedlung Rustenfeld! 2-Zimmer Wohnung im Dachgeschoss mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1403.05,2,73,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T12:55:00Z,1403.05,N/A
-1945737709,Q11 Leben in Simmering - Lichtdurchflutete Balkonwohnung mit 3 Zimmern und Deckenkühlung!,"Wien, 11. Bezirk, Simmering",1110,1489.24,3,80,Wien,Wien,1.0,4,Wohnung,2025-10-10T12:53:00Z,1489.24,Simmeringer Hauptstraße 170
-1435113273,PRÄCHTIGE 4 ZIMMER-WOHNUNG - KÜCHE + 2 BÄDER + 2 TERRASSEN + FITNESSRAUM - ATTEMSGARTEN,"Wien, 22. Bezirk, Donaustadt",1220,2323.94,4,100,Wien,Wien,N/A,N/A,Wohnung,2025-10-10T12:53:00Z,2323.94,N/A
-1146130099,"Blueground ID476, Landstraße","Wien, 03. Bezirk, Landstraße",1030,3280,3,10367,Wien,Wien,1.0,6,Wohnung,2025-10-10T12:52:00Z,3280.0,Dannebergplatz 16A
-1712024851,"""Sicher Parken im Herzen von Kagran - Ihr Stellplatz im Projekt Das Arakawa""","Wien, 22. Bezirk, Donaustadt",1220,111.38,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-10-10T12:48:00Z,111.38,Tokiostrasse 5A
