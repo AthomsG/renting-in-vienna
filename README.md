@@ -24,6 +24,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                       | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       650    |            61 |          3 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-2086863769/)                          | Oct 12, 15:45      |
 |       737.01 |            68 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/%28reserviert%29-wohnung-vermieten-2082541844/)       | Oct 12, 14:37      |
 |       552    |            49 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/nachmieter-gemeindewohnung-1213363772/)                 | Oct 11, 19:40      |
 |       770    |            41 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/wohnen-in-der-seegasse---unbefristet%21-2114058761/) | Oct 11, 16:20      |
