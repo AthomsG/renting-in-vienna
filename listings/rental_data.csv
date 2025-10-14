@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1650523939,"Short-term apartment in walking distance to AUGARTEN, 1-6 months, fully furnished with balcony!","Wien, 02. Bezirk, Leopoldstadt",1020,1199.99,1,36,Wien,Wien,1.0,4,Wohnung,2025-10-13T10:45:00Z,1199.99,N/A
 2099993256,++MOLLARD 50++ Outstanding 3-room apartment in a prime central location (1/7),"Wien, 06. Bezirk, Mariahilf",1060,1724.97,3,65,Wien,Wien,1.0,2,Wohnung,2025-10-13T10:45:00Z,1724.97,N/A
 1830209272,++MOLLARD 50++ fantastische 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/20),"Wien, 06. Bezirk, Mariahilf",1060,1625,2,53,Wien,Wien,1.0,4,Wohnung,2025-10-13T10:45:00Z,1625.0,N/A
 1479252825,++MOLLARD 50++ Fantastic 2-Room Apartment in the Heart of the City (2/9),"Wien, 06. Bezirk, Mariahilf",1060,1674.98,2,56,Wien,Wien,1.0,3,Wohnung,2025-10-13T10:45:00Z,1674.98,N/A
@@ -112,7 +113,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1991592446,2-Zimmer-Wohnung im Erdgeschoss - Direktvergabe (nur mit gültigem Wiener Wohn-Ticket vor dem 30.09.2025),"Wien, 12. Bezirk, Meidling",1120,450,2,41,Wien,Wien,1.0,EG,Wohnung,2025-10-12T19:59:00Z,450.0,Wolfganggasse 50-52
 908634689,(reserviert) Gemeinde Wohnung 75m2 im 11. Bezirk ( nur mit Wohnticket vor dem 31.03.2025),"Wien, 11. Bezirk, Simmering",1110,785,3,75,Wien,Wien,1.0,6,Wohnung,2025-10-12T19:48:00Z,785.0,Widholzgasse 1
 1141400470,++PROJEKT MOLLARD 50++ stilvolle 2-4-Zimmer-Wohnungen mitten im Herzen der Stadt,"Wien, 06. Bezirk, Mariahilf",1060,1275,2,40,Wien,Wien,1.0,2,Wohnung,2025-10-12T19:34:00Z,1275.0,N/A
-1694067777,Attraktive Wohnung in Grünlage gelangt zur Vermietung!,"Wien, 11. Bezirk, Simmering",1110,1200,3,73,Wien,Wien,0.79,3,Wohnung,2025-10-12T19:28:00Z,1200.0,Pretschgasse
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1625,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-12T03:28:00Z,N/A,Apollogasse
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,949.97,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-11T03:18:00Z,N/A,N/A
 1341676212,Historisches Ambiente trifft moderne Erweiterung: Erstbezug im Altbau mit Zubau & DG-Ausbau,"Wien, 14. Bezirk, Penzing",1140,844,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-10T13:24:00Z,N/A,Zehetnergasse 24 / Linzer Straße 237A
@@ -128,6 +128,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T03:59:00Z,N/A,Dittmanngasse
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,938.62,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T03:59:00Z,N/A,Leopoldauer Straße
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1198.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-08T02:53:00Z,N/A,Arsenalstraße 8
+1018499837,VOLLMÖBLIERTE GEMÜTLICHE 1 ZIMMERWOHNUNG PROVISIONSFREI,"Wien, 16. Bezirk, Ottakring",1160,990,1,28,Wien,Wien,0.79,EG,Wohnung,2025-10-14T19:29:00Z,990.0,Hasnerstrasse
 1765800499,TOP Moderne Wohnung in Kaisermühlen direkt am Wasser nahe VIC/ UNO,"Wien, 22. Bezirk, Donaustadt",1220,1463.8,2,61,Wien,Wien,N/A,N/A,Wohnung,2025-10-14T19:13:00Z,1463.8,N/A
 1753582660,++NEU++ Exklusiver Neubau: Stilvolle 2-Zimmer-Wohnung mit Balkon im 4. OG - Erstbezug (mollard50),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,50,Wien,Wien,1.0,3,Wohnung,2025-10-14T19:00:00Z,1525.0,Mollardgasse 50
 1200002276,++NEU++ Exklusiver Erstbezug: 3-Zimmer-Wohnung mit großer Dachterrasse - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,2575,3,81,Wien,Wien,1.0,4,Wohnung,2025-10-14T19:00:00Z,2575.0,Mollardgasse 50
@@ -200,7 +201,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1769863831,Moderne 2-Zimmer-Wohnung mit Weitblick-Balkon bei U1 Oberlaa!,"Wien, 10. Bezirk, Favoriten",1100,1192.33,2,56,Wien,Wien,1.0,10,Wohnung,2025-10-14T16:59:00Z,1192.33,Kurbadstraße 8
 1944572016,TRAUMHAFTE FAMILIENWOHNUNG MIT GARTEN - 4 ZIMMER UND EXKLUSIVE AUSSTATTUNG,"Wien, 22. Bezirk, Donaustadt",1220,2990,4,122,Wien,Wien,1.0,0,Wohnung,2025-10-14T16:56:00Z,2990.0,Lobaugasse 25
 818866190,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 1-Zimmer ERSTBEZUG mit Balkon! Tischler-Einbaumöbel! +Provisionsfrei+,"Wien, 12. Bezirk, Meidling",1120,1044.01,1,46,Wien,Wien,1.0,3,Wohnung,2025-10-14T16:56:00Z,1044.01,N/A
-1680925443,Gemeindewohnung Nähe U1 Oberlaa VMD bis 31.08.2025,"Wien, 10. Bezirk, Favoriten",1100,563.9,2,62,Wien,Wien,1.0,7,Wohnung,2025-10-14T16:56:00Z,563.9,Franz-Koci-Straße 2
+1680925443,Gemeindewohnung Nähe U1 Oberlaa VMD bis 31.08.2025,"Wien, 10. Bezirk, Favoriten",1100,563.9,2,62,Wien,Wien,1.0,4,Wohnung,2025-10-14T16:56:00Z,563.9,Franz-Koci-Straße 2
 827547806,Traumhafte 2-Zimmer-Wohnung mit Balkon in Ober St.Veit!,"Wien, 13. Bezirk, Hietzing",1130,1249,2,51,Wien,Wien,1.0,1,Wohnung,2025-10-14T16:55:00Z,1249.0,Bergenstammgasse
 831595020,Sonnige Neubauwohnung in perfekten Zustand in Bestlage nur 2-3 Min. zur Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,1140,2,57,Wien,Wien,1.0,3,Wohnung,2025-10-14T16:54:00Z,1140.0,Schmalzhofgasse 7
 1398054338,"Wohnheim ""Heim-Vorteil"" Ankerbrot(fabrik) - Modernes Wohnen im neuen Stadtquartier Bienvenue","Wien, 10. Bezirk, Favoriten",1100,580,1,55,Wien,Wien,1.0,N/A,Wohnung,2025-10-14T16:52:00Z,580.0,Puchsbaumgasse 1/6
@@ -327,7 +328,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1982454879,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer ERSTBEZUG mit TERRASSE! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1523.08,2,57,Wien,Wien,1.0,N/A,Wohnung,2025-10-14T14:23:00Z,1523.08,N/A
 887322475,2-Zimmer-Wohnung mit Balkon - Erstbezug in Niedrigenergiehaus - in 1110 Wien zu mieten,"Wien, 11. Bezirk, Simmering",1110,995,2,50,Wien,Wien,N/A,4,Wohnung,2025-10-14T14:22:00Z,995.0,N/A
 1938719719,room4rent - Serviced Apartments | MUSIC BOX_Large,"Wien, 10. Bezirk, Favoriten",1100,1000,1,29,Wien,Wien,1.0,N/A,Wohnung,2025-10-14T14:21:00Z,1000.0,Bloch Bauer Promenade19
-1784002155,2 ZIMMER |TERRASSE | GARTEN | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER,"Wien, 13. Bezirk, Hietzing",1130,1159,2,48,Wien,Wien,1.0,0,Wohnung,2025-10-14T14:20:00Z,1159.0,St. Veit-Gasse 25
+1121242417,"*Superprojekt: ""Über den Baumwipfeln"" Top 43 Erstklassige 3-Zimmer Wohnung mit Blick auf die Kastanienbäume + Innenhof-Balkon","Wien, 10. Bezirk, Favoriten",1100,1499,3,68,Wien,Wien,1.0,4,Wohnung,2025-10-13T19:32:00Z,1499.0,N/A
 790965864,(reserviert) Direktvergabe Siedlungshaus (Gemeinde Wien) - 3 Zimmer,"Wien, 23. Bezirk, Liesing",1230,955,3,79,Wien,Wien,1.0,2,Wohnung,2025-10-13T19:17:00Z,955.0,Oldenburggasse 13-27
 1020111462,"Wohnung zu Vermieten monatlich inkl. Strom, Wasser, Internet(bitte genau Beschreibung lesen)","Wien, 21. Bezirk, Floridsdorf",1210,800,2,42,Wien,Wien,N/A,1,Wohnung,2025-10-13T19:14:00Z,800.0,N/A
 1595417586,"Frisch sanierte 4 Zi im 14. Bezirk, ruhige Lage, U3 Kendlerstraße, Balkon, Gemeinschaftsgarten","Wien, 14. Bezirk, Penzing",1140,2375,4,102,Wien,Wien,1.0,4,Wohnung,2025-10-13T19:10:00Z,2375.0,Maroltingergasse 24
@@ -527,7 +528,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1505487860,"Alles da: vollmöbliert, smart ausgestattet & sofort beziehbar","Wien, 20. Bezirk, Brigittenau",1200,1242.4,1,32,Wien,Wien,1.0,25,Wohnung,2025-10-13T13:45:00Z,1242.4,Dresdner Straße
 1708133896,Top-Ausstattung trifft Design: Wohnen auf höchstem Niveau,"Wien, 20. Bezirk, Brigittenau",1200,1288.6,1,34,Wien,Wien,1.0,25,Wohnung,2025-10-13T13:45:00Z,1288.6,Dresdner Straße
 1459025436,Special Opening Offer: 2 Monate mietzinsfrei!,"Wien, 20. Bezirk, Brigittenau",1200,3537,4,105,Wien,Wien,1.0,25,Wohnung,2025-10-13T13:45:00Z,3537.0,Dresdner Straße
-1891418734,Nachhaltiges Wohnen in Niedrigenergiebauweise,"Wien, 20. Bezirk, Brigittenau",1200,1231.4,1,32,Wien,Wien,1.0,25,Wohnung,2025-10-13T13:45:00Z,1231.4,Dresdner Straße
+1784002155,2 ZIMMER |TERRASSE | GARTEN | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER,"Wien, 13. Bezirk, Hietzing",1130,1159,2,48,Wien,Wien,1.0,0,Wohnung,2025-10-14T14:20:00Z,1159.0,St. Veit-Gasse 25
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1209.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-14T14:20:00Z,N/A,Dresdner Straße
 1852298876,Möbliert! Das Herzstück - von der Sonne geküsst! Große 2 Zimmerwohnung nur JETZT!,"Wien, 13. Bezirk, Hietzing",1130,1900,2,61,Wien,Wien,N/A,2,Wohnung,2025-10-14T14:20:00Z,1900.0,N/A
 1843870342,ERSTBEZUG: Prachtvolle 6-Zimmer-Altbauwohnung im Bräunerhof - unbefristete Miete in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,4695,6,196,Wien,Wien,N/A,3,Wohnung,2025-10-14T14:19:00Z,4695.0,N/A
@@ -927,7 +928,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1161605905,(reserviert) Lichtdurchflutete 2-Zimmer-Wohnung im Herzen Mauers,"Wien, 23. Bezirk, Liesing",1230,896.5,2,52,Wien,Wien,1.0,N/A,Wohnung,2025-10-13T19:52:00Z,896.5,Maurer Lange Gasse 80-82
 2137812786,Helle 5 - Zimmer Wohnung in zentraler Lage - Schönbrunner Straße - Margaretenplatz!,"Wien, 05. Bezirk, Margareten",1050,2349,5,144,Wien,Wien,1.0,3,Wohnung,2025-10-13T19:39:00Z,2349.0,N/A
 1003639579,Pärchen-Wohnung in Top-Lage,"Wien, 01. Bezirk, Innere Stadt",1010,1250,1,35,Wien,Wien,1.0,N/A,Wohnung,2025-10-13T19:32:00Z,1250.0,N/A
-1121242417,"*Superprojekt: ""Über den Baumwipfeln"" Top 43 Erstklassige 3-Zimmer Wohnung mit Blick auf die Kastanienbäume + Innenhof-Balkon","Wien, 10. Bezirk, Favoriten",1100,1499,3,68,Wien,Wien,1.0,4,Wohnung,2025-10-13T19:32:00Z,1499.0,N/A
+1891418734,Nachhaltiges Wohnen in Niedrigenergiebauweise,"Wien, 20. Bezirk, Brigittenau",1200,1231.4,1,32,Wien,Wien,1.0,25,Wohnung,2025-10-13T13:45:00Z,1231.4,Dresdner Straße
 1861998623,"Gemeinschaft neu gedacht: Wohnen mit Lounge, Spielplatz & mehr","Wien, 20. Bezirk, Brigittenau",1200,2228,2,62,Wien,Wien,1.0,24,Wohnung,2025-10-13T13:45:00Z,2228.0,Dresdner Straße
 855886517,Top-Ausstattung trifft Design: Wohnen auf höchstem Niveau,"Wien, 20. Bezirk, Brigittenau",1200,1264.4,1,32,Wien,Wien,1.0,27,Wohnung,2025-10-13T13:45:00Z,1264.4,Dresdner Straße
 974417189,Smart Living in Brigittenau - Ihr neues Zuhause mit Stil,"Wien, 20. Bezirk, Brigittenau",1200,1437.1,2,36,Wien,Wien,1.0,26,Wohnung,2025-10-13T13:45:00Z,1437.1,Dresdner Straße
@@ -1127,4 +1128,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2086334911,"Sonnige 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1110,2,45,Wien,Wien,N/A,11,Wohnung,2025-10-13T10:50:00Z,1110.0,N/A
 993343961,3 Zimmer ca. 93 m² + 6 m² Terrasse,"Wien, 22. Bezirk, Donaustadt",1220,1486.93,3,93,Wien,Wien,1.0,N/A,Wohnung,2025-10-13T10:48:00Z,1486.93,N/A
 946524625,Modernes Stadtleben mit Balkon - 2-Zimmer-Wohnung in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,925,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-10-13T10:48:00Z,925.0,Tokiostraße Top 26
-1650523939,"Short-term apartment in walking distance to AUGARTEN, 1-6 months, fully furnished with balcony!","Wien, 02. Bezirk, Leopoldstadt",1020,1199.99,1,36,Wien,Wien,1.0,4,Wohnung,2025-10-13T10:45:00Z,1199.99,N/A
