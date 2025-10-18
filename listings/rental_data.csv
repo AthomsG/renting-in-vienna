@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1693051704,++MOLLARD 50++ Unique 3-room apartment in the very heart of the city (2/12)!,"Wien, 06. Bezirk, Mariahilf",1060,2575,3,81,Wien,Wien,1.0,4,Wohnung,2025-10-16T18:56:00Z,2575.0,N/A
+1842418217,++MOLLARD 50++ Unique 3-room apartment in the city center (1/12),"Wien, 06. Bezirk, Mariahilf",1060,1874.99,3,65,Wien,Wien,1.0,3,Wohnung,2025-10-16T18:56:00Z,1874.99,N/A
 1386803403,POG 81 - Hochwertige Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,820.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-16T18:54:00Z,N/A,Pogrelzstraße 81
 799693341,++NEU++ Neubau: Großzügige 3-Zimmer-Wohnung mit Balkon im 2. OG - Erstbezug - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,2025,3,71,Wien,Wien,1.0,3,Wohnung,2025-10-16T18:34:00Z,2025.0,Mollardgasse 50
 1320663669,++NEU++ Exklusiver Erstbezug: 3-Zimmer-Wohnung mit großer Dachterrasse - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,2575,3,81,Wien,Wien,1.0,4,Wohnung,2025-10-16T18:34:00Z,2575.0,Mollardgasse 50
@@ -39,8 +41,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2024624562,"Hell und modern! Top 2-Zimmer Wohnung nahe U6, Millennium City und Donau! Ab 01.01.2026","Wien, 20. Bezirk, Brigittenau",1200,949.01,2,42,Wien,Wien,1.0,2,Wohnung,2025-10-16T16:57:00Z,949.01,Engerthstraße 102
 1307866182,Neu sanierte 5-Zimmer-Luxuswohnung mit idealer Raumaufteilung in erstklassiger Innenstadtlage,"Wien, 01. Bezirk, Innere Stadt",1010,3841.54,5,138,Wien,Wien,N/A,N/A,Wohnung,2025-10-16T16:57:00Z,3841.54,N/A
 1114012180,Moderne 3-Zimmer-Wohnung mit Weitblick - Ihr Erstbezug wartet!,"Wien, 22. Bezirk, Donaustadt",1220,2220,3,61,Wien,Wien,1.0,7,Wohnung,2025-10-16T16:55:00Z,2220.0,Wagramer Straße
-1490047885,"Erstbezug: 1,5 Zimmer-Wohnung im Neubauprojekt DC Flats - sofort verfügbar - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1240,2,45,Wien,Wien,N/A,16,Wohnung,2025-10-16T16:49:00Z,1240.0,N/A
-1242396700,Wunderschöne 3-Zimmerwohnung mit Loggia in U3-Nähe,"Wien, 16. Bezirk, Ottakring",1160,1199,2,60,Wien,Wien,1.0,4,Wohnung,2025-10-16T16:37:00Z,1199.0,Adolf-Czettel-Gasse
 1958729861,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur! - JETZT ZUSCHLAGEN","Wien, 21. Bezirk, Floridsdorf",1210,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-16T13:44:00Z,N/A,Prager Straße 105 109
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,973.2,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-15T21:41:00Z,N/A,N/A
 1588366112,Vienna City Flair & Nature Combined: Living at Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1209.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-15T15:14:00Z,N/A,Dresdner Straße
@@ -61,6 +61,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-13T10:53:00Z,N/A,N/A
 1924380161,Engerth 102- 5 Minuten zu U6 und S-Bahn HANDELSKAI! Hochwertige Einbauküchen und moderne Architektur - JETZT ANFRAGEN,"Wien, 20. Bezirk, Brigittenau",1200,899,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-13T06:53:00Z,N/A,Engerthstraße 102
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-07T12:39:00Z,N/A,N/A
+2061238125,Nähe Waldmüllerpark | Helle 2-Zimmer-Wohnung - ideal für Singles!,"Wien, 10. Bezirk, Favoriten",1100,799,2,42,Wien,Wien,1.0,8,Wohnung,2025-10-17T16:16:00Z,799.0,N/A
+1004587434,vollklimatisierte 4-Zimmer Wohnung,"Wien, 06. Bezirk, Mariahilf",1060,2695,4,105,Wien,Wien,1.0,N/A,Wohnung,2025-10-17T16:16:00Z,2695.0,N/A
 1643216824,++NEU++ Exklusiver Neubau: Geräumige 3-Zimmer-Wohnung mit Terrasse & großem Garten - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1625,3,67,Wien,Wien,1.0,0,Wohnung,2025-10-17T16:09:00Z,1625.0,Mollardgasse 50
 1023296774,"++NEU++ Erstbezug: Helle 2-Zimmer-Wohnung mit Loggia im 1. OG - Mollardgasse 50, 1060 Wien","Wien, 06. Bezirk, Mariahilf",1060,1275,2,58,Wien,Wien,1.0,1,Wohnung,2025-10-17T16:09:00Z,1275.0,Mollardgasse 50
 1276480992,++NEU++ Exklusiver Erstbezug: Moderne 2-Zimmer-Wohnung mit Loggia im 3. OG - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1425,2,50,Wien,Wien,1.0,3,Wohnung,2025-10-17T16:09:00Z,1425.0,Mollardgasse 50
@@ -259,8 +261,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1424195898,++MOLLARD 50++ fantastische 3-Zimmer-Wohnung mitten im Herzen der Stadt (3/9),"Wien, 06. Bezirk, Mariahilf",1060,1975,3,64,Wien,Wien,1.0,4,Wohnung,2025-10-17T10:44:00Z,1975.0,N/A
 1654519143,++MOLLARD 50++ Premium 2-room apartment in the heart of the city (2/10),"Wien, 06. Bezirk, Mariahilf",1060,1224.98,2,45,Wien,Wien,1.0,3,Wohnung,2025-10-17T10:44:00Z,1224.98,N/A
 1949663752,++MOLLARD 50++ perfekte 2-Zimmer-Wohnung mitten im Herzen der Stadt (2/8),"Wien, 06. Bezirk, Mariahilf",1060,1424.97,2,54,Wien,Wien,1.0,2,Wohnung,2025-10-17T10:44:00Z,1424.97,N/A
-1861901230,++MOLLARD 50++ Großartige 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/5),"Wien, 06. Bezirk, Mariahilf",1060,1324.98,2,54,Wien,Wien,1.0,1,Wohnung,2025-10-17T10:44:00Z,1324.98,N/A
-1559206813,orea | Gemütliche 2-Zimmer-Wohnung mit Terrasse im ruhigen Innenhof | Smart besichtigen · Online anmieten,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,899,2,48,Wien,Wien,1.0,0,Wohnung,2025-10-17T10:38:00Z,899.0,Flachgasse
+774575138,MIETKAUF mit Fixpreisgarantie - Wohnen im Grünen nahe Badeteich Hirschstetten & U2,"Wien, 22. Bezirk, Donaustadt",1220,1035.1,2,62,Wien,Wien,1.0,0,Wohnung,2025-10-18T16:45:00Z,1035.1,Anni-Haider-Weg 3
+2047827551,Couple Loft For Internationals - Stylish Fully Furnished Apartment All inclusive - SHORT TERM RENTAL 3 - 6 MONTHS ONLY | COMMISSION FREE,"Wien, 17. Bezirk, Hernals",1170,860,2,30,Wien,Wien,1.0,N/A,Wohnung,2025-10-18T16:40:00Z,860.0,Hernalser Hauptstraße 170
 1893604330,DIE ZIMMEREI | Möblierte 2-Zimmer-Wohnung mit Balkon in der Leopoldstadt | 2nd district | Maxi Bude,"Wien, 02. Bezirk, Leopoldstadt",1020,722,2,32,Wien,Wien,1.0,10,Wohnung,2025-10-18T16:28:00Z,722.0,Vorgartenstraße 204
 976483410,Renovierte Wohnung mit WG-Eignung (3 Zimmer),"Wien, 03. Bezirk, Landstraße",1030,1207.6,3,76,Wien,Wien,0.79,2,Wohnung,2025-10-18T16:01:00Z,1207.6,Landstraßer Gür
 1897386059,ERSTBEZUG -=Das Laurenz= 2 Zimmer Wohnung mit Loggia U3 - 1 Bedroom apartment with Loggia,"Wien, 11. Bezirk, Simmering",1110,1167.1,2,56,Wien,Wien,N/A,N/A,Wohnung,2025-10-18T15:49:00Z,1167.1,N/A
@@ -354,17 +356,17 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1884356487,LUXUS DACHGESCHOSS - 4 Zimmer - 360° BLICK - ca. 204m² gew. NFL - ca. 50m² Terrassen - hochwertige Ausstattung - Einbauküche - 2 Garagenplätze - Rochusmarkt - Grüner Prater - 3+2 Jahre befristet,"Wien, 03. Bezirk, Landstraße",1030,6257.17,4,183,Wien,Wien,1.0,3,Wohnung,2025-10-18T04:47:00Z,6257.17,N/A
 1420018400,2-Zimmer City Wohnung direkt beim Stephansplatz! Miete inkl. Heizungskosten!,"Wien, 01. Bezirk, Innere Stadt",1010,1500,2,58,Wien,Wien,1.0,3,Wohnung,2025-10-18T04:39:00Z,1500.0,N/A
 998944121,ERSTBEZUG nach Sanierung - Traumhafte 3-Zimmer-Wohnung mit Loggia,"Wien, 21. Bezirk, Floridsdorf",1210,1300,3,68,Wien,Wien,1.0,1,Wohnung,2025-10-18T04:37:00Z,1300.0,Stephensongasse
-1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,909.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-18T04:23:00Z,N/A,Wagramer Straße
 2029688038,++NEU++ Exklusiver Erstbezug: 3-Zimmer-Wohnung mit Balkon im 1. OG - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1975,3,71,Wien,Wien,1.0,1,Wohnung,2025-10-18T04:23:00Z,1975.0,Mollardgasse 50
 1772510378,++NEU++ Erstbezug in Top Lage: Helle 2-Zimmer-Wohnung mit Loggia im 1. OG - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1275,2,50,Wien,Wien,1.0,2,Wohnung,2025-10-18T04:23:00Z,1275.0,Mollardgasse 50
 1923513925,++NEU++ Neubau-Erstbezug: Geräumige 3-Zimmer-Wohnung mit Balkon im 4. OG (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1925,3,65,Wien,Wien,1.0,4,Wohnung,2025-10-18T04:23:00Z,1925.0,Mollardgasse 50
 1096953315,++NEU++ Exklusiver Neubau: Stilvolle 2-Zimmer-Wohnung mit Balkon im 4. OG - Erstbezug (mollard50),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,50,Wien,Wien,1.0,3,Wohnung,2025-10-18T04:23:00Z,1525.0,Mollardgasse 50
+1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,909.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-18T04:23:00Z,N/A,Wagramer Straße
+1642698066,++NEU++ Erstbezug: Stilvolle 2-Zimmer-Wohnung mit Loggia im 3. OG (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1425,2,58,Wien,Wien,1.0,2,Wohnung,2025-10-18T04:18:00Z,1425.0,Mollardgasse 50
 1745022141,++NEU++ Erstbezug: Attraktive 2-Zimmer-Wohnung mit Loggia im 2. OG - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1475,2,62,Wien,Wien,1.0,2,Wohnung,2025-10-18T04:18:00Z,1475.0,Mollardgasse 50
 916339614,++NEU++ Top Lage: Moderne 2-Zimmer-Wohnung mit Loggia im 2. OG - Erstbezug - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1375,2,50,Wien,Wien,1.0,2,Wohnung,2025-10-18T04:18:00Z,1375.0,Mollardgasse 50
 1100310596,++NEU++ Erstbezug: Geräumige 3-Zimmer-Wohnung mit Balkon im 3. OG (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1875,3,65,Wien,Wien,1.0,3,Wohnung,2025-10-18T04:18:00Z,1875.0,Mollardgasse 50
 1817397668,++NEU++ Neubau: Attraktive 2-Zimmer-Wohnung mit Loggia im 3. OG - Erstbezug (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,62,Wien,Wien,1.0,4,Wohnung,2025-10-18T04:18:00Z,1525.0,Mollardgasse 50
 881090803,++NEU++ Top Lage: Stilvolle 3-Zimmer-Maisonette mit großer Terrasse - Erstbezug - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1975,3,64,Wien,Wien,1.0,4,Wohnung,2025-10-18T04:18:00Z,1975.0,Mollardgasse 50
-1642698066,++NEU++ Erstbezug: Stilvolle 2-Zimmer-Wohnung mit Loggia im 3. OG (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1425,2,58,Wien,Wien,1.0,2,Wohnung,2025-10-18T04:18:00Z,1425.0,Mollardgasse 50
 1914400737,Moderne 1-Zimmerwohnung mit Balkon,"Wien, 11. Bezirk, Simmering",1110,655,1,33,Wien,Wien,N/A,N/A,Wohnung,2025-10-18T04:07:00Z,655.0,N/A
 940270700,Moderne 2-Zimmerwohnung mit Balkon!,"Wien, 11. Bezirk, Simmering",1110,896.6,2,49,Wien,Wien,N/A,N/A,Wohnung,2025-10-18T04:07:00Z,896.6,N/A
 1056209022,"Neuwertige 3-Zimmer-Wohnung in 1190 Wien - modern, hell & U-Bahn-nah!","Wien, 19. Bezirk, Döbling",1190,1669.99,3,68,Wien,Wien,1.0,5,Wohnung,2025-10-18T03:46:00Z,1669.99,N/A
@@ -459,8 +461,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1835490856,VIC möblierte 3 Zimmer Fernblick,"Wien, 22. Bezirk, Donaustadt",1220,1984.82,0,96,Wien,Wien,1.0,7,Wohnung,2025-10-17T16:25:00Z,1984.82,Leonard-Bernstein-Straße
 1032349706,"*Superprojekt: ''Über den Baumwipfeln"" TOP 49 kreisförmig begehbar *MIT ZWEI TRAUMHAFTEN WEST-LOGGIEN*","Wien, 10. Bezirk, Favoriten",1100,2299,3,97,Wien,Wien,1.0,5,Wohnung,2025-10-17T16:24:00Z,2299.0,N/A
 1034931333,Nähe Waldmüllerpark | Gemütliche 2-Zimmer-Wohnung - Top Lage,"Wien, 10. Bezirk, Favoriten",1100,899,2,53,Wien,Wien,1.0,1,Wohnung,2025-10-17T16:16:00Z,899.0,N/A
-2061238125,Nähe Waldmüllerpark | Helle 2-Zimmer-Wohnung - ideal für Singles!,"Wien, 10. Bezirk, Favoriten",1100,799,2,42,Wien,Wien,1.0,8,Wohnung,2025-10-17T16:16:00Z,799.0,N/A
-1004587434,vollklimatisierte 4-Zimmer Wohnung,"Wien, 06. Bezirk, Mariahilf",1060,2695,4,105,Wien,Wien,1.0,N/A,Wohnung,2025-10-17T16:16:00Z,2695.0,N/A
+1861901230,++MOLLARD 50++ Großartige 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/5),"Wien, 06. Bezirk, Mariahilf",1060,1324.98,2,54,Wien,Wien,1.0,1,Wohnung,2025-10-17T10:44:00Z,1324.98,N/A
+1559206813,orea | Gemütliche 2-Zimmer-Wohnung mit Terrasse im ruhigen Innenhof | Smart besichtigen · Online anmieten,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,899,2,48,Wien,Wien,1.0,0,Wohnung,2025-10-17T10:38:00Z,899.0,Flachgasse
 908617863,Balkonhit! 2-Zimmerwohnung in 1210 Wien - zu mieten!,"Wien, 21. Bezirk, Floridsdorf",1210,928.69,2,38,Wien,Wien,1.0,2,Wohnung,2025-10-17T10:38:00Z,928.69,N/A
 1735904234,TOP-ausgestattete Altbauwohnung ++ U1 Nähe ++ UNBEFRISTET,"Wien, 04. Bezirk, Wieden",1040,1895,3,140,Wien,Wien,N/A,3,Wohnung,2025-10-17T10:37:00Z,1895.0,N/A
 2061407607,Neuwertige 1-Zimmer-Wohnung in 1050 Wien - Ihr neuer Wohntraum,"Wien, 05. Bezirk, Margareten",1050,1052.25,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-10-17T10:37:00Z,1052.25,N/A
@@ -659,5 +661,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2062669560,Wohnen im Neubau-Viertel nahe Kagraner Platz und Gewerbepark Stadlau - Hochwertige Wohnung ab Dezember 2025! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,849.6,2,49,Wien,Wien,1.0,2,Wohnung,2025-10-16T18:56:00Z,849.6,Pogrelzstraße 81
 966864132,++MOLLARD 50++ Remarkable 2-room apartment in a prime central location (2/6),"Wien, 06. Bezirk, Mariahilf",1060,1625,2,56,Wien,Wien,1.0,2,Wohnung,2025-10-16T18:56:00Z,1625.0,N/A
 1116696306,++MOLLARD 50++ Modern 2-Room Apartment in the Heart of the City (1/18),"Wien, 06. Bezirk, Mariahilf",1060,1675,2,55,Wien,Wien,1.0,4,Wohnung,2025-10-16T18:56:00Z,1675.0,N/A
-1693051704,++MOLLARD 50++ Unique 3-room apartment in the very heart of the city (2/12)!,"Wien, 06. Bezirk, Mariahilf",1060,2575,3,81,Wien,Wien,1.0,4,Wohnung,2025-10-16T18:56:00Z,2575.0,N/A
-1842418217,++MOLLARD 50++ Unique 3-room apartment in the city center (1/12),"Wien, 06. Bezirk, Mariahilf",1060,1874.99,3,65,Wien,Wien,1.0,3,Wohnung,2025-10-16T18:56:00Z,1874.99,N/A
