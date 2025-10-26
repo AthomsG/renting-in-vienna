@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1363557821,Exklusive 4-Zimmer-Wohnung am Kaasgraben,"Wien, 19. Bezirk, Döbling",1190,2670,4,99,Wien,Wien,1.0,2,Wohnung,2025-10-25T08:24:00Z,2670.0,Kaasgrabengasse
+1509765473,"Helle 2-ZI-Wohnung mit Loggia nahe Meidlinger Markt, Tiefgaragenplatz vorhanden","Wien, 12. Bezirk, Meidling",1120,950,2,51,Wien,Wien,0.79,Mezzanine,Wohnung,2025-10-25T08:11:00Z,950.0,Albrechtsbergergasse
+1343108555,Möbliertes Designjuwel mit Wow-Ausblick Diese ...,"Wien, 02. Bezirk, Leopoldstadt",1020,1300,2,N/A,Wien,Wien,N/A,3,Wohnung,2025-10-25T07:34:00Z,1300.0,N/A
 1253231746,Elegante Palaiswohnung im Botschaftsviertel,"Wien, 03. Bezirk, Landstraße",1030,4810.84,7,256,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T07:34:00Z,4810.84,N/A
 1943148014,"""Vollausgestattete Dachgeschosswohnung mit Terrasse""","Wien, 10. Bezirk, Favoriten",1100,1950,3,85,Wien,Wien,1.0,6,Wohnung,2025-10-25T07:12:00Z,1950.0,N/A
 2036385975,"""Möblierte Dachgeschosswohnung""","Wien, 10. Bezirk, Favoriten",1100,1322.53,2,38,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T07:12:00Z,1322.53,N/A
@@ -64,9 +67,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1420514038,37m² | Moderne 2-Zimmer-Wohnung mit Heiz- und Kühlkombi | 2.Stock,"Wien, 14. Bezirk, Penzing",1140,899,2,37,Wien,Wien,1.0,2,Wohnung,2025-10-24T17:55:00Z,899.0,Flachgasse
 785363767,BALKONWOHNUNG IN GRÜNRUHELAGE - SIEVERING,"Wien, 19. Bezirk, Döbling",1190,1578.05,3,90,Wien,Wien,N/A,N/A,Wohnung,2025-10-24T17:53:00Z,1578.05,N/A
 923165627,Extravagantes Penthouse an der Donau mit fantastischem Wienblick,"Wien, 22. Bezirk, Donaustadt",1220,5318.38,5,305,Wien,Wien,N/A,N/A,Wohnung,2025-10-24T17:49:00Z,5318.38,N/A
-1356943559,"Traumblick über Wien, Belview Tower mit Gym, Wellness & Lounge, 2 Zimmer + Balkon, 11. Stock, U-Bahn","Wien, 10. Bezirk, Favoriten",1100,1775,2,50,Wien,Wien,1.0,17,Wohnung,2025-10-24T17:38:00Z,1775.0,arsenalstraße 8
-1586438706,54m² | 1.Stock | 2-Zimmer-Apartment mit voll ausgestatteter Küche | Nahe Matzleinsdorfer Platz,"Wien, 10. Bezirk, Favoriten",1100,989,2,54,Wien,Wien,1.0,1,Wohnung,2025-10-24T17:35:00Z,989.0,Knöllgasse
-1522278728,Stilvolle 4-Zimmer-Altbauwohnung Nähe Schottentor - ca. 160 m² in Toplage,"Wien, 09. Bezirk, Alsergrund",1090,2499.99,4,160,Wien,Wien,N/A,N/A,Wohnung,2025-10-24T17:33:00Z,2499.99,N/A
 1729630906,Mietwohnungen 1170 Wien - Erstbezug - sofort verfügbar,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-24T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1159,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-24T09:14:00Z,N/A,Sankt Veit-Gasse
 1238846147,"Himbergerstraße 28, 1100 Wien","Wien, 10. Bezirk, Favoriten",1100,847.44,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-23T13:20:00Z,N/A,Himberger Straße 28
@@ -79,6 +79,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1789911651,MODERNE MIETWOHNUNG IN TOLLER LAGE | 1150 WIEN | PROVISIONSFREI,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-20T10:58:00Z,N/A,Graumanngasse
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-20T10:53:00Z,N/A,N/A
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1075,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-13T21:48:00Z,N/A,Mollardgasse 50
+1866105631,Moderne 2-Zimmer Wohnung inkl. Balkon/ Loggia,"Wien, 14. Bezirk, Penzing",1140,950,2,52,Wien,Wien,0.79,1,Wohnung,2025-10-26T17:40:00Z,950.0,Felbigergasse
+890629443,Kleine Perle im ultramodernen Wohnhaus mit Pool am Dach zu mieten // Small gem in an ultra-modern apartm. building with pool on the roof for rent //,"Wien, 02. Bezirk, Leopoldstadt",1020,1678.89,2,55,Wien,Wien,1.0,6,Wohnung,2025-10-26T17:36:00Z,1678.89,N/A
+1594566500,Direkt beim Kagraner Platz - Hochwertige 3-Zimmer Neubauwohnung mit Balkon,"Wien, 22. Bezirk, Donaustadt",1220,1300,3,65,Wien,Wien,1.0,1,Wohnung,2025-10-26T17:32:00Z,1300.0,Donaufelder Straße 241
 2006955985,AB SOFORT BEZIEHBAR!! Traumhafte Dachgeschosswohnung inkl. sehr großer Terrasse! Tolle Anbindung - U1 Kagranerplatz!!,"Wien, 22. Bezirk, Donaustadt",1220,1748.99,2,84,Wien,Wien,1.0,7,Wohnung,2025-10-26T17:24:00Z,1748.99,Finsterergasse
 1302978712,(reserviert) 2-Zimmer-Wohnung mit Balkon & Grünblick - Perfekt für Pärchen,"Wien, 12. Bezirk, Meidling",1120,990,2,63,Wien,Wien,1.0,N/A,Wohnung,2025-10-26T17:10:00Z,990.0,Hetzendorfer Straße 58-60
 1697635139,"Sonnige geräumige 2-Zimmer-Wohnung nähe U1 Reumannplatz, voll ausgestattete Küche, komplett möbliert","Wien, 10. Bezirk, Favoriten",1100,920,2,64,Wien,Wien,0.79,N/A,Wohnung,2025-10-26T17:05:00Z,920.0,Wielandgasse
@@ -276,6 +279,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1281527784,++NEU++ Großartige 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/10),"Wien, 06. Bezirk, Mariahilf",1060,1474.98,2,54,Wien,Wien,1.0,2,Wohnung,2025-10-25T08:55:00Z,1474.98,N/A
 1135077096,Erstbezug * 2 Zimmer * Balkon * 17. OG * Roof-Top Pool * Concierge-Service,"Wien, 02. Bezirk, Leopoldstadt",1020,1660,2,56,Wien,Wien,1.0,17,Wohnung,2025-10-25T08:33:00Z,1660.0,Meiereistraße 14
 1155149094,Traumhafte Dachgeschosswohnung im grünen Sievering!,"Wien, 19. Bezirk, Döbling",1190,3725,5,170,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T08:24:00Z,3725.0,Hutweidengasse
-1363557821,Exklusive 4-Zimmer-Wohnung am Kaasgraben,"Wien, 19. Bezirk, Döbling",1190,2670,4,99,Wien,Wien,1.0,2,Wohnung,2025-10-25T08:24:00Z,2670.0,Kaasgrabengasse
-1509765473,"Helle 2-ZI-Wohnung mit Loggia nahe Meidlinger Markt, Tiefgaragenplatz vorhanden","Wien, 12. Bezirk, Meidling",1120,950,2,51,Wien,Wien,0.79,Mezzanine,Wohnung,2025-10-25T08:11:00Z,950.0,Albrechtsbergergasse
-1343108555,Möbliertes Designjuwel mit Wow-Ausblick Diese ...,"Wien, 02. Bezirk, Leopoldstadt",1020,1300,2,N/A,Wien,Wien,N/A,3,Wohnung,2025-10-25T07:34:00Z,1300.0,N/A
