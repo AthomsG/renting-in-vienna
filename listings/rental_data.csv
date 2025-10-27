@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1028773218,Wohnung in Josefstadt zum Mieten,"Wien, 08. Bezirk, Josefstadt",1080,1250,1,50,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T15:19:00Z,1250.0,Lederergasse 27
 1077817613,NEUBAU - FAST ERSTBEZUG IN TOP CITY LAGE,"Wien, 12. Bezirk, Meidling",1120,1125,2,45,Wien,Wien,1.0,4,Wohnung,2025-10-25T15:14:00Z,1125.0,Wilhelmstrasse 58/1/16
 1177720719,Nachmieter/ in gesucht - helle 1-Zimmer-Wohnung in 1100 Wien,"Wien, 10. Bezirk, Favoriten",1100,646.66,1,43,Wien,Wien,1.0,1,Wohnung,2025-10-25T14:47:00Z,646.66,Alxingergasse 80
 1542711190,HELLE ALTBAUWOHNUNG DER FERNKORNGASSE,"Wien, 10. Bezirk, Favoriten",1100,797.73,3,60,Wien,Wien,1.0,2,Wohnung,2025-10-25T14:24:00Z,797.73,Fernkorngasse
@@ -13,7 +14,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1862142777,RESERVIERT / Taborama - Aufatmen mit Weit- & Grünblick im trendigen Nordbahnviertel,"Wien, 02. Bezirk, Leopoldstadt",1020,1500,2,54,Wien,Wien,1.0,9,Wohnung,2025-10-25T13:40:00Z,1500.0,Am Tabor 23
 1029402230,"3 Zimmer, 2 Bäder, Terrasse & Bulthaup-Küche inkl. Auto-Abstellplatz // 3 Rooms, 2 Baths, terrace & Bulthaup-kitchen incl. Car-Parking //","Wien, 22. Bezirk, Donaustadt",1220,2358.97,3,108,Wien,Wien,1.0,2,Wohnung,2025-10-25T13:37:00Z,2358.97,N/A
 1872603008,Ihre Dachgeschosswohnung in der Maroltingergasse - Komfort & Weitblick im 16. Bezirk. - WOHNTRAUM,"Wien, 16. Bezirk, Ottakring",1160,1898.29,4,106,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T13:36:00Z,1898.29,Maroltingergasse 57
-2117045033,1-Zimmer Dachgeschoss // NEUBAU - ab Dezember bezugsfertig!,"Wien, 22. Bezirk, Donaustadt",1220,830.89,1,31,Wien,Wien,1.0,DG,Wohnung,2025-10-25T13:28:00Z,830.89,Am Freihof 1 / Wagramer Straße 146
 1724192405,/ BALKON / 3 ZIMMER / 2 BÄDER / MODERNE ANLAGE / U-BAHN NÄHE,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,3,77,Wien,Wien,1.0,6,Wohnung,2025-10-25T13:26:00Z,1569.0,Graumanngasse
 1275898587,2 ZIMMERWOHNUNG,"Wien, 10. Bezirk, Favoriten",1100,599,2,55,Wien,Wien,N/A,2,Wohnung,2025-10-25T13:23:00Z,599.0,N/A
 982636069,"Erstbezug - 2-Zimmer-Wohnung (67m²) + Terrasse (21m²) in Heiligenstadt, Lift & Garage (opt)","Wien, 19. Bezirk, Döbling",1190,1250,2,67,Wien,Wien,1.0,4,Wohnung,2025-10-25T13:14:00Z,1250.0,Muthgasse 56-68
@@ -50,11 +50,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1499730469,"High End Lifestyle mit Pool, Gym und Sauna","Wien, 22. Bezirk, Donaustadt",1220,1149.5,1,34,Wien,Wien,N/A,6,Wohnung,2025-10-25T09:19:00Z,1149.5,N/A
 1271127884,Sehr schöne 4-Zimmer-Wohnung mit 13m² Außenfläche!!! Sofort verfügbar!,"Wien, 19. Bezirk, Döbling",1190,2670,4,100,Wien,Wien,N/A,2,Wohnung,2025-10-25T09:06:00Z,2670.0,N/A
 1023189064,"Großzügige, charmante 137 m² Altbauwohnung I perfekter Grundriss","Wien, 01. Bezirk, Innere Stadt",1010,2879.75,3,137,Wien,Wien,1.0,2,Wohnung,2025-10-25T09:04:00Z,2879.75,Biberstraße
-1816108291,++NEU++ Exclusive 4-room-Penthouse with Stunning Views over Vienna (1/31),"Wien, 06. Bezirk, Mariahilf",1060,3675,4,142,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T08:55:00Z,3675.0,N/A
-2113240071,++NEU++ hochwertige 2-Zimmer-Wohnung mitten im Herzen der Stadt (2/11)!,"Wien, 06. Bezirk, Mariahilf",1060,1525,2,54,Wien,Wien,1.0,3,Wohnung,2025-10-25T08:55:00Z,1525.0,N/A
-1089489886,++NEU++ hochwertige 2-Zimmer-Wohnung mitten im Herzen der Stadt (3/6),"Wien, 06. Bezirk, Mariahilf",1060,1374.98,2,50,Wien,Wien,1.0,2,Wohnung,2025-10-25T08:55:00Z,1374.98,N/A
-2056831952,++NEU++ fantastische 3-Zimmer-Wohnung mitten im Herzen der Stadt (1/25)!,"Wien, 06. Bezirk, Mariahilf",1060,2174.98,3,76,Wien,Wien,1.0,6,Wohnung,2025-10-25T08:55:00Z,2174.98,N/A
-1281527784,++NEU++ Großartige 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/10),"Wien, 06. Bezirk, Mariahilf",1060,1474.98,2,54,Wien,Wien,1.0,2,Wohnung,2025-10-25T08:55:00Z,1474.98,N/A
 1729630906,Mietwohnungen 1170 Wien - Erstbezug - sofort verfügbar,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-24T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1159,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-24T09:14:00Z,N/A,Sankt Veit-Gasse
 1238846147,"Himbergerstraße 28, 1100 Wien","Wien, 10. Bezirk, Favoriten",1100,847.44,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-23T13:20:00Z,N/A,Himberger Straße 28
@@ -63,6 +58,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1789911651,MODERNE MIETWOHNUNG IN TOLLER LAGE | 1150 WIEN | PROVISIONSFREI,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1569,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-20T10:58:00Z,N/A,Graumanngasse
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City!! ERSTBEZUG!!,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-10-20T10:53:00Z,N/A,N/A
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1075,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-10-13T21:48:00Z,N/A,Mollardgasse 50
+1158945777,2-Zimmer-Wohnung mit Loggia - Erstbezug in Niedrigenergiehaus - in 1110 Wien zu mieten,"Wien, 11. Bezirk, Simmering",1110,970,2,45,Wien,Wien,N/A,1,Wohnung,2025-10-27T08:49:00Z,970.0,N/A
 1461100594,Perfekt für WG's: Erstbezug 5-Zimmer Wohnung mit moderner Ausstattung nähe U3 Ottakring,"Wien, 16. Bezirk, Ottakring",1160,2300,5,91,Wien,Wien,1.0,2,Wohnung,2025-10-27T08:40:00Z,2300.0,Maroltingergasse 52
 1467100792,Super-schicke Neubauwohnung mit idealer Aufteilung,"Wien, 03. Bezirk, Landstraße",1030,1245,2,52,Wien,Wien,N/A,4,Wohnung,2025-10-27T08:37:00Z,1245.0,N/A
 1050283335,Möblierte 3 Zimmer Dachgeschoß Wohnung mit Klima unbefristet zu vermieten,"Wien, 14. Bezirk, Penzing",1140,1310.28,3,90,Wien,Wien,1.0,N/A,Wohnung,2025-10-27T08:36:00Z,1310.28,Gurkgasse 26
@@ -262,4 +258,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1297952518,"Sonnige 100m2 Wohnung mit 3,5 Zimmern","Wien, 14. Bezirk, Penzing",1140,1276.13,3,100,Wien,Wien,1.0,2,Wohnung,2025-10-25T16:07:00Z,1276.13,Gurkgasse 50
 1604985919,Historischer Altbaucharme & Citylife - 94 m2 Wohnung am Fleischmarkt!,"Wien, 01. Bezirk, Innere Stadt",1010,1698.05,3,94,Wien,Wien,1.0,2,Wohnung,2025-10-25T15:54:00Z,1698.05,Griechengasse 9
 1897386059,ERSTBEZUG -=Das Laurenz= 2 Zimmer Wohnung mit Loggia U3 - 1 Bedroom apartment with Loggia,"Wien, 11. Bezirk, Simmering",1110,1167.1,2,56,Wien,Wien,N/A,N/A,Wohnung,2025-10-25T15:49:00Z,1167.1,N/A
-1028773218,Wohnung in Josefstadt zum Mieten,"Wien, 08. Bezirk, Josefstadt",1080,1250,1,50,Wien,Wien,1.0,N/A,Wohnung,2025-10-25T15:19:00Z,1250.0,Lederergasse 27
