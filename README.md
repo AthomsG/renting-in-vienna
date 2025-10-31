@@ -24,6 +24,5 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                              | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          750 |            60 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/charmante-wohnung-in-zentraler-lage-des-12.-bezirks-1825482970/)              | Oct 31, 10:17      |
 |          795 |            37 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/sch%C3%B6ne-2-zimmer-neubau-wohnung-mit-balkon-909600938/)                     | Oct 30, 21:33      |
 |          795 |            51 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/best-living-oberlaa%21-moderne-wohnungen-&-reihenh%C3%A4user%21-1630154022/) | Oct 30, 09:57      |
