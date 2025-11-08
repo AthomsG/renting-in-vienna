@@ -130,7 +130,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 774449339,"Kurzzeitvermietung! Schön möblierte, gemütliche 1-Zimmer-Wohnung in zentraler Lage!","Wien, 16. Bezirk, Ottakring",1160,1200,1,31,Wien,Wien,1.0,2,Wohnung,2025-11-07T21:20:00Z,1200.0,Lerchenfelder Gürtel 17
 1011245894,Gemeinde wohnug weitergabe 1 zimmer vormerkschein bis 30.09.2025,"Wien, 16. Bezirk, Ottakring",1160,280,1,36,Wien,Wien,0.79,3,Wohnung,2025-11-07T21:07:00Z,280.0,Sandleitengasse
 1344825091,Neubauwohnung - für einfache Ansprüche,"Wien, 20. Bezirk, Brigittenau",1200,689.15,2,51,Wien,Wien,0.79,HP,Wohnung,2025-11-07T21:03:00Z,689.15,Burghardtgasse
-1062134375,Cozy 42 m² Flat - Fully Furnished,"Wien, 18. Bezirk, Währing",1180,1300,2,42,Wien,Wien,0.79,4,Wohnung,2025-11-07T20:51:00Z,1300.0,Staudgasse
+1062134375,Cozy Fully-Furnished 42 m² Flat for Rent in Vienna,"Wien, 18. Bezirk, Währing",1180,1300,2,42,Wien,Wien,0.79,4,Wohnung,2025-11-07T20:51:00Z,1300.0,Staudgasse
 1117354696,Wunderschöne sonnendurchflutete Wohnung im 23. Bezirk!!! Nähe U6 PERFEKTASTRAẞE!! 360°- 3D Grad Besichtigung,"Wien, 23. Bezirk, Liesing",1230,809.59,2,30,Wien,Wien,1.0,1,Wohnung,2025-11-07T20:36:00Z,809.59,N/A
 1797589793,23. Bezirk!! Sonnendurchflutete Wohnung 360°- 3D Besichtigung!!!,"Wien, 23. Bezirk, Liesing",1230,1854.66,4,109,Wien,Wien,1.0,1,Wohnung,2025-11-07T20:36:00Z,1854.66,N/A
 1462698552,23. Bezirk!!! Zur Vermietung gelangt eine schöne Wohnung mit Terrasse!! 360° Grad Besichtigung!! Nähe U6 PERFEKTASTRAẞE!!,"Wien, 23. Bezirk, Liesing",1230,1480.19,4,60,Wien,Wien,1.0,0,Wohnung,2025-11-07T20:36:00Z,1480.19,N/A
@@ -199,6 +199,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1702328245,"großzügige, ruhig gelegene Hochparterrewohnung (nicht straßenseitig) in einem attraktiven Jahrhundertwendehaus! *WG-geeignet*","Wien, 04. Bezirk, Wieden",1040,1990.27,5,166,Wien,Wien,1.0,N/A,Wohnung,2025-11-07T16:25:00Z,1990.27,Große Neugasse 16
 2021833328,Gemeindewohnung Direktvergabe - 75 m2 Wohnung mit Lift,"Wien, 22. Bezirk, Donaustadt",1220,786,3,75,Wien,Wien,0.79,2,Wohnung,2025-11-07T16:20:00Z,786.0,Rennbahnweg
 2061238125,Nähe Waldmüllerpark | Helle 2-Zimmer-Wohnung - ideal für Singles!,"Wien, 10. Bezirk, Favoriten",1100,799,2,42,Wien,Wien,1.0,8,Wohnung,2025-11-07T16:16:00Z,799.0,N/A
+1034931333,Nähe Waldmüllerpark | Gemütliche 2-Zimmer-Wohnung - Top Lage,"Wien, 10. Bezirk, Favoriten",1100,899,2,53,Wien,Wien,1.0,1,Wohnung,2025-11-07T16:16:00Z,899.0,N/A
 1469367574,Erstbezug nach Generalsanierung - repräsentative 2 Zimmer Altbauwohnung zu vermieten,"Wien, 04. Bezirk, Wieden",1040,890,2,57,Wien,Wien,1.0,3,Wohnung,2025-11-07T16:16:00Z,890.0,N/A
 1525921568,Erstbezug nach Generalsanierung - exklusive 4 Zimmer Altbauwohnung zu vermieten,"Wien, 04. Bezirk, Wieden",1040,1899,4,115,Wien,Wien,1.0,3,Wohnung,2025-11-07T16:16:00Z,1899.0,N/A
 924906658,"Nussdorf, ruhige + sonnige Wohnung mit 8m² Balkon, Schwimmbad 27°C, Sauna, Gemeinschaftsgarten, 2 Gehminuten zur Straßenbahn","Wien, 19. Bezirk, Döbling",1190,908.66,2,38,Wien,Wien,1.0,2,Wohnung,2025-11-07T16:16:00Z,908.66,N/A
@@ -398,7 +399,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 942666779,2-Zimmer Wohntraum mit Fernblick,"Wien, 03. Bezirk, Landstraße",1030,1095,2,54,Wien,Wien,1.0,26,Wohnung,2025-11-07T11:01:00Z,1095.0,Döblerhofstraße
 1273227967,/ NEUBAU / AB JÄNNER / RICHTUNG OSTEN / NIEDRIGENERGIEHAUS / ZWEI ZIMMER / 4. STOCK / 12 QM BALKON,"Wien, 11. Bezirk, Simmering",1110,919,2,45,Wien,Wien,1.0,4,Wohnung,2025-11-07T11:01:00Z,919.0,Dittmanngasse
 1244030722,# AB FEBRUAR # NAHE U3-STATION ENKPLATZ # NIEDRIGENERGIEHAUS # ZWEI ZIMMER # RICHTUNG SÜDEN #,"Wien, 11. Bezirk, Simmering",1110,919,2,45,Wien,Wien,1.0,1,Wohnung,2025-11-07T11:01:00Z,919.0,Dittmanngasse
-1655769666,"Ruhige 2-Zimmerwohnung mit Balkon, Brünner Straße, 1210 Wien - zu mieten!","Wien, 21. Bezirk, Floridsdorf",1210,931.62,2,38,Wien,Wien,1.0,2,Wohnung,2025-11-07T10:59:00Z,931.62,N/A
 1655769666,"Ruhige 2-Zimmerwohnung mit Balkon, Brünner Straße, 1210 Wien - zu mieten!","Wien, 21. Bezirk, Floridsdorf",1210,931.62,2,38,Wien,Wien,1.0,2,Wohnung,2025-11-07T10:59:00Z,931.62,N/A
 1192462286,Klimatisierte Dachgeschoss-Wohnung mit Traumbad und Terrasse!,"Wien, 21. Bezirk, Floridsdorf",1210,991.08,2,54,Wien,Wien,1.0,5,Wohnung,2025-11-07T10:57:00Z,991.08,Koloniestraße 35
 1215661341,"Moderne 2-Zimmer-Wohnung in zentraler Lage beim FAC-Platz, nur wenige Minuten von der S-Bahnstation Jedlersdorf entfernt","Wien, 21. Bezirk, Floridsdorf",1210,991.08,2,54,Wien,Wien,1.0,4,Wohnung,2025-11-07T10:57:00Z,991.08,Koloniestraße 35
