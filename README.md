@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                  | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          580 |            68 |          3 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/gemeinde-wohnung-.-vormerkschein-bis-ende-2024-780354406/)                                                       | Nov 14, 16:41      |
-|          790 |            42 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/urban-living-meidling---m%C3%B6bliert-flexibel-modern-1025747904/)                                                | Nov 14, 15:28      |
-|          750 |            40 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sch%C3%B6ne-voll-m%C3%B6blierte-2-zimmer-wohnung---bezirk-10-n%C3%A4he-hauptbahnhof-&-columbusplatz-1937956396/) | Nov 13, 21:35      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                   | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          580 |            68 |          3 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/gemeinde-wohnung-.-vormerkschein-bis-ende-2024-780354406/)        | Nov 14, 16:41      |
+|          790 |            42 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/urban-living-meidling---m%C3%B6bliert-flexibel-modern-1025747904/) | Nov 14, 15:28      |
