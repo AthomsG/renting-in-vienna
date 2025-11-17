@@ -1,5 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,809,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-12T03:59:00Z,N/A,Dittmanngasse
 770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,1353.08,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1209.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T14:20:00Z,N/A,Dresdner Straße
 1925683547,DC Flats - Erstbezug: Erstklassig ausgestattete Wohnung in Neubauprojekt in 1220 zu mieten,"Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-11-11T11:49:00Z,N/A,N/A
@@ -8,6 +7,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2031094742,Villa Mauerbach2 - exklusives Wohnen in grüner Stadtrandlage - Erstbezugswohnungen mit Balkon/Garten/Terrasse - bezugsfertig!,"Wien, 14. Bezirk, Penzing",1140,1649.62,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T09:54:00Z,N/A,N/A
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T09:18:00Z,N/A,N/A
 2019598868,POG 81 - Hochwertige Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,800.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-10T13:45:00Z,N/A,Pogrelzstraße 81
+1478323019,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1589.76,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1589.76,N/A
+1604938252,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1562.56,2,49,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1562.56,N/A
 1497147614,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1577.28,2,49,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1577.28,N/A
 1833660937,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1576.64,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1576.64,N/A
 913449869,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1463.36,2,46,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1463.36,N/A
@@ -201,15 +202,20 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1437444081,Zentrale 4-Zimmer-Wohnung nahe Karlsplatz,"Wien, 04. Bezirk, Wieden",1040,1699.17,4,82,Wien,Wien,0.79,2,Wohnung,2025-11-15T13:12:00Z,1699.17,Operngasse
 2132399142,Hübsche Wohnung - Provisionsfrei,"Wien, 06. Bezirk, Mariahilf",1060,1450,2,67,Wien,Wien,N/A,5,Wohnung,2025-11-15T12:56:00Z,1450.0,N/A
 1794400267,B E S I C H T I G U N G - 20.11.2025 - 16:00h bis 18:00h - beste Aussicht in Donaustadt inkl. Tiefgaragenplatz,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,6,Wohnung,2025-11-15T12:54:00Z,899.0,N/A
-849877917,"Voll möblierte 3 Zimmer Wohnung mit Loggia, Pool, Sauna, Terrasse und Fitnessbereich am Wienerberg!","Wien, 10. Bezirk, Favoriten",1100,2199.99,3,120,Wien,Wien,N/A,5,Wohnung,2025-11-15T12:49:00Z,2199.99,N/A
-1424740000,Gemeinde Wohnung Direktvergabe,"Wien, 20. Bezirk, Brigittenau",1200,400,1,40,Wien,Wien,1.0,N/A,Wohnung,2025-11-15T12:49:00Z,400.0,Leystraße 23
-1446232828,"Helle, frisch renovierte Wohnung nahe Yppenplatz - Top-Lage & Top-Ausstattung","Wien, 16. Bezirk, Ottakring",1160,950,2,50,Wien,Wien,N/A,2,Wohnung,2025-11-15T12:42:00Z,950.0,N/A
 1341676212,Historisches Ambiente trifft moderne Erweiterung: Erstbezug im Altbau mit Zubau & DG-Ausbau,"Wien, 14. Bezirk, Penzing",1140,928,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-14T13:24:00Z,N/A,Zehetnergasse 24 / Linzer Straße 237A
 1729630906,Mietwohnungen 1170 Wien - Erstbezug - sofort verfügbar,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-11-14T09:50:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1589,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-14T09:14:00Z,N/A,Sankt Veit-Gasse
 1028888358,MODERNES WOHNEN IN ST. GOTTHARD,"Wien, 14. Bezirk, Penzing",1140,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-12T13:24:00Z,N/A,N/A
+542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,809,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-12T03:59:00Z,N/A,Dittmanngasse
+1907361716,Charmante Hauptmietwohnung im Herzen des 7.Bezirkes,"Wien, 07. Bezirk, Neubau",1070,801.18,2,50,Wien,Wien,0.79,1,Wohnung,2025-11-17T12:50:00Z,801.18,Kaiserstraße
+1914128698,LAENDYARD | Charmante 2-Zimmer-Wohnung in Donaukanal Nähe,"Wien, 03. Bezirk, Landstraße",1030,884.9,2,46,Wien,Wien,N/A,4,Wohnung,2025-11-17T12:49:00Z,884.9,N/A
+889038585,Neu saniertes Wohnhaus mit 7 Wohnungen zu vermeiten,"Wien, 21. Bezirk, Floridsdorf",1210,646.8,0,48,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T12:47:00Z,646.8,N/A
+1816616430,3 Zimmer Altbauwohntraum - unbefristet - ab sofort verfügbar!,"Wien, 03. Bezirk, Landstraße",1030,1498.92,3,81,Wien,Wien,1.0,1,Wohnung,2025-11-17T12:47:00Z,1498.92,N/A
+1987506090,Zentrale Wohnung im 9. Bezirk,"Wien, 14. Bezirk, Penzing",1140,980,2,58,Wien,Wien,N/A,4,Wohnung,2025-11-17T12:42:00Z,980.0,Währingerstraße 46
 2013851793,"Bestlage zwischen City & Natur direkt an Alte Donau & -Bahn, UNO & Donaucity, Innenstadt in 10 min.","Wien, 22. Bezirk, Donaustadt",1220,1405,2,41,Wien,Wien,1.0,5,Wohnung,2025-11-17T12:38:00Z,1405.0,Wagramer Str. 40
 1072328032,"Blueground ID488, Wieden","Wien, 04. Bezirk, Wieden",1040,4605,4,126,Wien,Wien,1.0,5,Wohnung,2025-11-17T12:30:00Z,4605.0,Prinz-Eugen-Straße 18
+1274766265,Nähe U4 und Hietzinger Hauptstraße - inkl. zwei Terrassen (ca 26m²) und Garagenstellplatz - zwischen Auhofstraße und Hietzinger Kai,"Wien, 13. Bezirk, Hietzing",1130,1720.98,3,116,Wien,Wien,1.0,3,Wohnung,2025-11-17T12:27:00Z,1720.98,N/A
+1740774339,SINGLE WOHNUNG BEIM AUGARTEN!,"Wien, 20. Bezirk, Brigittenau",1200,499,1,37,Wien,Wien,1.0,2,Wohnung,2025-11-17T12:27:00Z,499.0,Webergasse
 1263408672,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1499,2,76,Wien,Wien,1.0,4,Wohnung,2025-11-17T12:27:00Z,1499.0,N/A
 1152529414,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1299,2,62,Wien,Wien,1.0,6,Wohnung,2025-11-17T12:27:00Z,1299.0,N/A
 1194913337,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1399,2,61,Wien,Wien,1.0,5,Wohnung,2025-11-17T12:27:00Z,1399.0,N/A
@@ -217,8 +223,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1852886684,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,679,1,35,Wien,Wien,1.0,5,Wohnung,2025-11-17T12:27:00Z,679.0,N/A
 1334823247,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1599,4,76,Wien,Wien,1.0,5,Wohnung,2025-11-17T12:27:00Z,1599.0,N/A
 2009709005,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1649,4,84,Wien,Wien,1.0,4,Wohnung,2025-11-17T12:27:00Z,1649.0,N/A
-1274766265,Nähe U4 und Hietzinger Hauptstraße - inkl. zwei Terrassen (ca 26m²) und Garagenstellplatz - zwischen Auhofstraße und Hietzinger Kai,"Wien, 13. Bezirk, Hietzing",1130,1720.98,3,116,Wien,Wien,1.0,3,Wohnung,2025-11-17T12:27:00Z,1720.98,N/A
-1740774339,SINGLE WOHNUNG BEIM AUGARTEN!,"Wien, 20. Bezirk, Brigittenau",1200,499,1,37,Wien,Wien,1.0,2,Wohnung,2025-11-17T12:27:00Z,499.0,Webergasse
 1121566492,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1599,2,71,Wien,Wien,1.0,3,Wohnung,2025-11-17T12:22:00Z,1599.0,N/A
 1870024862,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1399,2,61,Wien,Wien,1.0,3,Wohnung,2025-11-17T12:22:00Z,1399.0,N/A
 1708235687,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1599,3,87,Wien,Wien,1.0,2,Wohnung,2025-11-17T12:22:00Z,1599.0,N/A
@@ -236,20 +240,17 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 876331068,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1599,4,77,Wien,Wien,1.0,2,Wohnung,2025-11-17T11:59:00Z,1599.0,N/A
 801758124,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,949,2,42,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,949.0,N/A
 803755542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,999,3,60,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,999.0,N/A
-1901169443,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,599,2,32,Wien,Wien,1.0,2,Wohnung,2025-11-17T11:59:00Z,599.0,N/A
 2012712841,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,849,2,38,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,849.0,N/A
 1791148214,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,849,2,46,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,849.0,N/A
 2057946213,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1099,2,61,Wien,Wien,1.0,0,Wohnung,2025-11-17T11:59:00Z,1099.0,N/A
 2127905873,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,2,38,Wien,Wien,1.0,2,Wohnung,2025-11-17T11:59:00Z,799.0,N/A
 2139601878,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,849,2,38,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,849.0,N/A
-2113379161,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,599,1,34,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,599.0,N/A
 1871470441,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1399,4,77,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,1399.0,N/A
-1217407073,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,599,2,33,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,599.0,N/A
+1205496695,FÜR SINGLES ODER PAARE MIT FIXEM EINKOMMEN - GROSSZÜGIGE WOHNUNG MIT TERRASSE,"Wien, 23. Bezirk, Liesing",1230,1246.78,3,105,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,1246.78,N/A
 1264667251,Erstbezug mit Blick über Wien: Traumhafte 3-Zimmer-Wohnung mit Terrasse und Garten,"Wien, 19. Bezirk, Döbling",1190,1899,3,63,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,1899.0,N/A
 1760370913,3-Zimmer-Wohnung mit Weitblick ab FEBRUAR 2026!,"Wien, 10. Bezirk, Favoriten",1100,2337.07,3,95,Wien,Wien,1.0,11,Wohnung,2025-11-17T11:59:00Z,2337.07,N/A
 1188794832,Modernes 2-Zimmer-Apartment mit großer Loggia und optimaler Anbindung im Sonnwendviertel,"Wien, 10. Bezirk, Favoriten",1100,995,2,63,Wien,Wien,1.0,3,Wohnung,2025-11-17T11:59:00Z,995.0,Rieplstraße
 1872773344,INNENHOFLAGE mit BALKON,"Wien, 23. Bezirk, Liesing",1230,860.92,2,53,Wien,Wien,1.0,5,Wohnung,2025-11-17T11:59:00Z,860.92,Breitenfurter Straße
-1205496695,FÜR SINGLES ODER PAARE MIT FIXEM EINKOMMEN - GROSSZÜGIGE WOHNUNG MIT TERRASSE,"Wien, 23. Bezirk, Liesing",1230,1246.78,3,105,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,1246.78,N/A
 903224607,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,2,46,Wien,Wien,1.0,0,Wohnung,2025-11-17T11:50:00Z,799.0,N/A
 1021565323,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,899,2,52,Wien,Wien,1.0,0,Wohnung,2025-11-17T11:50:00Z,899.0,N/A
 2049189007,Hochwertige 5-Zimmer-Wohnung mit exklusiven Vorteilen und viel Platz,"Wien, 04. Bezirk, Wieden",1040,5479.65,5,222,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:47:00Z,5479.65,Taubstummengasse
@@ -262,8 +263,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1924830139,Möbliert oder Unmöblierte Dachgeschosswohnung mit sonniger Terrasse,"Wien, 18. Bezirk, Währing",1180,2350,3,147,Wien,Wien,N/A,N/A,Wohnung,2025-11-17T11:33:00Z,2350.0,N/A
 1975975015,Perfekt geschnittene 2 Zimmer Wohnung mit Balkon und Stellplatz & top Anbindung gegenüber Schloss Hetzendorf,"Wien, 12. Bezirk, Meidling",1120,1030.7,2,50,Wien,Wien,N/A,N/A,Wohnung,2025-11-17T11:32:00Z,1030.7,N/A
 1871386776,Single Wohnung im 5. Bezirk,"Wien, 05. Bezirk, Margareten",1050,650,2,40,Wien,Wien,N/A,3,Wohnung,2025-11-17T11:30:00Z,650.0,N/A
-1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,599,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-17T11:29:00Z,N/A,N/A
 1841964419,Erstbezug nach Sanierung: Schöne 2-Zimmer-Wohnung mit Top-Anbindung,"Wien, 12. Bezirk, Meidling",1120,1189.69,2,56,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T11:29:00Z,1189.69,N/A
+1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,679,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-17T11:29:00Z,N/A,N/A
 1030745402,Wunderschöne 4 - Zimmer Wohnung mit Terrasse und 2 Balkonen,"Wien, 19. Bezirk, Döbling",1190,3700,4,184,Wien,Wien,1.0,2,Wohnung,2025-11-17T11:27:00Z,3700.0,N/A
 1927439928,DG Wohnung gleich beim Reumannplatz - 2-Zimmerwohnung mit großer Küche mit Essplatz und ruhiger Hofterrasse!,"Wien, 10. Bezirk, Favoriten",1100,1197.03,2,73,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T11:27:00Z,1197.03,Steudelgasse 34
 1279579450,gut aufgeteilte 4-Zimmer Wohnung mit 2 WC's und einem südwest Balkon,"Wien, 22. Bezirk, Donaustadt",1220,1449,4,82,Wien,Wien,1.0,5,Wohnung,2025-11-17T11:27:00Z,1449.0,N/A
@@ -314,7 +315,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1110758038,Wohlfühlen in Währing: Helle 2-Zimmer Wohnung,"Wien, 18. Bezirk, Währing",1180,1300,2,35,Wien,Wien,1.0,2,Wohnung,2025-11-17T10:28:00Z,1300.0,N/A
 1659543618,Repräsentative 3-Zimmer Altbauwohnung mit hohen Räumen und edlem Charme - 1040 Wien,"Wien, 04. Bezirk, Wieden",1040,1859,3,102,Wien,Wien,1.0,4,Wohnung,2025-11-17T10:27:00Z,1859.0,N/A
 831495958,"***ERSTBEZUG-2,5-Zimmer-Neubauwohnung in ruhiger Lage am Passauer Platz***","Wien, 01. Bezirk, Innere Stadt",1010,2085,2,70,Wien,Wien,1.0,6,Wohnung,2025-11-17T10:27:00Z,2085.0,N/A
-1710218790,Renovierte STILWOHNUNG in DÖBLING,"Wien, 19. Bezirk, Döbling",1190,2194.78,4,125,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T10:27:00Z,2194.78,N/A
+1710218790,360 TOUR // GENERALSANIERTE STILWOHNUNG in DÖBLING,"Wien, 19. Bezirk, Döbling",1190,2194.78,4,125,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T10:27:00Z,2194.78,N/A
 1046649507,Moderne Gartenwohnung in zentraler Lage zur Kurzzeitmiete,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1650,1,49,Wien,Wien,1.0,0,Wohnung,2025-11-17T10:26:00Z,1650.0,Stutterheimstraße
 1841742124,PASSIVHAUS - 3-ZIMMER MIT LOGGIA IN STREBERSDORF,"Wien, 21. Bezirk, Floridsdorf",1210,1493.87,3,99,Wien,Wien,1.0,2,Wohnung,2025-11-17T10:23:00Z,1493.87,Fritz-Kandl-Gasse 1
 1815997352,Leopold XXI - Moderne 2-Zimmer-Wohnung mit Terrasse für Naturliebhaber!,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,53,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T10:23:00Z,899.0,Leopoldauer Platz 9-11
@@ -406,5 +407,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 852589107,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1495.68,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:41:00Z,1495.68,N/A
 1606623902,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1617.91,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1617.91,N/A
 1668204135,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1617.91,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1617.91,N/A
-1478323019,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1589.76,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1589.76,N/A
-1604938252,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1562.56,2,49,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T04:39:00Z,1562.56,N/A
