@@ -1,11 +1,11 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1904677657,4-Zimmer-DG-Traum mit Weitblick im Hietzinger Cottageviertel | ST. VEITGASSE 25 | Neubau-Erstbezug,"Wien, 13. Bezirk, Hietzing",1130,2599,4,108,Wien,Wien,1.0,4,Wohnung,2025-11-18T02:32:00Z,2599.0,St. Veit-Gasse 25
 949216177,GARTEN | TERRASSE | 2 ZIMMER | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER,"Wien, 13. Bezirk, Hietzing",1130,1219,2,43,Wien,Wien,1.0,0,Wohnung,2025-11-18T02:30:00Z,1219.0,St. Veit-Gasse 25
 2053247455,Wunderschöne Altbauetage in Grünruhelage von Penzing mit Gartenmitbenützung,"Wien, 14. Bezirk, Penzing",1140,2570,4,135,Wien,Wien,N/A,1,Wohnung,2025-11-18T02:29:00Z,2570.0,N/A
 1055631899,SINGLE-WOHLFÜHLWOHNUNG NÄHE LIESINGBACH,"Wien, 23. Bezirk, Liesing",1230,668.32,1,35,Wien,Wien,N/A,3,Wohnung,2025-11-18T01:09:00Z,668.32,N/A
 1964869638,Helle 2-Zimmer Wohnung in Ruhelage!,"Wien, 21. Bezirk, Floridsdorf",1210,870,2,55,Wien,Wien,0.79,1,Wohnung,2025-11-17T21:49:00Z,870.0,Plankenbüchlergasse
 990941181,Topmoderne 3-Zimmer-Wohnung mit Balkon & Terrasse,"Wien, 03. Bezirk, Landstraße",1030,1511.61,3,57,Wien,Wien,1.0,1,Wohnung,2025-11-17T21:49:00Z,1511.61,Baumgasse 71
 1455975822,Möblierte Wohnung mit Weitblick über Wien - CityGate,"Wien, 21. Bezirk, Floridsdorf",1210,2350,4,100,Wien,Wien,1.0,29,Wohnung,2025-11-17T21:35:00Z,2350.0,Seyringer Strasse
-1606187221,Hauptmietwohnung Nähe Enkplatz,"Wien, 11. Bezirk, Simmering",1110,777.31,2,74,Wien,Wien,1.0,1,Wohnung,2025-11-17T21:35:00Z,777.31,Simmeringer Hauptstraße 69
 903451642,60m2 Wohnung Praterhauptalle,"Wien, 02. Bezirk, Leopoldstadt",1020,849,2,60,Wien,Wien,0.79,3,Wohnung,2025-11-17T21:31:00Z,849.0,Schüttelstrasse
 936525829,2-Zimmer Wohnung in den DanubeFlats,"Wien, 22. Bezirk, Donaustadt",1220,1700,2,47,Wien,Wien,N/A,37,Wohnung,2025-11-17T21:23:00Z,1700.0,N/A
 878049982,"Neubauwohnung mit Loggia/ Wintergarten, Pool & Garage - 1190 Wien","Wien, 19. Bezirk, Döbling",1190,1600,2,71,Wien,Wien,N/A,N/A,Wohnung,2025-11-17T21:10:00Z,1600.0,N/A
@@ -111,19 +111,13 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2127905873,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,2,38,Wien,Wien,1.0,2,Wohnung,2025-11-17T11:59:00Z,799.0,N/A
 2139601878,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,849,2,38,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,849.0,N/A
 1871470441,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1399,4,77,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:59:00Z,1399.0,N/A
-903224607,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,2,46,Wien,Wien,1.0,0,Wohnung,2025-11-17T11:50:00Z,799.0,N/A
-1021565323,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,899,2,52,Wien,Wien,1.0,0,Wohnung,2025-11-17T11:50:00Z,899.0,N/A
-2049189007,Hochwertige 5-Zimmer-Wohnung mit exklusiven Vorteilen und viel Platz,"Wien, 04. Bezirk, Wieden",1040,5479.65,5,222,Wien,Wien,1.0,1,Wohnung,2025-11-17T11:47:00Z,5479.65,Taubstummengasse
-2136819273,Gemeindewohnung zur Direktvergabe ! Nur mit gültigem Vormerkschein oder Wiener Wohn-Ticket!,"Wien, 22. Bezirk, Donaustadt",1220,690,3,69,Wien,Wien,1.0,N/A,Wohnung,2025-11-17T11:47:00Z,690.0,Saikogasse 7
-2113103533,Ab Dezember- Gemütliche 2-Zimmer-Wohnung in Top Lage - Wien Meidling,"Wien, 12. Bezirk, Meidling",1120,990,2,60,Wien,Wien,1.0,4,Wohnung,2025-11-17T11:44:00Z,990.0,Breitenfurterstraße 11
-1236199565,3-Zimmer-Skyline-Charme zwischen City und Donau - Erstbezug in den DC Flats,"Wien, 22. Bezirk, Donaustadt",1220,2240,3,94,Wien,Wien,N/A,11,Wohnung,2025-11-17T11:37:00Z,2240.0,N/A
 1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-17T11:29:00Z,N/A,N/A
-877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City ERSTBEZUG,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-11-17T10:53:00Z,N/A,N/A
 1729630906,Mietwohnungen 1170 Wien - Erstbezug - sofort verfügbar,"Wien, 17. Bezirk, Hernals",1170,726.09,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-11-14T09:50:00Z,N/A,N/A
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T12:28:00Z,N/A,St. Veit-Gasse 25
 1255821409,VIENNA TWENTYTWO - TOWERHOMES,"Wien, 22. Bezirk, Donaustadt",1220,734.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T10:42:00Z,N/A,Dr.-Adolf-Schärf-Platz 10
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T09:18:00Z,N/A,N/A
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,749,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-10T18:54:00Z,N/A,Pohlgasse 26
+1575101139,"Möbliertes, sonniges Apartment in der Nähe des Saarplatzes","Wien, 19. Bezirk, Döbling",1190,1099,2,44,Wien,Wien,N/A,N/A,Wohnung,2025-11-19T11:47:00Z,1099.0,N/A
 1003686689,Moderne 2-Zimmer-Wohnung mit großer Terrasse & Wintergarten in Wien Ottakring,"Wien, 16. Bezirk, Ottakring",1160,1104,2,69,Wien,Wien,0.79,N/A,Wohnung,2025-11-19T11:28:00Z,1104.0,Hyrtlgasse
 859821645,Wundervolle 1-Zimmer Wohnung in toller Lage - Einbauküche inklusive - ab 01.03.2026 verfügbar!,"Wien, 12. Bezirk, Meidling",1120,749,1,33,Wien,Wien,1.0,4,Wohnung,2025-11-19T11:18:00Z,749.0,Pohlgasse 26
 1909123697,Zentral gelegene 2-Zimmer-Wohnung mit Loggia in den ruhigen Innenhof!,"Wien, 06. Bezirk, Mariahilf",1060,1199.61,2,53,Wien,Wien,1.0,1,Wohnung,2025-11-19T11:14:00Z,1199.61,Marchettigasse 8
@@ -268,7 +262,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1390548756,Perfekt geschnittene 2-Zimmer-Wohnung mit großem Balkon an der Lände!,"Wien, 03. Bezirk, Landstraße",1030,1200.01,2,49,Wien,Wien,1.0,7,Wohnung,2025-11-18T13:20:00Z,1200.01,Erdberger Lände 38
 1105466744,Toller unverbauter Grünblick in den Prater,"Wien, 03. Bezirk, Landstraße",1030,1100.01,2,54,Wien,Wien,1.0,7,Wohnung,2025-11-18T13:20:00Z,1100.01,Erdberger Lände 38
 831822181,Moderne 2 Zimmer Wohnung - ab 15.01.2026 verfügbar!,"Wien, 10. Bezirk, Favoriten",1100,1000,2,44,Wien,Wien,1.0,N/A,Wohnung,2025-11-18T13:20:00Z,1000.0,N/A
-1344708074,"Ab 1.2.2026 - Laxenburger Straße, 1100 Wien - Einzimmer-Singlewohnung mit südseitigem Balkon und Küchenzeile","Wien, 10. Bezirk, Favoriten",1100,695,2,31,Wien,Wien,1.0,2.OG,Wohnung,2025-11-18T13:06:00Z,695.0,Laxenburgerstraße 151F
+1344708074,"Ab 1.2.2026 - Laxenburger Straße, 1100 Wien - Uneinsehbare, moderne Singlewohnung mit Weitblick","Wien, 10. Bezirk, Favoriten",1100,695,1,31,Wien,Wien,1.0,2.OG,Wohnung,2025-11-18T13:06:00Z,695.0,Laxenburgerstraße 151F
 1109406455,1180 Terrassentraum! Erstbezug! Tolle 2-Zimmer Wohnung mit grosser Terrasse und Tiefgaragenplatz!,"Wien, 18. Bezirk, Währing",1180,1350,2,39,Wien,Wien,1.0,1,Wohnung,2025-11-18T12:57:00Z,1350.0,N/A
 827826172,Entzückende Garconniere beim Brunnenmarkt,"Wien, 16. Bezirk, Ottakring",1160,363,1,30,Wien,Wien,1.0,1,Wohnung,2025-11-18T12:57:00Z,363.0,N/A
 1836604243,Gut aufgeteilte 2-Zimmer Wohnung in Favoriten zu mieten,"Wien, 10. Bezirk, Favoriten",1100,1014.56,2,48,Wien,Wien,1.0,6,Wohnung,2025-11-18T12:57:00Z,1014.56,Sonnleithnergasse
@@ -323,4 +317,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1015518884,"Exklusive Mietwohnungen im historischen ""Freihof"" - Ihr Rückzugsort in 1190 Wien - JETZT ANFRAGEN","Wien, 19. Bezirk, Döbling",1190,1395.89,2,36,Wien,Wien,1.0,0,Wohnung,2025-11-18T06:56:00Z,1395.89,Wigandgasse 37
 1038659447,"Exklusive Mietwohnungen im historischen ""Freihof"" - Ihr Rückzugsort in 1190 Wien - JETZT ANFRAGEN","Wien, 19. Bezirk, Döbling",1190,4329.52,3,133,Wien,Wien,1.0,1,Wohnung,2025-11-18T06:56:00Z,4329.52,Wigandgasse 37
 1713218744,"Exklusive Mietwohnungen im historischen ""Freihof"" - Ihr Rückzugsort in 1190 Wien! - JETZT ZUSCHLAGEN","Wien, 19. Bezirk, Döbling",1190,1395.57,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-18T06:53:00Z,N/A,Wigandgasse 37
-1904677657,4-Zimmer-DG-Traum mit Weitblick im Hietzinger Cottageviertel | ST. VEITGASSE 25 | Neubau-Erstbezug,"Wien, 13. Bezirk, Hietzing",1130,2599,4,108,Wien,Wien,1.0,4,Wohnung,2025-11-18T02:32:00Z,2599.0,St. Veit-Gasse 25
