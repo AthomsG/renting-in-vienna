@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1125874918,ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL | 2 ZIMMER | BALKON | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,939.98,2,43,Wien,Wien,1.0,18,Wohnung,2025-11-18T14:13:00Z,939.98,Dr.-Adolf-Schärf-Platz 10
 990520143,2 ZIMMER | BALKON | VIENNA TWENTYTWO | ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,1089.99,2,52,Wien,Wien,1.0,19,Wohnung,2025-11-18T14:13:00Z,1089.99,Dr.-Adolf-Schärf-Platz 10
 1427319213,"Moderne 3-Zimmer-Wohnung im 20. Stock ab April 2026 | VIENNA TWENTYTWO | ERSTBEZUG | Pool, Fitness","Wien, 22. Bezirk, Donaustadt",1220,1674.99,3,75,Wien,Wien,1.0,20,Wohnung,2025-11-18T14:13:00Z,1674.99,Dr.-Adolf-Schärf-Platz 10
 1188596536,ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL | 2 ZIMMER | BALKON | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,940,2,44,Wien,Wien,1.0,20,Wohnung,2025-11-18T14:13:00Z,940.0,Dr.-Adolf-Schärf-Platz 10
@@ -85,12 +86,11 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 990941181,Topmoderne 3-Zimmer-Wohnung mit Balkon & Terrasse,"Wien, 03. Bezirk, Landstraße",1030,1511.61,3,57,Wien,Wien,1.0,1,Wohnung,2025-11-17T21:49:00Z,1511.61,Baumgasse 71
 1455975822,Möblierte Wohnung mit Weitblick über Wien - CityGate,"Wien, 21. Bezirk, Floridsdorf",1210,2350,4,100,Wien,Wien,1.0,29,Wohnung,2025-11-17T21:35:00Z,2350.0,Seyringer Strasse
 903451642,60m2 Wohnung Praterhauptalle,"Wien, 02. Bezirk, Leopoldstadt",1020,849,2,60,Wien,Wien,0.79,3,Wohnung,2025-11-17T21:31:00Z,849.0,Schüttelstrasse
-936525829,2-Zimmer Wohnung in den DanubeFlats,"Wien, 22. Bezirk, Donaustadt",1220,1700,2,47,Wien,Wien,N/A,37,Wohnung,2025-11-17T21:23:00Z,1700.0,N/A
-878049982,"Neubauwohnung mit Loggia/ Wintergarten, Pool & Garage - 1190 Wien","Wien, 19. Bezirk, Döbling",1190,1600,2,71,Wien,Wien,N/A,N/A,Wohnung,2025-11-17T21:10:00Z,1600.0,N/A
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T12:28:00Z,N/A,St. Veit-Gasse 25
 1255821409,VIENNA TWENTYTWO - TOWERHOMES,"Wien, 22. Bezirk, Donaustadt",1220,734.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T10:42:00Z,N/A,Dr.-Adolf-Schärf-Platz 10
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-11T09:18:00Z,N/A,N/A
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,749,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-10T18:54:00Z,N/A,Pohlgasse 26
+1758018287,Genossenschaftswohnung 3 zimmer,"Wien, 22. Bezirk, Donaustadt",1220,660,3,75,Wien,Wien,N/A,2,Wohnung,2025-11-19T21:04:00Z,660.0,N/A
 2101006987,"3-Zimmer Neubau! Angenehm, ruhige Lage nahe dem Riverside!","Wien, 23. Bezirk, Liesing",1230,1399.02,3,68,Wien,Wien,1.0,2,Wohnung,2025-11-19T20:38:00Z,1399.02,Fabergasse 2
 1070154885,"Traumhafte Neubau Mietwohnung mit Terrasse, U4 Hietzing, 8 Mietwohnungen verfügbar","Wien, 14. Bezirk, Penzing",1140,1546.94,2,54,Wien,Wien,0.79,N/A,Wohnung,2025-11-19T20:17:00Z,1546.94,Nisselgasse
 1485206155,UNBEFRISTET - Großzügige 3 Zimmer Wohnung mit Balkon,"Wien, 05. Bezirk, Margareten",1050,1890,3,101,Wien,Wien,0.79,4,Wohnung,2025-11-19T20:12:00Z,1890.0,Diehlgasse
@@ -290,4 +290,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 875586566,"PRIVAT ! Terrassenwohnung, 2 Zimmer, 55m2, klimatisiert","Wien, 21. Bezirk, Floridsdorf",1210,1390,2,55,Wien,Wien,0.79,N/A,Wohnung,2025-11-18T14:44:00Z,1390.0,Donaufelderstr.
 1038355503,Familienfreundliche Hauptmietwohnung im Herzen des 8. Bezirkes Lange Gasse,"Wien, 08. Bezirk, Josefstadt",1080,1623.14,3,90,Wien,Wien,0.79,1,Wohnung,2025-11-18T14:27:00Z,1623.14,Lange Gasse
 1389663446,Exklusive 3-Zimmer-Wohnung mit großer Terrasse und Grünblick,"Wien, 19. Bezirk, Döbling",1190,2140,3,94,Wien,Wien,1.0,1,Wohnung,2025-11-18T14:26:00Z,2140.0,N/A
-1125874918,ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL | 2 ZIMMER | BALKON | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,939.98,2,43,Wien,Wien,1.0,18,Wohnung,2025-11-18T14:13:00Z,939.98,Dr.-Adolf-Schärf-Platz 10
