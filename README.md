@@ -24,6 +24,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                      | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       720    |            41 |          2 | 04. Wieden    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/single-wohnung-in-toller-lage-1662178118/)                              | Nov 22, 21:35      |
 |       571.74 |            57 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-direktvergabe%21-911167932/)                         | Nov 22, 17:06      |
 |       650    |            34 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/provision-freie-wohnung-zu-vermieten-1073749810/)                      | Nov 22, 13:33      |
 |       792.86 |            54 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/%2Abestausstattung%2A---sonniger-neubau-beim-antonspark-1136092440/) | Nov 22, 10:35      |
