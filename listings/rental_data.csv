@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+856839449,Helle 2-Zimmer Wohnung mit Panoramablick in zentraler Lage,"Wien, 19. Bezirk, Döbling",1190,999,2,48,Wien,Wien,N/A,3,Wohnung,2025-11-23T22:23:00Z,999.0,N/A
 1098329261,++NEW++ Prime location: Stylish 3-room maisonette with large terrace - first occupancy!,"Wien, 06. Bezirk, Mariahilf",1060,1975,3,64,Wien,Wien,1.0,4,Wohnung,2025-11-23T21:55:00Z,1975.0,Mollardgasse 50
 1461744948,++NEW++ Exclusive first occupancy: Modern 2-room flat with loggia on the 3rd floor - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,1425,2,50,Wien,Wien,1.0,3,Wohnung,2025-11-23T21:54:00Z,1425.0,Mollardgasse 50
 1908167071,++NEW++ New build: Spacious 3-room flat with balcony on the 2nd floor - first occupancy - mollard50,"Wien, 06. Bezirk, Mariahilf",1060,2025,3,71,Wien,Wien,1.0,2,Wohnung,2025-11-23T21:52:00Z,2025.0,Mollardgasse 50
@@ -27,8 +28,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1841865046,Exklusiv-Wohnung im1. Wiener Bezirk - 75 m² - renoviert & möbliert - perfekte Lage beim Ring,"Wien, 01. Bezirk, Innere Stadt",1010,1920,3,75,Wien,Wien,N/A,4,Wohnung,2025-11-23T20:32:00Z,1920.0,N/A
 784731251,"Moderne, lichtdurchflutete 5-Zimmer-Wohnung mit großem Balkon in Toplage!","Wien, 19. Bezirk, Döbling",1190,3498,5,170,Wien,Wien,1.0,3,Wohnung,2025-11-23T20:31:00Z,3498.0,N/A
 1883158720,Vollmöblierte 2-Zimmer-Wohnung zur befristeten Miete (Kurzzeitmiete) - 20. Bezirk Wien Verfügbar ab 5. Januar 2026,"Wien, 20. Bezirk, Brigittenau",1200,1200,2,60,Wien,Wien,N/A,4,Wohnung,2025-11-23T20:27:00Z,1200.0,N/A
-898917051,"Moderne 2-Zimmer-Neubauwohnung in Toplage - Webgasse, 1060 Wien","Wien, 06. Bezirk, Mariahilf",1060,1450,2,68,Wien,Wien,0.79,3,Wohnung,2025-11-23T20:10:00Z,1450.0,Webgasse
-1173650326,Super gemütliche 1-Zimmer Gemeindewohnung 35 m² (mit extra Küche) - nur mit gültigem Wohnticket,"Wien, 05. Bezirk, Margareten",1050,362.53,1,35,Wien,Wien,0.79,N/A,Wohnung,2025-11-23T20:07:00Z,362.53,Stöbergasse
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1625,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-23T03:28:00Z,N/A,Apollogasse
 1773744225,Schöffelgasse 48 - Modernes Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,916.13,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-22T03:18:00Z,N/A,N/A
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1375,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-21T21:48:00Z,N/A,Mollardgasse 50
@@ -48,6 +47,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,919,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-21T03:59:00Z,N/A,Dittmanngasse
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-21T03:31:00Z,N/A,Zwerngasse 49
 1028888358,MODERNES WOHNEN IN ST. GOTTHARD,"Wien, 14. Bezirk, Penzing",1140,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-12T13:24:00Z,N/A,N/A
+1435647977,Große 1 Zimmer Whg - U1 - Hauptbahnhof Nähe,"Wien, 10. Bezirk, Favoriten",1100,682,1,45,Wien,Wien,0.79,1,Wohnung,2025-11-25T10:53:00Z,682.0,Waldgasse
 978034598,Neubauwohnung in entspannter Wohnatmosphäre mit höchster Lebensqualität,"Wien, 03. Bezirk, Landstraße",1030,1220,2,51,Wien,Wien,0.79,N/A,Wohnung,2025-11-25T10:51:00Z,1220.0,Fred-Zinnemann Platz
 2029592891,super gepflegte Stilaltbauwohnung ( 3 Zimmer ) im Herzen des Simmering!,"Wien, 11. Bezirk, Simmering",1110,1221.73,3,100,Wien,Wien,1.0,1,Wohnung,2025-11-25T10:50:00Z,1221.73,N/A
 1975316023,Herrliche Gartenwohnung in Toplage nahe Sternwartepark!,"Wien, 18. Bezirk, Währing",1180,2750,0,103,Wien,Wien,1.0,0,Wohnung,2025-11-25T10:38:00Z,2750.0,N/A
@@ -247,7 +247,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 962329810,HELLE / RUHIGE NEUBAUMIETE (1990) MIT GROSSEM GEMEINSCHAFTSGARTEN UND POOLNUTZUNG !,"Wien, 21. Bezirk, Floridsdorf",1210,590,1,37,Wien,Wien,1.0,1,Wohnung,2025-11-24T12:37:00Z,590.0,N/A
 872494085,2 Zimmer Gemeindewohnung Direktvergabe VMS: bis 31.10.2025,"Wien, 02. Bezirk, Leopoldstadt",1020,505.48,2,46,Wien,Wien,N/A,2,Wohnung,2025-11-24T12:35:00Z,505.48,N/A
 917419126,Moderne 2-Zimmerwohnung im LEO am Park - Nachhaltiger Neubau Nahe Floridsdorf Bahnhof,"Wien, 21. Bezirk, Floridsdorf",1210,895.01,2,47,Wien,Wien,1.0,4,Wohnung,2025-11-24T12:32:00Z,895.01,Leopoldauer Straße 72
-1072328032,"Blueground ID488, Wieden","Wien, 04. Bezirk, Wieden",1040,4015,4,126,Wien,Wien,1.0,5,Wohnung,2025-11-24T12:30:00Z,4015.0,Prinz-Eugen-Straße 18
+2047133939,Wohnung zu vermieten,"Wien, 21. Bezirk, Floridsdorf",1210,850,2,47,Wien,Wien,0.79,4,Wohnung,2025-11-25T20:20:00Z,850.0,Siegfriedgasse
 1450201383,Wunderschöne 4-Zimmer Wohnung mit Balkon 1110 Wien VORMERKSCHEIN 31.05.2019,"Wien, 11. Bezirk, Simmering",1110,960,4,92,Wien,Wien,0.79,6,Wohnung,2025-11-25T19:50:00Z,960.0,Trepulkagasse
 1359984222,Danubeflats,"Wien, 22. Bezirk, Donaustadt",1220,1890,2,56,Wien,Wien,1.0,13,Wohnung,2025-11-25T19:48:00Z,1890.0,Wagramerstraße 2
 2017213744,2-Zimmer-Gemeindewohnung mit 2 Balkonen | 75 m² | Direktvergabe | 1200 Wien | Ablöse 5.000 €,"Wien, 20. Bezirk, Brigittenau",1200,760.05,2,75,Wien,Wien,N/A,6,Wohnung,2025-11-25T19:36:00Z,760.05,N/A
@@ -447,7 +447,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1887417012,Großzügige 4-Zimmer-Wohnung mit idealer Aufteilung,"Wien, 19. Bezirk, Döbling",1190,2670,4,99,Wien,Wien,1.0,2,Wohnung,2025-11-25T10:56:00Z,2670.0,N/A
 1083030178,DACHGESCHOSSWOHNUNG MIT STIL&TOPLAGE NAHE ROCHUSMARKT,"Wien, 03. Bezirk, Landstraße",1030,2989.35,4,118,Wien,Wien,1.0,N/A,Wohnung,2025-11-25T10:56:00Z,2989.35,N/A
 1911465237,Absolut ruhige Familienwohnung im Herzen von Hetzendorf mit Loggia,"Wien, 12. Bezirk, Meidling",1120,1825.43,4,112,Wien,Wien,1.0,2,Wohnung,2025-11-25T10:56:00Z,1825.43,Strohberggasse
-1435647977,Große 1 Zimmer Whg - U1 - Hauptbahnhof Nähe,"Wien, 10. Bezirk, Favoriten",1100,682,1,45,Wien,Wien,0.79,1,Wohnung,2025-11-25T10:53:00Z,682.0,Waldgasse
+1072328032,"Blueground ID488, Wieden","Wien, 04. Bezirk, Wieden",1040,4015,4,126,Wien,Wien,1.0,5,Wohnung,2025-11-24T12:30:00Z,4015.0,Prinz-Eugen-Straße 18
 1886985862,"Charmantes Apartment in 1160 Wien: Balkon, Einbauküche, 61 m² für 980 EUR mtl.!","Wien, 16. Bezirk, Ottakring",1160,980,0,61,Wien,Wien,1.0,1,Wohnung,2025-11-24T12:30:00Z,980.0,N/A
 1263408672,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1499,2,76,Wien,Wien,1.0,4,Wohnung,2025-11-24T12:27:00Z,1499.0,N/A
 1152529414,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1299,2,62,Wien,Wien,1.0,6,Wohnung,2025-11-24T12:27:00Z,1299.0,N/A
@@ -647,4 +647,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1327026116,Exklusive Terrassenwohnung im 19. Bezirk - Wohnen mit Grünblick,"Wien, 19. Bezirk, Döbling",1190,2980,4,130,Wien,Wien,1.0,2,Wohnung,2025-11-24T03:16:00Z,2980.0,N/A
 962899670,Exklusive Neubauwohnung mit Balkon,"Wien, 19. Bezirk, Döbling",1190,3725,5,170,Wien,Wien,1.0,0,Wohnung,2025-11-24T02:25:00Z,3725.0,Hutweidengasse 60a
 1177870599,2 Zimmer Neubau Wohnung mit Terrasse nähe U1,"Wien, 22. Bezirk, Donaustadt",1220,802,2,42,Wien,Wien,1.0,5,Wohnung,2025-11-24T00:31:00Z,802.0,Bertha-Von-Suttner-Gasse 10/2/63
-856839449,Helle 2-Zimmer Wohnung mit Panoramablick in zentraler Lage,"Wien, 19. Bezirk, Döbling",1190,999,2,48,Wien,Wien,N/A,3,Wohnung,2025-11-23T22:23:00Z,999.0,N/A
