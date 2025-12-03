@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1444002454,3 Zimmer Wohnung mit Dachterrasse,"Wien, 21. Bezirk, Floridsdorf",1210,1500,3,93,Wien,Wien,N/A,N/A,Wohnung,2025-12-03T22:39:00Z,1500.0,N/A
+1765381347,PRIVAT: Kaasgraben: Helle renovierte Wohnung mit Designerbad am Kaasgraben,"Wien, 19. Bezirk, Döbling",1190,990,2,52,Wien,Wien,1.0,1,Wohnung,2025-12-03T22:31:00Z,990.0,Paul Ehrlichgasse 23
+1028291840,Neuwertige Traumwohnung in Grün- & Ruhelage (5 Min zu U2 Hardeggasse),"Wien, 22. Bezirk, Donaustadt",1220,1380,2,56,Wien,Wien,1.0,4,Wohnung,2025-12-03T22:31:00Z,1380.0,Wulzendorfstraße 22a
 555883923,"Schöne, ruhige, helle 2-Zimmer Wohnung nähe WU und Praterpark","Wien, 02. Bezirk, Leopoldstadt",1020,840,2,42,Wien,Wien,1.0,4,Wohnung,2025-12-03T22:25:00Z,840.0,Arnezhofer Straße 13
 1836250342,Wohnung,"Wien, 21. Bezirk, Floridsdorf",1210,820,2,47,Wien,Wien,N/A,1,Wohnung,2025-12-03T22:20:00Z,820.0,N/A
 1652391949,"++NEW++ New build, first occupancy: Spacious 3-room flat, balcony on the 4th floor (Mollardgasse 50)","Wien, 06. Bezirk, Mariahilf",1060,1925,3,65,Wien,Wien,1.0,4,Wohnung,2025-12-03T21:40:00Z,1925.0,Mollardgasse 50
@@ -196,9 +199,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1226946161,"City-Highlight in den ""Parkapartments am Belvedere""","Wien, 10. Bezirk, Favoriten",1100,1399.01,2,62,Wien,Wien,1.0,14,Wohnung,2025-12-03T09:28:00Z,1399.01,Arsenalstraße
 812321662,Wunderschöne 2-Zimmerwohnung in Park-Nähe,"Wien, 14. Bezirk, Penzing",1140,849,2,47,Wien,Wien,1.0,2,Wohnung,2025-12-03T09:26:00Z,849.0,Beckmanngasse
 2082311762,Zentrale - Günstige - 2 Zi. Stadtwohnung - WG möglich,"Wien, 03. Bezirk, Landstraße",1030,776.49,2,57,Wien,Wien,1.0,4,Wohnung,2025-12-03T09:22:00Z,776.49,Erdbergstraße 103 Stiege 1 Top 18
-1787537808,"Gemütliche 1,5-Zimmer-Wohnung Nähe Augarten","Wien, 02. Bezirk, Leopoldstadt",1020,950,1,42,Wien,Wien,N/A,N/A,Wohnung,2025-12-03T09:15:00Z,950.0,N/A
-1058777623,Wohnen & Arbeiten über den Dächern Wiens - 3 Zimmer beim Stephansplatz,"Wien, 01. Bezirk, Innere Stadt",1010,2216,3,84,Wien,Wien,0.79,N/A,Wohnung,2025-12-03T09:10:00Z,2216.0,Goldschmiedgasse
-1699566360,ALL INCLUSIVE // Stylish Studio Apartment near City Center,"Wien, 02. Bezirk, Leopoldstadt",1020,1250,1,40,Wien,Wien,1.0,3,Wohnung,2025-12-03T09:06:00Z,1250.0,Darwingasse
+1964619003,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1570,3,73,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1570.0,Thaliastraße 50
+1905882027,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1270,2,55,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1270.0,Thaliastraße 50
+925852718,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,999,2,44,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,999.0,Thaliastraße 50
 1402970759,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1050,2,46,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1050.0,Thaliastraße 50
 1870108391,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1490,3,66,Wien,Wien,1.0,4,Wohnung,2025-12-02T11:50:00Z,1490.0,Thaliastraße 50
 1880199401,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1270,2,55,Wien,Wien,1.0,4,Wohnung,2025-12-02T11:50:00Z,1270.0,Thaliastraße 50
@@ -313,6 +316,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 774004814,"Wohnen im Herzen von Simmering - Dittmanngasse 4, 1110 Wien. - WOHNTRAUM","Wien, 11. Bezirk, Simmering",1110,919,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T06:54:00Z,N/A,Dittmanngasse 4
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,919,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T03:59:00Z,N/A,Dittmanngasse
 1991926708,LETZTE CHANCE | Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-21T10:26:00Z,N/A,N/A
+1787537808,"Gemütliche 1,5-Zimmer-Wohnung Nähe Augarten","Wien, 02. Bezirk, Leopoldstadt",1020,950,1,42,Wien,Wien,N/A,N/A,Wohnung,2025-12-03T09:15:00Z,950.0,N/A
+1058777623,Wohnen & Arbeiten über den Dächern Wiens - 3 Zimmer beim Stephansplatz,"Wien, 01. Bezirk, Innere Stadt",1010,2216,3,84,Wien,Wien,0.79,N/A,Wohnung,2025-12-03T09:10:00Z,2216.0,Goldschmiedgasse
+1699566360,ALL INCLUSIVE // Stylish Studio Apartment near City Center,"Wien, 02. Bezirk, Leopoldstadt",1020,1250,1,40,Wien,Wien,1.0,3,Wohnung,2025-12-03T09:06:00Z,1250.0,Darwingasse
 782659770,Piaristengasse - Stilvolle Altbauwohnung mit moderner Ausstattung,"Wien, 08. Bezirk, Josefstadt",1080,1900,2,79,Wien,Wien,1.0,3,Wohnung,2025-12-03T09:06:00Z,1900.0,Piaristengasse
 1204840278,ALL INCLUSIVE RENT FOR UP TO 3 MONTHS,"Wien, 02. Bezirk, Leopoldstadt",1020,1850,3,75,Wien,Wien,1.0,1,Wohnung,2025-12-03T09:06:00Z,1850.0,Darwingasse
 1230482528,Moderne 2 Zimmer Wohnung mit Swimming Pool,"Wien, 19. Bezirk, Döbling",1190,1185.52,2,54,Wien,Wien,1.0,3,Wohnung,2025-12-03T09:06:00Z,1185.52,N/A
@@ -510,6 +516,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1703185937,Hochwertige 5-Zimmer-Wohnung mit exklusiven Vorteilen und viel Platz,"Wien, 04. Bezirk, Wieden",1040,5479.65,5,222,Wien,Wien,1.0,1,Wohnung,2025-12-02T11:50:00Z,5479.65,Taubstummengasse
 798902295,*Erdgeschoss-Terrassenwohnung in wunderschöner Altstilvilla*,"Wien, 18. Bezirk, Währing",1180,1159.86,2,59,Wien,Wien,1.0,0,Wohnung,2025-12-02T11:50:00Z,1159.86,N/A
 1316316672,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1170,2,51,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1170.0,Thaliastraße 50
-1964619003,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1570,3,73,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1570.0,Thaliastraße 50
-1905882027,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,1270,2,55,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,1270.0,Thaliastraße 50
-925852718,DG-Ausbau Thaliastrasse 50,"Wien, 16. Bezirk, Ottakring",1160,999,2,44,Wien,Wien,1.0,3,Wohnung,2025-12-02T11:50:00Z,999.0,Thaliastraße 50
