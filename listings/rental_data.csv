@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1066737302,"Blueground ID497, Landstraße","Wien, 03. Bezirk, Landstraße",1030,1795,44,2,Wien,Wien,1.0,8,Wohnung,2025-12-03T13:14:00Z,1795.0,Marxergasse 22
 1897349626,Dachterrassenwohnung mit zusätzlichem Balkon | Untere Alte Donau | 3 Zimmer,"Wien, 22. Bezirk, Donaustadt",1220,1485,3,69,Wien,Wien,0.79,N/A,Wohnung,2025-12-03T12:51:00Z,1485.0,Max-Böhm-Gasse
 2081291276,Provisionsfrei: Moderne 4-Zimmer Altbauwohnung mit Garten,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,2800,4,151,Wien,Wien,1.0,2,Wohnung,2025-12-03T12:47:00Z,2800.0,Meiselstrasse 9
 1358243745,"Klassischer Altbau, 6 Zimmer, Nähe Judenplatz","Wien, 01. Bezirk, Innere Stadt",1010,3650,6,203,Wien,Wien,N/A,3,Wohnung,2025-12-03T12:39:00Z,3650.0,N/A
@@ -92,7 +93,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1418540652,Ihre Dachgeschosswohnung in der Maroltingergasse - Komfort & Weitblick im 16. Bezirk. - WOHNTRAUM,"Wien, 16. Bezirk, Ottakring",1160,1898.86,4,107,Wien,Wien,1.0,N/A,Wohnung,2025-12-03T06:55:00Z,1898.86,Maroltingergasse 57
 2063617578,Modernes Wohnen direkt bei der U3 Kendlerstraße mit hochwertiger Ausstattung! - JETZT ZUSCHLAGEN,"Wien, 16. Bezirk, Ottakring",1160,1998.49,4,90,Wien,Wien,1.0,5,Wohnung,2025-12-03T06:55:00Z,1998.49,Zöchbauerstraße 5
 1915657832,Ruhige 2-Zimmer Wohnung mit Balkon in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,990,2,46,Wien,Wien,0.79,2 (Lift),Wohnung,2025-12-03T06:47:00Z,990.0,Greinergasse
-1864218627,"Pauschalmiete inklusive Warmwasser, Heizung & Kühlung - Moderne 2-Zimmer-Wohnung mit großzügigem Balkon und stilvoller Ausstattung","Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,4,Wohnung,2025-12-03T06:35:00Z,899.0,N/A
 1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-01T11:29:00Z,N/A,N/A
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T18:54:00Z,N/A,Pohlgasse 26
 1383376447,"Miete: Inzersdorfer Straße 121, 1100 Wien","Wien, 10. Bezirk, Favoriten",1100,904.7,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T15:34:00Z,N/A,N/A
@@ -104,6 +104,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 788510437,Ihr Zuhause im Grünen: All-inclusive Miete in der Tokiostraße 12 am Kirschblütenpark!,"Wien, 22. Bezirk, Donaustadt",1220,720.79,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T09:25:00Z,N/A,Tokiostraße 12
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-28T09:18:00Z,N/A,N/A
 1991926708,LETZTE CHANCE | Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-11-21T10:26:00Z,N/A,N/A
+1217488103,TOP Moderne Wohnung in Kaisermühlen direkt am Wasser nahe VIC/ UNO,"Wien, 22. Bezirk, Donaustadt",1220,1100,2,61,Wien,Wien,N/A,N/A,Wohnung,2025-12-05T06:48:00Z,1100.0,N/A
 1654624757,"9., Nähe Gymnasium Wasagasse Einmalige Gelegenheit- Wohnen im wunderschönen Biedermeier Ambiente- jetzt Mieten und in 12 Jahren Kaufen","Wien, 09. Bezirk, Alsergrund",1090,2600,6,140,Wien,Wien,1.0,N/A,Wohnung,2025-12-05T06:24:00Z,2600.0,N/A
 2123676368,Helle 3-Zimmer-Wohnung mit Lift im Herzen der Innenstadt,"Wien, 01. Bezirk, Innere Stadt",1010,2329.07,3,93,Wien,Wien,1.0,4,Wohnung,2025-12-05T06:24:00Z,2329.07,N/A
 1790548440,WOHNEN NÄHE ST. ANNA KINDERSPITAL! Brünnlbadgasse 14/7,"Wien, 09. Bezirk, Alsergrund",1090,915.65,2,60,Wien,Wien,N/A,1,Wohnung,2025-12-05T06:22:00Z,915.65,N/A
@@ -503,4 +504,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 937208734,Topmoderne 2-Zimmer-Wohnung mit Traumbalkon in urbaner Lage!,"Wien, 16. Bezirk, Ottakring",1160,989,0,40,Wien,Wien,1.0,4,Wohnung,2025-12-03T13:25:00Z,989.0,N/A
 907875982,Großzügige 2-Zimmer-Wohnung mit luftiger Wohnküche und großem Balkon - frisch renoviert!,"Wien, 22. Bezirk, Donaustadt",1220,1425,2,64,Wien,Wien,1.0,1,Wohnung,2025-12-03T13:17:00Z,1425.0,Quadenstraße 43
 850925899,2-Zimmer HIT in super Lage! ANFRAGEN UND SCHNELL SEIN! JETZT ANFRAGEN!,"Wien, 20. Bezirk, Brigittenau",1200,998.99,2,46,Wien,Wien,1.0,5,Wohnung,2025-12-03T13:16:00Z,998.99,Dresdner Straße 17-19
-1066737302,"Blueground ID497, Landstraße","Wien, 03. Bezirk, Landstraße",1030,1795,44,2,Wien,Wien,1.0,8,Wohnung,2025-12-03T13:14:00Z,1795.0,Marxergasse 22
