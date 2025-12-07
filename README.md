@@ -24,6 +24,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                          | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       530    |            47 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-gemeindewohnung-899122758/)                                | Dec 07, 13:48      |
 |       550    |            50 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/gemeindewohnung-direktvergabe-wohnticket-f%C3%BCr-2-zimmer-1231620925/)  | Dec 06, 20:13      |
 |       421.7  |            40 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/direktvergabe-2-zimmer-gemeindewohnung-1489611573/)                        | Dec 06, 16:58      |
 |       442.99 |            44 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/gemeindewohnung-zur-direktvergabe---ruhige-lage-im-17.-bezirk-1564131600/) | Dec 06, 15:13      |
