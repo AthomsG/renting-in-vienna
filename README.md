@@ -22,6 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                           | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          530 |            47 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-gemeindewohnung-899122758/) | Dec 07, 13:48      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                              | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       440    |            48 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe---voll-m%C3%B6blierte-helle-2-zimmer-gemeindewohnung-im-10.-bezirk-918667643/) | Dec 08, 09:23      |
+|       797.98 |            71 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-1/2-zimmer-wohnung-/-unbefristet-1545377267/)                                              | Dec 08, 08:54      |
+|       530    |            47 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-gemeindewohnung-899122758/)                                                    | Dec 07, 13:48      |
