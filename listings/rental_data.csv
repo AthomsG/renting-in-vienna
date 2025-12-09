@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+958198433,SANIERTE 2-ZIMMER WOHNUNG LENAUGASSE - UNBEFRISTET,"Wien, 08. Bezirk, Josefstadt",1080,1199,2,65,Wien,Wien,1.0,2,Wohnung,2025-12-08T09:59:00Z,1199.0,Lenaugasse 19
 1153472901,"1220 Wien Moderne, helle 2-Zimmer Mietwohnung mit Loggia/Balkon und Top-Infrastruktur nahe U1","Wien, 22. Bezirk, Donaustadt",1220,942.7,2,50,Wien,Wien,1.0,5,Wohnung,2025-12-08T09:59:00Z,942.7,N/A
 1742532897,"Pramergasse 16, 2BD, Washing Machine, Elevator","Wien, 09. Bezirk, Alsergrund",1090,2152,3,70,Wien,Wien,1.0,2,Wohnung,2025-12-08T09:54:00Z,2152.0,Pramergasse 16
 1374254017,GRÜNSTÜCK 22! Neubau-Naturnahes Wohnen in Ruhelage! Adelheid-Popp-Gasse 10,"Wien, 22. Bezirk, Donaustadt",1220,999,2,56,Wien,Wien,N/A,1,Wohnung,2025-12-08T09:54:00Z,999.0,N/A
@@ -96,7 +97,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1793867341,Serviced Apartment mit Balkon in Oberlaa! All inclusive!,"Wien, 10. Bezirk, Favoriten",1100,1033,1,34,Wien,Wien,1.0,5,Wohnung,2025-12-07T21:33:00Z,1033.0,Kurbadstraße 8
 1468204678,"Erstbezug nach Komplett-­Renovierung | Toplage nahe Floridsdorfer Bahnhof, U6 & Donauinsel | Provisionfrei","Wien, 21. Bezirk, Floridsdorf",1210,1190,2,67,Wien,Wien,1.0,2,Wohnung,2025-12-07T21:25:00Z,1190.0,Pilzgasse 24
 2140309235,"moderne 4 Zimmer Wohnung 1220, 6. Liftstock, Westbalkon","Wien, 22. Bezirk, Donaustadt",1220,1985,4,110,Wien,Wien,0.79,6,Wohnung,2025-12-07T21:24:00Z,1985.0,Adelheid-Popp-Gasse
-2006525337,LAXURY - Neubau | Erstbezug | Nähe Hauptbahnhof,"Wien, 10. Bezirk, Favoriten",1100,1100,2,56,Wien,Wien,1.0,3,Wohnung,2025-12-07T20:51:00Z,1100.0,Laxenburgerstraße 2b
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1625,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-07T03:28:00Z,N/A,Apollogasse
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1375,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T21:48:00Z,N/A,Mollardgasse 50
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T18:54:00Z,N/A,Pohlgasse 26
@@ -116,6 +116,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 774004814,"Wohnen im Herzen von Simmering - Dittmanngasse 4, 1110 Wien. - WOHNTRAUM","Wien, 11. Bezirk, Simmering",1110,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T06:54:00Z,N/A,Dittmanngasse 4
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,919,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T03:59:00Z,N/A,Dittmanngasse
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T03:31:00Z,N/A,Zwerngasse 49
+818322782,Großzügige Terrassenwohnung mit zwei Tiefgaragenplätzen - Wien 1140 Hadersdorf,"Wien, 14. Bezirk, Penzing",1140,1900,4,96,Wien,Wien,1.0,2,Wohnung,2025-12-09T20:49:00Z,1900.0,N/A
 1678557945,"TOPLAGE und große LOGGIA: Hofseitige, moderne 2-Zimmerwohnung!","Wien, 07. Bezirk, Neubau",1070,1650,2,64,Wien,Wien,1.0,1,Wohnung,2025-12-09T20:39:00Z,1650.0,Apollogasse 18
 1597368264,Wunderbare 3 Zimmerwohnung mit großzügiger Loggia,"Wien, 21. Bezirk, Floridsdorf",1210,1385,3,76,Wien,Wien,1.0,2,Wohnung,2025-12-09T20:37:00Z,1385.0,N/A
 1823150957,Erstbezug ab 15. Februar! Sonnige 2-Zimmer-Balkonwohnung im 19. Bezirk zu vermieten!,"Wien, 19. Bezirk, Döbling",1190,1690,2,58,Wien,Wien,1.0,1,Wohnung,2025-12-09T20:32:00Z,1690.0,Krottenbachstraße
@@ -715,4 +716,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1402468961,"Erdbergstraße 30, 1BD, Washing Machine","Wien, 03. Bezirk, Landstraße",1030,1493,2,70,Wien,Wien,1.0,3,Wohnung,2025-12-08T10:06:00Z,1493.0,Erdbergstraße 30
 1837068649,Wunderschöne Loft-Wohnung,"Wien, 19. Bezirk, Döbling",1190,869,1,34,Wien,Wien,0.79,N/A,Wohnung,2025-12-08T10:06:00Z,869.0,Döblinger Haupstraße
 1310714270,++NEW++ Attractive 2-room flat with loggia on the 3rd floor - first occupancy (Mollardgasse 50),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,62,Wien,Wien,1.0,4,Wohnung,2025-12-08T10:01:00Z,1525.0,Mollardgasse 50
-958198433,SANIERTE 2-ZIMMER WOHNUNG LENAUGASSE - UNBEFRISTET,"Wien, 08. Bezirk, Josefstadt",1080,1199,2,65,Wien,Wien,1.0,2,Wohnung,2025-12-08T09:59:00Z,1199.0,Lenaugasse 19
