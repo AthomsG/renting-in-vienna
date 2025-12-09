@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2079780930,"-=THE AMBASSY=- Exklusive 2-Zimmer-Wohnung mit Loggia, Nähe Stadtpark","Wien, 03. Bezirk, Landstraße",1030,1450,2,59,Wien,Wien,0.79,N/A,Wohnung,2025-12-08T10:50:00Z,1450.0,Beatrixgasse
+2086334911,"Sonnige 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1110,2,45,Wien,Wien,N/A,11,Wohnung,2025-12-08T10:50:00Z,1110.0,N/A
 993343961,"2 Schlafzimmer, großer Wohnsalon, ca. 93 m² + 6 m² Terrasse","Wien, 22. Bezirk, Donaustadt",1220,1486.93,3,93,Wien,Wien,1.0,N/A,Wohnung,2025-12-08T10:48:00Z,1486.93,N/A
 1427565031,SANIERTE 3-ZIMMER WOHNUNG IN DER RUMMELHARDTGASSE,"Wien, 09. Bezirk, Alsergrund",1090,1565.99,3,81,Wien,Wien,1.0,1,Wohnung,2025-12-08T10:47:00Z,1565.99,Rummelhardtgasse 2
 1394800045,2-Zimmer-Wohnung mit hochwertiger Ausstattung | Erstbezug Nähe U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,1243,2,60,Wien,Wien,1.0,2,Wohnung,2025-12-08T10:47:00Z,1243.0,Am Langen Felde 24 - Top 4/16
@@ -100,8 +102,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1187433973,Neubauwohnungen (Bj. 2022) Nähe Bahnhof Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-12-08T00:37:00Z,N/A,N/A
 1610923313,Schöne 130m2 Altbaujuwel mit Balkon in bester Lage. PRIVAT. Nähe Palais Lichtenstein.,"Wien, 09. Bezirk, Alsergrund",1090,2490,0,130,Wien,Wien,1.0,N/A,Wohnung,2025-12-07T23:31:00Z,2490.0,Boltzmanngasse 22
 1298341963,"Neue, hochwertige Wohnung mit Fernblick & U-Bahn Nähe, provisionsfrei!","Wien, 22. Bezirk, Donaustadt",1220,1616,3,74,Wien,Wien,1.0,5,Wohnung,2025-12-07T22:55:00Z,1616.0,Bertha-Von-Suttner-Gasse 4
-1232212995,2 Zimmer Wohnung 4 Bezirk Zentrumsnähe,"Wien, 04. Bezirk, Wieden",1040,935,2,48,Wien,Wien,0.79,2 Stock,Wohnung,2025-12-07T22:13:00Z,935.0,Mostgasse
-1122669415,"Sonnige, ruhige & hochwertig ausgestattete Neubauwohnung mit großer Loggia und öffentlicher Direktverbindung in die Innenstadt - Garagenplatz optional","Wien, 11. Bezirk, Simmering",1110,1130,2,72,Wien,Wien,1.0,1,Wohnung,2025-12-07T22:10:00Z,1130.0,Sellingergasse 4a
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1625,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-07T03:28:00Z,N/A,Apollogasse
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1375,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T21:48:00Z,N/A,Mollardgasse 50
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T18:54:00Z,N/A,Pohlgasse 26
@@ -121,6 +121,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 774004814,"Wohnen im Herzen von Simmering - Dittmanngasse 4, 1110 Wien. - WOHNTRAUM","Wien, 11. Bezirk, Simmering",1110,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T06:54:00Z,N/A,Dittmanngasse 4
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,919,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T03:59:00Z,N/A,Dittmanngasse
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-05T03:31:00Z,N/A,Zwerngasse 49
+1167677057,2-Zimmer-Gemeindewohnung,"Wien, 11. Bezirk, Simmering",1110,360,2,60,Wien,Wien,1.0,1,Wohnung,2025-12-09T22:11:00Z,360.0,Am hofgartel 5
+1890528916,Exklusives Wohnen im Weyringerhof mit Parkblick,"Wien, 04. Bezirk, Wieden",1040,1560,2,93,Wien,Wien,0.79,1,Wohnung,2025-12-09T22:02:00Z,1560.0,Weyringergasse
 639512329,Donaucity 5 Zimmer Wohnung 130m2,"Wien, 22. Bezirk, Donaustadt",1220,2800,5,130,Wien,Wien,1.0,1,Wohnung,2025-12-09T21:51:00Z,2800.0,Leonard-Bernstein-Straße 4-6
 1575029549,2 ZIMMER | BALKON | VIENNA TWENTYTWO | ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,950,2,44,Wien,Wien,1.0,21,Wohnung,2025-12-09T21:47:00Z,950.0,Dr.-Adolf-Schärf-Platz 10
 1559493196,ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL | 3 ZIMMER | BALKON | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,1694.99,3,75,Wien,Wien,1.0,22,Wohnung,2025-12-09T21:47:00Z,1694.99,Dr.-Adolf-Schärf-Platz 10
@@ -719,5 +721,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1533877368,Nähe Stadtpark: Großzügige 137 m² Altbauwohnung mit kleinem Balkon,"Wien, 01. Bezirk, Innere Stadt",1010,2879.75,3,137,Wien,Wien,1.0,2,Wohnung,2025-12-08T10:54:00Z,2879.75,Biberstraße
 1831467342,ERSTBEZUG IN DER NEUEN DONAUSTADT | MIETBEGINN AB 1. APRIL | 3 ZIMMER | BALKON | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,1765,3,69,Wien,Wien,1.0,41,Wohnung,2025-12-08T10:54:00Z,1765.0,Dr.-Adolf-Schärf-Platz 10
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City ERSTBEZUG,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-12-08T10:53:00Z,N/A,N/A
-2079780930,"-=THE AMBASSY=- Exklusive 2-Zimmer-Wohnung mit Loggia, Nähe Stadtpark","Wien, 03. Bezirk, Landstraße",1030,1450,2,59,Wien,Wien,0.79,N/A,Wohnung,2025-12-08T10:50:00Z,1450.0,Beatrixgasse
-2086334911,"Sonnige 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1110,2,45,Wien,Wien,N/A,11,Wohnung,2025-12-08T10:50:00Z,1110.0,N/A
