@@ -24,4 +24,5 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                     | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          750 |            51 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/2-zi-wohnung-788780223/)                                                             | Dec 13, 18:32      |
 |          630 |            74 |          4 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/gemeindewohnung-4-zimmer-wiener-wohn-ticket-30.11.2021-1112719706/) | Dec 13, 16:35      |
