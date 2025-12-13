@@ -22,7 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                  | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          730 |            53 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zweizimmer-wohnung-gegen%C3%BCber-der-volksoper-1646787119/)                                    | Dec 12, 17:09      |
-|          484 |            43 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/gemeindewohnung-mit-loggia---direktvergabe---1050-wien-%28margareteng%C3%BCrtel%29-1293518816/) | Dec 12, 15:35      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                     | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          630 |            74 |          4 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/gemeindewohnung-4-zimmer-wiener-wohn-ticket-30.11.2021-1112719706/) | Dec 13, 16:35      |
+|          730 |            53 |          2 | 09. Alsergrund           | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zweizimmer-wohnung-gegen%C3%BCber-der-volksoper-1646787119/)                       | Dec 12, 17:09      |
