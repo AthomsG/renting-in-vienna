@@ -22,9 +22,10 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                        | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       468.8  |            42 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/gemeindewohnung-1030---wohnticket-31.08.2025-836558621/)         | Dec 15, 00:18      |
-|       750    |            61 |          2 | 12. Meidling   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wg-taugliche-wohnung-1120-wien-1083195037/)                             | Dec 14, 18:08      |
-|       540    |            52 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung---nur-mit-g%C3%BCltigen-wiener-wohnticket-1030930240/) | Dec 14, 14:41      |
-|       680.66 |            38 |          2 | 06. Mariahilf  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1060-mariahilf/nachmieter-gesucht-wohnung-in-top-lage-zu-vergeben-1193590779/)        | Dec 14, 14:24      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                            | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       601.45 |            59 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/top-aussicht-auf-die-donau-/-gemeindewohnung-direktvergabe-1887462871/) | Dec 15, 08:06      |
+|       468.8  |            42 |          2 | 03. Landstraße   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/gemeindewohnung-1030---wohnticket-31.08.2025-836558621/)             | Dec 15, 00:18      |
+|       750    |            61 |          2 | 12. Meidling     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wg-taugliche-wohnung-1120-wien-1083195037/)                                 | Dec 14, 18:08      |
+|       540    |            52 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung---nur-mit-g%C3%BCltigen-wiener-wohnticket-1030930240/)     | Dec 14, 14:41      |
+|       680.66 |            38 |          2 | 06. Mariahilf    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1060-mariahilf/nachmieter-gesucht-wohnung-in-top-lage-zu-vergeben-1193590779/)            | Dec 14, 14:24      |
