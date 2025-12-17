@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+676971696,"Provisionsfreie, helle und ruhige 1 Zimmer Wohnung in unmittelbarer U-Bahn Nähe","Wien, 13. Bezirk, Hietzing",1130,695,1,30,Wien,Wien,0.79,2,Wohnung,2025-12-17T21:00:00Z,695.0,Hietzinger Kai
 1805936801,MARGARETEN: Voll ausgestattetes Single-Appartement in zentraler Lage mit gutem Grundriss,"Wien, 05. Bezirk, Margareten",1050,800,1,48,Wien,Wien,1.0,4,Wohnung,2025-12-17T20:39:00Z,800.0,Reinprechtsdorfer Straße
 1597521261,Gut aufgeteilte 4 Zimmer Wohnung beim Prater ( neue WU),"Wien, 02. Bezirk, Leopoldstadt",1020,1400,4,93,Wien,Wien,1.0,2,Wohnung,2025-12-17T20:31:00Z,1400.0,N/A
 1230846782,2-Zimmer-Wohnung mit Balkon - mit Blick auf Palais Schönburg,"Wien, 04. Bezirk, Wieden",1040,980.48,2,38,Wien,Wien,1.0,2,Wohnung,2025-12-17T19:35:00Z,980.48,N/A
@@ -198,7 +199,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1338630235,Direktvergabe Gemeindewohnung 35m2 Wohnticket bis 30.11.2025,"Wien, 12. Bezirk, Meidling",1120,359.12,1,35,Wien,Wien,1.0,2,Wohnung,2025-12-17T09:03:00Z,359.12,Wienerbergstraße 16-20/6
 2070877509,Moderne Garconnieren sowie 2 Zimmer Apartments in zentraler Lage in Altmannsdorf,"Wien, 12. Bezirk, Meidling",1120,731.5,2,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T08:56:00Z,731.5,Altmannsdorfer Straße 91
 845492757,Erstbezug in den DC Flats - Smarte 1 1/2-Zimmer-Wohnung - zu mieten in 1220 Wien,"Wien, 22. Bezirk, Donaustadt",1220,1140.01,1,46,Wien,Wien,N/A,13,Wohnung,2025-12-17T08:50:00Z,1140.01,N/A
-1683299082,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,890,2,46,Wien,Wien,N/A,6,Wohnung,2025-12-17T08:49:00Z,890.0,N/A
 1399843841,"Top-moderne, hofseitig-ruhige Gartenwohnung in super Lage","Wien, 06. Bezirk, Mariahilf",1060,1175,2,45,Wien,Wien,N/A,0,Wohnung,2025-12-17T08:38:00Z,1175.0,N/A
 2005281117,Mietwohnung Altbau,"Wien, 09. Bezirk, Alsergrund",1090,1580,4,114,Wien,Wien,1.0,1.OG,Wohnung,2025-12-17T08:32:00Z,1580.0,Währingerstrasse 63
 1393693829,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,990,2,46,Wien,Wien,N/A,9,Wohnung,2025-12-17T08:29:00Z,990.0,N/A
@@ -398,6 +398,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1198110380,"Blueground ID239, Landstraße","Wien, 03. Bezirk, Landstraße",1030,1665,2,51,Wien,Wien,1.0,7,Wohnung,2025-12-16T12:18:00Z,1665.0,Grasbergergasse 11
 821143770,Klassische Wiener Eleganz - Ihr neues Zuhause!,"Wien, 04. Bezirk, Wieden",1040,1399.5,3,61,Wien,Wien,1.0,N/A,Wohnung,2025-12-16T12:18:00Z,1399.5,Viktorgasse 16
 1433054141,"Urbanes Wohnen mit Rooftop Pool, Spa & Skylineblick - TOWER HOMES im V22","Wien, 22. Bezirk, Donaustadt",1220,899,1,39,Wien,Wien,1.0,40,Wohnung,2025-12-16T12:08:00Z,899.0,N/A
+1275655774,Wohnen mit Skyline-Flair - Rooftop Pool & Fitness bei der U1,"Wien, 22. Bezirk, Donaustadt",1220,1020,2,44,Wien,Wien,1.0,33,Wohnung,2025-12-16T12:08:00Z,1020.0,N/A
 1275655774,Wohnen mit Skyline-Flair - Rooftop Pool & Fitness bei der U1,"Wien, 22. Bezirk, Donaustadt",1220,1020,2,44,Wien,Wien,1.0,33,Wohnung,2025-12-16T12:08:00Z,1020.0,N/A
 1713543965,HOCHWERTIGE 2 - ZIMMER WOHNUNG MIT FREIFLÄCHE / NÄHE BADNER BAHN MARX-MEIDLINGER-STRASSE,"Wien, 12. Bezirk, Meidling",1120,1050,2,49,Wien,Wien,1.0,3,Wohnung,2025-12-16T11:59:00Z,1050.0,Koflergasse
 1555298307,Perfekte 2 Zimmer Neubauwohnung - zwischen Matzleinsdorfer Platz und Waldmüllerpark,"Wien, 10. Bezirk, Favoriten",1100,899.58,2,54,Wien,Wien,1.0,3,Wohnung,2025-12-16T11:59:00Z,899.58,N/A
