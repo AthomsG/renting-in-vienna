@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1190637318,"Sonnige, barrierefreie Wohnung Nahe dem Strebersdorfer Platz- Wohnen mit Stil, Blick ins Grüne","Wien, 21. Bezirk, Floridsdorf",1210,1186.56,2,43,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T04:17:00Z,1186.56,N/A
 1166040419,"Sonnige, barrierefreie Wohnung Nahe dem Strebersdorfer Platz- Wohnen mit Stil, Blick ins Grüne","Wien, 21. Bezirk, Floridsdorf",1210,1104.77,2,40,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T04:17:00Z,1104.77,N/A
 1710558320,5 room apartment with terrace and shared garden use,"Wien, 19. Bezirk, Döbling",1190,1900,5,122,Wien,Wien,1.0,2,Wohnung,2025-12-17T04:17:00Z,1900.0,Vegagasse
 1150791400,Stilvolle 4-Zimmer-Wohnung im Herzen Wiens,"Wien, 01. Bezirk, Innere Stadt",1010,2999.08,4,148,Wien,Wien,1.0,5,Wohnung,2025-12-17T04:11:00Z,2999.08,N/A
@@ -9,7 +10,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1139219178,BALKONWOHNUNG mit Erdwärme - 2 Zimmer mit optimaler Raumaufteilung,"Wien, 21. Bezirk, Floridsdorf",1210,914.31,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T03:30:00Z,914.31,N/A
 1400439855,GARTENWOHNUNG mit 2-Zimmer-Wohnung und Erdwärme,"Wien, 21. Bezirk, Floridsdorf",1210,916.23,2,42,Wien,Wien,1.0,0,Wohnung,2025-12-17T03:28:00Z,916.23,N/A
 1759381835,2-Zimmer-Mietwohnung in Floridsdorf - Hauptbahnhof,"Wien, 21. Bezirk, Floridsdorf",1210,860,2,52,Wien,Wien,N/A,2,Wohnung,2025-12-17T01:55:00Z,860.0,N/A
-1852032155,"Gepflegte 2-Zimmer-Wohnung, 36 m² - voll möbliert - 10. Bezirk","Wien, 10. Bezirk, Favoriten",1100,700,2,36,Wien,Wien,N/A,2,Wohnung,2025-12-16T22:01:00Z,700.0,N/A
 770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,1259.58,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-16T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1091216818,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1349,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-15T04:38:00Z,N/A,N/A
 1383376447,"Miete: Inzersdorfer Straße 121, 1100 Wien","Wien, 10. Bezirk, Favoriten",1100,1066.84,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T15:34:00Z,N/A,N/A
@@ -22,6 +22,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1255821409,VIENNA TWENTYTWO - TOWERHOMES,"Wien, 22. Bezirk, Donaustadt",1220,734.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T10:42:00Z,N/A,Dr.-Adolf-Schärf-Platz 10
 788510437,Ihr Zuhause im Grünen: All-inclusive Miete in der Tokiostraße 12 am Kirschblütenpark!,"Wien, 22. Bezirk, Donaustadt",1220,720.79,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T09:25:00Z,N/A,Tokiostraße 12
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,895,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T09:18:00Z,N/A,N/A
+860522938,"Helle Garçonniere in ruhiger Lage nahe Türkenschanzpark - 1180 Wien Zur Vermietung gelangt eine unmöblierte Garçonniere im 18. Bezirk (Währing), in unmittelbarer Nähe zum Türkenschanzpark.","Wien, 18. Bezirk, Währing",1180,1149.63,1,38,Wien,Wien,0.79,2,Wohnung,2025-12-18T22:02:00Z,1149.63,Severin-Scheiber-Gasse
 1320963767,Ruhige 3-Zimmer-Wohnung mit perfektem Grundriss und Innenhofausrichtung,"Wien, 02. Bezirk, Leopoldstadt",1020,1829.87,3,99,Wien,Wien,1.0,2,Wohnung,2025-12-18T21:46:00Z,1829.87,N/A
 1582943503,Charmante 1 Zimmer Altbauwohnung in 1150 Wien - unbefristet & sofort beziehbar!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,439.05,1,37,Wien,Wien,1.0,1,Wohnung,2025-12-18T21:39:00Z,439.05,Sechshauserstraße
 1781055862,Nähe Schönbrunn! Helle 3-Zimmer-Wohnung bei Hietzinger Hauptstraße,"Wien, 13. Bezirk, Hietzing",1130,1348.95,3,70,Wien,Wien,1.0,2,Wohnung,2025-12-18T21:38:00Z,1348.95,N/A
@@ -421,4 +422,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1962789117,ab März 2026 - Wunderschöne 4 Zimmer Wohnung am Rennweg - ideal für Familien oder als WG-Wohnung,"Wien, 03. Bezirk, Landstraße",1030,1899,4,80,Wien,Wien,0.79,2,Wohnung,2025-12-17T05:27:00Z,1899.0,Rennweg
 1813839146,| SONNIGE NEUBAUWOHNUNG IM 4.STOCK | ERSTBEZUG NACH SANIERUNG | AB SOFORT,"Wien, 06. Bezirk, Mariahilf",1060,1199,2,47,Wien,Wien,1.0,4,Wohnung,2025-12-17T04:19:00Z,1199.0,N/A
 1802822482,Helle 2-Zimmer Wohnung mit Weitblick - unmittelbar am grünen Prater,"Wien, 02. Bezirk, Leopoldstadt",1020,1498.74,0,52,Wien,Wien,1.0,5,Wohnung,2025-12-17T04:17:00Z,1498.74,N/A
-1190637318,"Sonnige, barrierefreie Wohnung Nahe dem Strebersdorfer Platz- Wohnen mit Stil, Blick ins Grüne","Wien, 21. Bezirk, Floridsdorf",1210,1186.56,2,43,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T04:17:00Z,1186.56,N/A
