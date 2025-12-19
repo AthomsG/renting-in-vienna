@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1943751964,Helle Familienwohnung - Erstbezug mit Balkon & Klimaanlage,"Wien, 14. Bezirk, Penzing",1140,1799,3,79,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T11:37:00Z,1799.0,Breitenseer Straße
+1728596840,"Moderne 3-Zimmerwohnung im Erstbezug mit hellem, ruhigem Balkon","Wien, 14. Bezirk, Penzing",1140,1539,3,66,Wien,Wien,1.0,4,Wohnung,2025-12-17T11:37:00Z,1539.0,Breitenseer Straße
 907983497,ERSTBEZUG | VIENNA TWENTYTWO | MODERNE 2-ZIMMER-WOHNUNG MIT BALKON | MIETSTART APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,1039.98,2,42,Wien,Wien,1.0,25,Wohnung,2025-12-17T11:36:00Z,1039.98,Dr.-Adolf-Schärf-Platz 10
 1057697910,Gumpendorfer Straße: 2-Zimmer-Wohnung,"Wien, 06. Bezirk, Mariahilf",1060,987.1,2,47,Wien,Wien,1.0,1,Wohnung,2025-12-17T11:35:00Z,987.1,Gumpendorfer Straße
 1941353428,"1,5 ZIMMER | BALKON | VIENNA TWENTYTWO | ERSTBEZUG IN DER NEUEN DONAUSTAT | MIETBEGINN AB 1. APRIL","Wien, 22. Bezirk, Donaustadt",1220,929.99,1,38,Wien,Wien,1.0,23,Wohnung,2025-12-17T11:30:00Z,929.99,Dr.-Adolf-Schärf-Platz 10
@@ -49,8 +51,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1635681016,Besser gehts nicht_Klima_Lift_Möbliert_Garage_Warm,"Wien, 12. Bezirk, Meidling",1120,1375,3,72,Wien,Wien,N/A,N/A,Wohnung,2025-12-17T08:08:00Z,1375.0,N/A
 1251212644,"Traumlage vis-à-vis UNO-City im Business District | Wohnung mit Loggia - alles neu: Bad, Küche, Böden!","Wien, 22. Bezirk, Donaustadt",1220,1384,2,64,Wien,Wien,1.0,9,Wohnung,2025-12-17T08:03:00Z,1384.0,Leonard Bernsteinstraße 4-6
 1488489882,"Erstbezug 5.Liftstock, Helle 2-Zimmer-Wohnung, 3 Min zum Schwedenplatz (U1, U4), unbefristet","Wien, 01. Bezirk, Innere Stadt",1010,1241.24,2,49,Wien,Wien,1.0,5,Wohnung,2025-12-17T07:55:00Z,1241.24,N/A
-1004302846,eine 2. stöckige Wohnung mit einem Garage Parkplatz,"Wien, 02. Bezirk, Leopoldstadt",1020,1550,3,70,Wien,Wien,N/A,1,Wohnung,2025-12-17T06:44:00Z,1550.0,N/A
-1864218627,"Pauschalmiete inklusive Warmwasser, Heizung & Kühlung - Moderne 2-Zimmer-Wohnung mit großzügigem Balkon und stilvoller Ausstattung","Wien, 21. Bezirk, Floridsdorf",1210,899,2,40,Wien,Wien,1.0,4,Wohnung,2025-12-17T06:35:00Z,899.0,N/A
 1091216818,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1349,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-15T04:38:00Z,N/A,N/A
 1383376447,"Miete: Inzersdorfer Straße 121, 1100 Wien","Wien, 10. Bezirk, Favoriten",1100,1066.84,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T15:34:00Z,N/A,N/A
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,825.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T14:24:00Z,N/A,Prager Straße 105 109
@@ -62,6 +62,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1255821409,VIENNA TWENTYTWO - TOWERHOMES,"Wien, 22. Bezirk, Donaustadt",1220,734.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T10:42:00Z,N/A,Dr.-Adolf-Schärf-Platz 10
 788510437,Ihr Zuhause im Grünen: All-inclusive Miete in der Tokiostraße 12 am Kirschblütenpark!,"Wien, 22. Bezirk, Donaustadt",1220,720.79,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T09:25:00Z,N/A,Tokiostraße 12
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,895,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-12T09:18:00Z,N/A,N/A
+2123676368,Helle 3-Zimmer-Wohnung mit Lift im Herzen der Innenstadt,"Wien, 01. Bezirk, Innere Stadt",1010,2329.07,3,93,Wien,Wien,1.0,4,Wohnung,2025-12-19T06:24:00Z,2329.07,N/A
+1654624757,"9., Nähe Gymnasium Wasagasse Einmalige Gelegenheit- Wohnen im wunderschönen Biedermeier Ambiente- jetzt Mieten und in 12 Jahren Kaufen","Wien, 09. Bezirk, Alsergrund",1090,2600,6,140,Wien,Wien,1.0,N/A,Wohnung,2025-12-19T06:24:00Z,2600.0,N/A
 1671301714,"Jetzt Erstbezug sichern: 3-Zimmer-DG mit Kühlung, zwei Dachterrassen & 2 Monate mietfrei","Wien, 22. Bezirk, Donaustadt",1220,1499,3,73,Wien,Wien,N/A,N/A,Wohnung,2025-12-19T06:17:00Z,1499.0,N/A
 906251477,GARTENWOHNUNG IN IDYLLISCHER UMGEBUNG INKL. HEIZUNG & WARMWASSER!,"Wien, 16. Bezirk, Ottakring",1160,1460.65,0,78,Wien,Wien,N/A,0,Wohnung,2025-12-19T06:15:00Z,1460.65,N/A
 1088828355,"Traumblick über Wien, Belview Tower mit Gym, Wellness & Lounge, 2 Zimmer + Balkon, 16. Stock, U-Bahn","Wien, 10. Bezirk, Favoriten",1100,1555,2,44,Wien,Wien,1.0,19,Wohnung,2025-12-19T05:39:00Z,1555.0,Karl-Popper-Straße 5
@@ -460,5 +462,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1655683748,STADTNAH & MODERN | VIENNA TWENTYTWO | ERSTBEZUG MIT BALKON | 2 ZIMMER | AB APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,1244.99,2,49,Wien,Wien,1.0,39,Wohnung,2025-12-17T11:41:00Z,1244.99,Dr.-Adolf-Schärf-Platz 10
 1641828922,BALKON | 3 ZIMMER | ERSTBEZUG | MIETBEGINN AB 1. APRIL 2026 | VIENNA TWENTYTWO,"Wien, 22. Bezirk, Donaustadt",1220,2254.99,3,83,Wien,Wien,1.0,39,Wohnung,2025-12-17T11:39:00Z,2254.99,Dr.-Adolf-Schärf-Platz 10
 2016052718,STADTNAH & MODERN | VIENNA TWENTYTWO | ERSTBEZUG MIT BALKON | 2 ZIMMER | AB APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,1249,2,49,Wien,Wien,1.0,40,Wohnung,2025-12-17T11:38:00Z,1249.0,Dr.-Adolf-Schärf-Platz 10
-1943751964,Helle Familienwohnung - Erstbezug mit Balkon & Klimaanlage,"Wien, 14. Bezirk, Penzing",1140,1799,3,79,Wien,Wien,1.0,N/A,Wohnung,2025-12-17T11:37:00Z,1799.0,Breitenseer Straße
-1728596840,"Moderne 3-Zimmerwohnung im Erstbezug mit hellem, ruhigem Balkon","Wien, 14. Bezirk, Penzing",1140,1539,3,66,Wien,Wien,1.0,4,Wohnung,2025-12-17T11:37:00Z,1539.0,Breitenseer Straße
