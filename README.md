@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                    | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       529.01 |            43 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/wundersch%C3%B6ner-altbau-am-dornerplatz-843272886/) | Dec 20, 12:54      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                               | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          660 |            72 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/wohnung-2-zimmer-1670702904/) | Dec 21, 14:22      |
