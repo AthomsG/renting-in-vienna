@@ -1,8 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1368219819,Moderne Etagenwohnung mit Terrasse und Stellplatz in 1140 Wien,"Wien, 14. Bezirk, Penzing",1140,1630.2,2,77,Wien,Wien,1.0,N/A,Wohnung,2025-12-22T16:36:00Z,1630.2,N/A
-1496185127,Wünderschöne renovierte Altbauwohnung nahe der Karlskirche,"Wien, 04. Bezirk, Wieden",1040,2300,3,121,Wien,Wien,N/A,N/A,Wohnung,2025-12-22T16:35:00Z,2300.0,N/A
-2100314623,"Blueground ID501, Alsergrund","Wien, 09. Bezirk, Alsergrund",1090,2195,4,131,Wien,Wien,1.0,7,Wohnung,2025-12-22T16:32:00Z,2195.0,Sensengasse 5
-1176775219,"Blueground ID469, Innere Stadt","Wien, 01. Bezirk, Innere Stadt",1010,1675,2,66,Wien,Wien,1.0,6,Wohnung,2025-12-22T16:31:00Z,1675.0,Elisabethstraße 6
 696091923,Hochwertiger Neubau mit Gemeinschaftspool in 1130 Wien,"Wien, 13. Bezirk, Hietzing",1130,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-22T11:48:00Z,N/A,N/A
 1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-22T11:29:00Z,N/A,N/A
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City ERSTBEZUG,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-12-22T10:53:00Z,N/A,N/A
@@ -20,6 +16,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 788510437,Ihr Zuhause im Grünen: All-inclusive Miete in der Tokiostraße 12 am Kirschblütenpark!,"Wien, 22. Bezirk, Donaustadt",1220,720.79,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-19T09:25:00Z,N/A,Tokiostraße 12
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,895,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-19T09:18:00Z,N/A,N/A
 1746079294,| KAGRANER PLATZ | NEUBAU | AUSGEZEICHNETE LAGE |,"Wien, 22. Bezirk, Donaustadt",1220,1002.7,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-19T04:35:00Z,N/A,Kagraner Platz
+1664052790,Rarität - Wohnen am Wasser: 2-Zimmer-Wohnung direkt an der Alten Donau - ab 15.12.,"Wien, 22. Bezirk, Donaustadt",1220,998,2,48,Wien,Wien,1.0,3,Wohnung,2025-12-24T16:36:00Z,998.0,Wagramer Straße 50
+831766387,360 TOUR //DACHGESCHOSSWOHNUNG NAHE JÖRGERBAD,"Wien, 17. Bezirk, Hernals",1170,1799.05,3,85,Wien,Wien,1.0,N/A,Wohnung,2025-12-24T16:36:00Z,1799.05,N/A
+1615024293,Möblierte Balkonwohnung mit 2 Zimmern - in den TrIIIple Towers,"Wien, 03. Bezirk, Landstraße",1030,1200.1,2,47,Wien,Wien,1.0,2,Wohnung,2025-12-24T16:35:00Z,1200.1,Schnirchgasse 11
+796817113,Exklusives 3-Zimmer-Apartment mit großzügiger Terrasse in Sievering,"Wien, 19. Bezirk, Döbling",1190,1723.43,3,72,Wien,Wien,N/A,N/A,Wohnung,2025-12-24T16:31:00Z,1723.43,N/A
 1010645237,"++Provisionsfrei++ BESTLAGE des 09. Bezirks, Schöne 2-Zimmer Neubauwohnung! AB FEBRUAR 26!","Wien, 09. Bezirk, Alsergrund",1090,1099,2,48,Wien,Wien,1.0,3,Wohnung,2025-12-24T16:27:00Z,1099.0,Mariannengasse
 1397658368,Moderne Stadtwohnung! Top Lage nähe Hauptbahnhof!,"Wien, 10. Bezirk, Favoriten",1100,1099,0,55,Wien,Wien,1.0,6,Wohnung,2025-12-24T16:25:00Z,1099.0,N/A
 1096696295,2 ZIMMER und Tiefgaragenstellplatz - WOHNUNG MIT TERRASSE IN OBERLAA!,"Wien, 10. Bezirk, Favoriten",1100,1148.99,2,52,Wien,Wien,1.0,1,Wohnung,2025-12-24T16:17:00Z,1148.99,Oberlaaer Straße 206
@@ -616,7 +616,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1550099443,Stilvolle 146 m² Altbauwohnung mit 4 Zimmer + Wohnküche - Fischgrätparkett & Balkon in Bestlage,"Wien, 04. Bezirk, Wieden",1040,3269.79,4,146,Wien,Wien,1.0,1,Wohnung,2025-12-22T16:56:00Z,3269.79,N/A
 1565472848,* WG geeignet * perfekte Starter / Paarwohnung * 2 Zimmer * saniert *,"Wien, 12. Bezirk, Meidling",1120,1071.76,2,66,Wien,Wien,1.0,3,Wohnung,2025-12-22T16:56:00Z,1071.76,Karl-Löwe-Gasse
 1061592292,Moderne 3-Zimmer-Wohnung mit neuer Küche am Modenapark - zu mieten in 1030 Wien,"Wien, 03. Bezirk, Landstraße",1030,1995,3,117,Wien,Wien,N/A,3,Wohnung,2025-12-22T16:49:00Z,1995.0,N/A
-1123828281,"2 Zimmer Zweitbezugswohnung mit sonniger Loggia in wunderschönem Neubauprojekt ""Schön102"" nahe U4 - ab Jänner 2026","Wien, 05. Bezirk, Margareten",1050,1435,2,53,Wien,Wien,1.0,5,Wohnung,2025-12-22T16:46:00Z,1435.0,Schönbrunner Straße
-2017904822,Wie GEILO - Beinahe Erstbezug - Dachgeschosswohnung mit zwei Dachterrassen und Gartenparzelle in Hietzing -Ost-Süd-Westausrichtung,"Wien, 13. Bezirk, Hietzing",1130,2576.48,3,100,Wien,Wien,1.0,2,Wohnung,2025-12-22T16:46:00Z,2576.48,N/A
-931668042,"Blueground ID480, Neubau","Wien, 07. Bezirk, Neubau",1070,1105,2,46,Wien,Wien,1.0,4,Wohnung,2025-12-22T16:43:00Z,1105.0,Gardegasse 9
-2023553079,"Blueground ID90, Donaustadt","Wien, 22. Bezirk, Donaustadt",1220,2135,3,67,Wien,Wien,1.0,6,Wohnung,2025-12-22T16:38:00Z,2135.0,Nippongasse 8
