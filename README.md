@@ -22,9 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       799.18 |            58 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/gef%C3%B6rdert-sanierte-wohnung-mit-balkon-1458768659/)                                        | Dec 30, 12:12      |
-|       490    |            44 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeinde-wohnung-direktvergabe-1120832363/)                                                    | Dec 30, 10:26      |
-|       710    |            37 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/ruhige-wohnung-n%C3%A4he-antonsplatz-2023250187/)                                              | Dec 29, 18:19      |
-|       480    |            44 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/direktvergabe-gemeindewohnung---wiener-wohn-ticket-ben%C3%B6tigt-%2816.-bezirk%29-1236536381/) | Dec 29, 16:37      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                         | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       799.18 |            58 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/gef%C3%B6rdert-sanierte-wohnung-mit-balkon-1458768659/) | Dec 30, 12:12      |
+|       490    |            44 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeinde-wohnung-direktvergabe-1120832363/)             | Dec 30, 10:26      |
+|       710    |            37 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/ruhige-wohnung-n%C3%A4he-antonsplatz-2023250187/)       | Dec 29, 18:19      |
