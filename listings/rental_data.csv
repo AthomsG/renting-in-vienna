@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2131944317,Weitergabe einer Gemeindewohnung,"Wien, 20. Bezirk, Brigittenau",1200,360,0,32,Wien,Wien,N/A,N/A,Wohnung,2025-12-29T09:12:00Z,360.0,N/A
 1018125310,Traumhafte 3-Zimmer Gartenwohnung in 1210 nahe der Donauinsel!,"Wien, 21. Bezirk, Floridsdorf",1210,1482.91,3,74,Wien,Wien,1.0,0,Wohnung,2025-12-29T09:10:00Z,1482.91,Kantnergasse
 933687670,Universitätsstraße: Votivpark-Nähe : Makellose Eleganz - Niveauvolles Wohnen,"Wien, 09. Bezirk, Alsergrund",1090,3576.8,0,156,Wien,Wien,1.0,N/A,Wohnung,2025-12-29T09:07:00Z,3576.8,N/A
 1554575410,ERSTBEZUG | VIENNA TWENTYTWO | MODERNE 2-ZIMMER-WOHNUNG MIT BALKON | MIETSTART APRIL 2026,"Wien, 22. Bezirk, Donaustadt",1220,1124.98,2,42,Wien,Wien,1.0,33,Wohnung,2025-12-29T08:56:00Z,1124.98,Dr.-Adolf-Schärf-Platz 10
@@ -44,7 +45,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1925600091,**Hofruhelage** Modern und zentral wohnen,"Wien, 02. Bezirk, Leopoldstadt",1020,1295,2,56,Wien,Wien,1.0,5,Wohnung,2025-12-29T03:21:00Z,1295.0,Franzensbrückenstraße
 1011001945,"Girardigasse 1, 2BD, Washing Machine, Elevator","Wien, 06. Bezirk, Mariahilf",1060,2408,3,86,Wien,Wien,1.0,3,Wohnung,2025-12-29T02:33:00Z,2408.0,Girardigasse 1
 1809478046,TOP-Neubau - 4-Zimmer-Wohnung mit riesiger Terrasse in Stammersdorf,"Wien, 21. Bezirk, Floridsdorf",1210,2490,4,164,Wien,Wien,N/A,1,Wohnung,2025-12-29T00:59:00Z,2490.0,N/A
-1842884490,Wohnung Miete Donaufelderstrasse 164/ Apartment Rent im,"Wien, 22. Bezirk, Donaustadt",1220,1399,3,69,Wien,Wien,1.0,3,Wohnung,2025-12-28T23:50:00Z,1399.0,Donaufelderstrasse 164
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1650,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-28T03:28:00Z,N/A,Apollogasse
 898745022,KAY - WOHNEN IN DONAUNÄHE - HERVORRAGENDE INFRASTRUKTUR! - JETZT ZUSCHLAGEN,"Wien, 20. Bezirk, Brigittenau",1200,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-27T13:33:00Z,N/A,Engerthstraße 61-63
 1096879593,"Mollardgasse 50, 1060 Wien - 54 exklusive Mietwohnungen - STILVOLLES WOHNEN IM HERZEN VON WIEN","Wien, 06. Bezirk, Mariahilf",1060,1375,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-26T21:48:00Z,N/A,Mollardgasse 50
@@ -68,6 +68,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 774004814,"Wohnen im Herzen von Simmering - Dittmanngasse 4, 1110 Wien. - WOHNTRAUM","Wien, 11. Bezirk, Simmering",1110,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-26T06:54:00Z,N/A,Dittmanngasse 4
 1028888358,MODERNES WOHNEN IN ST. GOTTHARD,"Wien, 14. Bezirk, Penzing",1140,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-24T13:24:00Z,N/A,N/A
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-19T03:31:00Z,N/A,Zwerngasse 49
+821953244,Großzügige 170m2-Wohnung mit Loggia in Ruhelage Nähe 1. Bezirk/ Urania - zweigeschoßig auch getrennt begehbar,"Wien, 03. Bezirk, Landstraße",1030,2350,5,170,Wien,Wien,0.79,2,Wohnung,2025-12-30T23:49:00Z,2350.0,Nähe Pfefferhofgasse
 2075552415,Ruhige 3-Zimmer-Wohnung in Sackgasse | 69 m² | 1120 Wien,"Wien, 12. Bezirk, Meidling",1120,1150,3,69,Wien,Wien,1.0,2,Wohnung,2025-12-30T23:30:00Z,1150.0,Biedermanngasse 11
 1362841723,Helle 1 Zimmer-Wohnung |4. OG mit Lift | in ruhiger Hoflage,"Wien, 06. Bezirk, Mariahilf",1060,898.48,1,32,Wien,Wien,1.0,4,Wohnung,2025-12-30T23:16:00Z,898.48,Gumpendorfer Straße 83-85
 1184591215,Gemeindewohnung Direktvergabe bis 31.08.2024,"Wien, 03. Bezirk, Landstraße",1030,737.06,3,71,Wien,Wien,N/A,2,Wohnung,2025-12-30T22:51:00Z,737.06,N/A
@@ -667,4 +668,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1117466809,"120 Meter zur U1 Oberlaa- Sonnige, barrierefreie südseitige Wohnung- inkl. Küche","Wien, 10. Bezirk, Favoriten",1100,999,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-12-29T09:17:00Z,999.0,N/A
 2004816889,Wohnen nahe Kagraner Platz - U1 - großzügige 2-Zimmer inkl. Balkon,"Wien, 22. Bezirk, Donaustadt",1220,949.01,2,54,Wien,Wien,1.0,2,Wohnung,2025-12-29T09:16:00Z,949.01,Donaufelder Straße 238
 1362471337,"Whg mit 2 getrennt begehbaren Zimmern, 51qm, 5min vom Reumannplatz/ U1","Wien, 10. Bezirk, Favoriten",1100,730,2,51,Wien,Wien,1.0,4,Wohnung,2025-12-29T09:16:00Z,730.0,Puchsbaumgasse 35
-2131944317,Weitergabe einer Gemeindewohnung,"Wien, 20. Bezirk, Brigittenau",1200,360,0,32,Wien,Wien,N/A,N/A,Wohnung,2025-12-29T09:12:00Z,360.0,N/A
