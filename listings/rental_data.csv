@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1078207626,"Charmante 2-Zimmer-Wohnung in bester Lage - vollmöbliert, bis zu 1 Jahr // Charming 2-Room Apartment in Prime Location - Fully Furnished, max. 1 Year","Wien, 09. Bezirk, Alsergrund",1090,1370,2,47,Wien,Wien,0.79,N/A,Wohnung,2025-12-30T10:30:00Z,1370.0,Wasagasse
 1120832363,Gemeinde Wohnung Direktvergabe,"Wien, 10. Bezirk, Favoriten",1100,490,2,44,Wien,Wien,1.0,1,Wohnung,2025-12-30T10:26:00Z,490.0,Friesenplatz 1-2
 1100205407,2-Zimmer // NEUBAU - JETZT bezugsfertig!,"Wien, 22. Bezirk, Donaustadt",1220,1258.47,2,59,Wien,Wien,1.0,2,Wohnung,2025-12-30T10:25:00Z,1258.47,Am Freihof 1 / Wagramer Straße 146
 1047581658,"1,5 ZIMMER | BALKON | VIENNA TWENTYTWO | ERSTBEZUG IN DER NEUEN DONAUSTAT | MIETBEGINN AB 1. APRIL","Wien, 22. Bezirk, Donaustadt",1220,1049,1,38,Wien,Wien,1.0,36,Wohnung,2025-12-30T10:22:00Z,1049.0,Dr.-Adolf-Schärf-Platz 10
@@ -72,7 +73,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2121472453,"Sonnwendviertel: 1-Zimmer-Wohnung mit Balkon im 11. OG - Fitnessraum, Co-Working & Rooftop-Terrasse inklusive!","Wien, 10. Bezirk, Favoriten",1100,990,1,45,Wien,Wien,1.0,11,Wohnung,2025-12-29T21:35:00Z,990.0,N/A
 1591440827,"Privat und Ablösefrei: 2 Zi, voll möbliert, Balkon, Hofruhelage","Wien, 10. Bezirk, Favoriten",1100,899,2,52,Wien,Wien,1.0,5,Wohnung,2025-12-29T21:28:00Z,899.0,Herzgasse 102
 1033922518,Einzigartige Altbauwohnung mit Traumblick auf den Justizpalast,"Wien, 01. Bezirk, Innere Stadt",1010,5899.78,3,172,Wien,Wien,1.0,3,Wohnung,2025-12-29T21:28:00Z,5899.78,Schmerlingplatz 3
-2144430357,SINGLE - CITY - WOHLFÜHLPARADIES,"Wien, 07. Bezirk, Neubau",1070,810,1,30,Wien,Wien,0.79,2,Wohnung,2025-12-29T21:10:00Z,810.0,Zollergasse
 1461617542,WOHNEN UND GENIESSEN IM SÜDWESTEN VON WIEN! PERFEKTE INFRASTRUKTUR - NÄHE SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-29T11:29:00Z,N/A,N/A
 1091216818,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,1349,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-29T04:38:00Z,N/A,N/A
 1703515712,POHL26 - WOHNEN IN BESTLAGE NAHE SCHLOSSPARK SCHÖNBRUNN - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,875,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-26T18:54:00Z,N/A,Pohlgasse 26
@@ -89,6 +89,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,895,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-26T09:18:00Z,N/A,N/A
 1028888358,MODERNES WOHNEN IN ST. GOTTHARD,"Wien, 14. Bezirk, Penzing",1140,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-24T13:24:00Z,N/A,N/A
 714778193,NEU: ruhiges und grünes Wohnen am Schafberg,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-19T03:31:00Z,N/A,Zwerngasse 49
+904536344,Voll möblierte 2-Zimmer-Wohnung im Kennedy Garden | Fitness,"Wien, 14. Bezirk, Penzing",1140,1305,2,53,Wien,Wien,1.0,N/A,Wohnung,2025-12-30T18:28:00Z,1305.0,Penzinger Straße 76
 1875422331,RARITÄT I Wohnen im Majolikahaus von Otto Wagner,"Wien, 06. Bezirk, Mariahilf",1060,3477.34,5,155,Wien,Wien,1.0,4,Wohnung,2025-12-30T18:21:00Z,3477.34,Linke Wienzeile 40
 852395543,Praternähe: moderne 2-Zimmer-Terrassenwohnung - befristet,"Wien, 02. Bezirk, Leopoldstadt",1020,1195,2,50,Wien,Wien,1.0,8,Wohnung,2025-12-30T18:17:00Z,1195.0,Prater
 1768723812,"UHLANDGASSE, U1-Nähe, 64 m2 Neubau mit 3 m2 Balkon, 2 Zimmer, 2er-WG-geeignet, Wohnküche, Duschbad, 3. Liftstock","Wien, 10. Bezirk, Favoriten",1100,995,2,64,Wien,Wien,1.0,3,Wohnung,2025-12-30T18:07:00Z,995.0,Uhlandgasse
@@ -288,7 +289,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 883816682,Erstbezug - 3-Zi.-Wohnung mit Rooftop Pool & Sauna,"Wien, 22. Bezirk, Donaustadt",1220,3390,3,113,Wien,Wien,1.0,42,Wohnung,2025-12-30T10:45:00Z,3390.0,N/A
 2097691078,2-Zimmer-Wohnung mit Loggia & Tiefgarage - Garagenplatz im Mietpreis inkludiert,"Wien, 11. Bezirk, Simmering",1110,981,2,58,Wien,Wien,1.0,3.OG,Wohnung,2025-12-30T10:45:00Z,981.0,Rosa-Jochmann-Ring 2/9
 810081373,"Moderne 2,5-Zimmer-Wohnung // WG-tauglich","Wien, 10. Bezirk, Favoriten",1100,1249.69,2,65,Wien,Wien,1.0,4,Wohnung,2025-12-30T10:35:00Z,1249.69,N/A
-1078207626,"Charmante 2-Zimmer-Wohnung in bester Lage - vollmöbliert, bis zu 1 Jahr // Charming 2-Room Apartment in Prime Location - Fully Furnished, max. 1 Year","Wien, 09. Bezirk, Alsergrund",1090,1370,2,47,Wien,Wien,0.79,N/A,Wohnung,2025-12-30T10:30:00Z,1370.0,Wasagasse
+676971696,"Provisionsfreie, helle und ruhige 1 Zimmer Wohnung in unmittelbarer U-Bahn Nähe","Wien, 13. Bezirk, Hietzing",1130,695,1,30,Wien,Wien,0.79,2,Wohnung,2025-12-31T21:00:00Z,695.0,Hietzinger Kai
 1805936801,MARGARETEN: Voll ausgestattetes Single-Appartement in zentraler Lage mit gutem Grundriss,"Wien, 05. Bezirk, Margareten",1050,800,1,48,Wien,Wien,1.0,4,Wohnung,2025-12-31T20:39:00Z,800.0,Reinprechtsdorfer Straße
 1340770591,2 ZIMMER WOHNUNG MIT FREIFLÄCHE NÄHE AUMANNPLATZ,"Wien, 18. Bezirk, Währing",1180,749.75,2,42,Wien,Wien,1.0,N/A,Wohnung,2025-12-31T20:34:00Z,749.75,N/A
 776231879,"Lichtdurchflutete Wohnung in der Nähe des Margaretenplatzes, U4","Wien, 05. Bezirk, Margareten",1050,1185,2,48,Wien,Wien,1.0,4,Wohnung,2025-12-31T19:34:00Z,1185.0,N/A
@@ -488,4 +489,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1760098798,"Blueground ID479, Neubau","Wien, 07. Bezirk, Neubau",1070,1445,2,66,Wien,Wien,1.0,4,Wohnung,2025-12-30T18:36:00Z,1445.0,Gardegasse 9
 1584313704,ruhig und zentral,"Wien, 12. Bezirk, Meidling",1120,1100,2,67,Wien,Wien,N/A,4,Wohnung,2025-12-30T18:34:00Z,1100.0,N/A
 1424255844,Attraktive 2-Zimmer Wohnung nahe Wielandpark in 1100 Wien zu mieten,"Wien, 10. Bezirk, Favoriten",1100,848.03,2,50,Wien,Wien,N/A,6,Wohnung,2025-12-30T18:28:00Z,848.03,N/A
-904536344,Voll möblierte 2-Zimmer-Wohnung im Kennedy Garden | Fitness,"Wien, 14. Bezirk, Penzing",1140,1305,2,53,Wien,Wien,1.0,N/A,Wohnung,2025-12-30T18:28:00Z,1305.0,Penzinger Straße 76
