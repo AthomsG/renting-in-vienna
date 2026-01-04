@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                              | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          650 |            56 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/g%C3%BCnstige-mietwohnung-in-ubahn-n%C3%A4he-tlw.-m%C3%B6bliert-2146682858/) | Jan 03, 10:04      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                                                   | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       582.32 |            52 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe---wiener-wohnen-%7C-52-m%C2%B2-%7C-2-zimmer-%7C-balkon-%7C-viel-sonne-&-gr%C3%BCn-%7C-wiener-wohnticket-bis-31.10.2025-1003571743/) | Jan 04, 15:40      |
