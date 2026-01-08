@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1775910085,Ruhige möblierte 4-Zi Stadtwohnung nahe Augarten - Kurzzeitmiete (Feb-Mär),"Wien, 20. Bezirk, Brigittenau",1200,1490,4,90,Wien,Wien,N/A,N/A,Wohnung,2026-01-07T09:38:00Z,1490.0,N/A
 894934768,"PROVISIONSFREI 2 Zimmer Whg mit Hoflage, Ruhelage, Zentrumnahe","Wien, 05. Bezirk, Margareten",1050,880,2,43,Wien,Wien,N/A,2,Wohnung,2026-01-07T09:35:00Z,880.0,N/A
 1223844658,(reserviert) 2-Zimmer Altbau Wohnung,"Wien, 20. Bezirk, Brigittenau",1200,798,2,52,Wien,Wien,0.79,2,Wohnung,2026-01-07T09:32:00Z,798.0,Treustraße
 1840495317,EXKLUSIVES WOHNEN MIT GARTEN NEUWERTIGE 4 ZIMMER-WOHNUNG IN BESTER DÖBLINGER LAGE - 1190 OBERSIEVERING,"Wien, 19. Bezirk, Döbling",1190,2599,4,120,Wien,Wien,1.0,0,Wohnung,2026-01-07T09:28:00Z,2599.0,N/A
@@ -87,7 +88,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2075552415,Ruhige 3-Zimmer-Wohnung in Sackgasse | 69 m² | 1120 Wien,"Wien, 12. Bezirk, Meidling",1120,1150,3,69,Wien,Wien,1.0,2,Wohnung,2026-01-06T23:30:00Z,1150.0,Biedermanngasse 11
 1736050436,Argentinierstraße 42 elegante 5-Zimmerwohnung Erstbezug nach Sanierung zu vermieten,"Wien, 04. Bezirk, Wieden",1040,2535,5,131,Wien,Wien,1.0,1,Wohnung,2026-01-06T23:19:00Z,2535.0,Argentinierstraße 42
 1274715328,"2-Zimmer-Wohnung, 39 m2, ruhig, grün, Döbling Hofzeile, Garten","Wien, 19. Bezirk, Döbling",1190,840,2,39,Wien,Wien,0.79,N/A,Wohnung,2026-01-06T23:04:00Z,840.0,Hofzeile
-1786266308,"FRISCH SANIERT- renovierte Wohnung in Top-Zustand, modernes Wohnen, sonnig mit Ruhe und Grünblick","Wien, 20. Bezirk, Brigittenau",1200,919,2,51,Wien,Wien,N/A,3,Wohnung,2026-01-06T22:28:00Z,919.0,N/A
 770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,1259.58,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-06T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1180025187,"Doktor-Adolf-Schärf-Platz 05, 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,1149,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-05T13:25:00Z,N/A,Doktor-Adolf-Schärf-Platz 5
 1989717567,"Ziegelhofstrasse 64, 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,749.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-05T11:54:00Z,N/A,Ziegelhofstraße 64
@@ -108,6 +108,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1527820571,"TOWER HOMES im Vienna Twentytwo - Erstbezugswohnungen bei der U1 - Rooftop-Pool, Fitnessraum & Saunabereich!","Wien, 22. Bezirk, Donaustadt",1220,899,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-02T09:18:00Z,N/A,N/A
 1041478917,IU - Idyllisch Urban,"Wien, 03. Bezirk, Landstraße",1030,1149,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-29T17:24:00Z,N/A,Wehleweg
 1727239701,Glanzinggasse 10 - Modernes Wohnen in Glanzing,"Wien, 19. Bezirk, Döbling",1190,1399,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-12-26T12:44:00Z,N/A,N/A
+950573358,Perfekte Jungwiener-/ Junggesellenwohnung in Stadlau - Top Anbindung & Natur pur (Gemeindewohnung),"Wien, 22. Bezirk, Donaustadt",1220,525,2,54,Wien,Wien,1.0,2,Wohnung,2026-01-08T12:35:00Z,525.0,Hartlebengasse 1-17/78/8
 1988574743,Schöne Zweizimmer Wohnung in bester Lage im Herzen Wiens,"Wien, 01. Bezirk, Innere Stadt",1010,2022.98,2,69,Wien,Wien,1.0,5,Wohnung,2026-01-08T12:30:00Z,2022.98,N/A
 2028480831,Schöne 3-Zimmer Altbauwohnung im Salzgries,"Wien, 01. Bezirk, Innere Stadt",1010,2750,3,138,Wien,Wien,1.0,3,Wohnung,2026-01-08T12:30:00Z,2750.0,N/A
 1286280980,expat flat: furnished 3 rooms I möblierte Altbauwohnung beim Parlament,"Wien, 01. Bezirk, Innere Stadt",1010,3384.85,3,94,Wien,Wien,1.0,3,Wohnung,2026-01-08T12:17:00Z,3384.85,Rathaus
@@ -507,7 +508,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 951997175,U-Bahn U1 Kagran - Sauna - Loggia - Fitnessraum - Deckenkühlung - Pool am Dach,"Wien, 22. Bezirk, Donaustadt",1220,2314.57,3,72,Wien,Wien,1.0,N/A,Wohnung,2026-01-07T09:40:00Z,2314.57,N/A
 1373042546,Dachgeschosswohnung mit großer Terrasse im Grünen,"Wien, 19. Bezirk, Döbling",1190,2946.35,5,164,Wien,Wien,1.0,N/A,Wohnung,2026-01-07T09:40:00Z,2946.35,Rathstraße
 877100713,Zauberhafte Hoflage in City-Nähe!,"Wien, 03. Bezirk, Landstraße",1030,797.22,2,48,Wien,Wien,1.0,2,Wohnung,2026-01-07T09:40:00Z,797.22,N/A
-1775910085,Ruhige möblierte 4-Zi Stadtwohnung nahe Augarten - Kurzzeitmiete (Feb-Mär),"Wien, 20. Bezirk, Brigittenau",1200,1490,4,90,Wien,Wien,N/A,N/A,Wohnung,2026-01-07T09:38:00Z,1490.0,N/A
+1052197940,Gemeindewohnung per Direktvergabe,"Wien, 21. Bezirk, Floridsdorf",1210,694.34,3,89,Wien,Wien,1.0,5,Wohnung,2026-01-08T22:28:00Z,694.34,Doderergasse 2
 1201751832,"DIREKTVERGAE, Gemeindewohnung 2 Zimmer mit Balkon","Wien, 20. Bezirk, Brigittenau",1200,571,2,56,Wien,Wien,1.0,3,Wohnung,2026-01-08T22:02:00Z,571.0,Jägerstraße 89-95
 1339009338,2 ZIMMER | AB 01.01.2026 | MIT FREIFLÄCHE | NÄHE HAUPTBAHNHOF,"Wien, 10. Bezirk, Favoriten",1100,949,2,47,Wien,Wien,1.0,5,Wohnung,2026-01-08T21:40:00Z,949.0,Hasengasse
 1652872565,"TOP LAGE: Wunderschöner 155m2 Altbaujuwel mit 4,5 Zimmer in absoluter Bestlage des 1. Bezirks / Ab sofort","Wien, 01. Bezirk, Innere Stadt",1010,2691.36,4,156,Wien,Wien,1.0,4,Wohnung,2026-01-08T21:37:00Z,2691.36,Kurrentgasse
@@ -707,4 +708,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2022846482,"Blueground ID491, Innere Stadt","Wien, 01. Bezirk, Innere Stadt",1010,3065,4,162,Wien,Wien,1.0,7,Wohnung,2026-01-08T12:41:00Z,3065.0,Kärntner Ring 15
 1808421930,Perfekt für Familien: Erstbezugswohnung nahe der U3!,"Wien, 14. Bezirk, Penzing",1140,1539,3,66,Wien,Wien,1.0,4,Wohnung,2026-01-08T12:37:00Z,1539.0,Breitenseer Straße
 1284193013,"Exklusiv 3-Zi Wohnung mit Balkon und Blick auf der Donau, direkt in der Innenstadt.","Wien, 01. Bezirk, Innere Stadt",1010,2030,3,72,Wien,Wien,1.0,9,Wohnung,2026-01-08T12:36:00Z,2030.0,Gonzagagasse 2
-950573358,Perfekte Jungwiener-/ Junggesellenwohnung in Stadlau - Top Anbindung & Natur pur (Gemeindewohnung),"Wien, 22. Bezirk, Donaustadt",1220,525,2,54,Wien,Wien,1.0,2,Wohnung,2026-01-08T12:35:00Z,525.0,Hartlebengasse 1-17/78/8
