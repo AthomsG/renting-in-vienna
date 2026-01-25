@@ -22,8 +22,9 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          525 |            50 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-gemeindewohnung-direktvergabe-1940652883/)            | Jan 24, 14:30      |
-|          700 |            45 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/untermiete-befristet-ruhelage-hell-mit-fernblick-1689003751/) | Jan 24, 11:17      |
-|          499 |            41 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sonniger-altbau-nahe-u1-keplerplatz-1300578245/)               | Jan 24, 10:54      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                     | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       739.13 |            52 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/neubauwohnung-mit-25-zimmer-nahe-matzleinsdorferplatz-2011528817/) | Jan 25, 10:54      |
+|       525    |            50 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-gemeindewohnung-direktvergabe-1940652883/)                 | Jan 24, 14:30      |
+|       700    |            45 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/untermiete-befristet-ruhelage-hell-mit-fernblick-1689003751/)      | Jan 24, 11:17      |
+|       499    |            41 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/sonniger-altbau-nahe-u1-keplerplatz-1300578245/)                    | Jan 24, 10:54      |
