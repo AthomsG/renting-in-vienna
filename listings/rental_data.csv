@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1451269371,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,995,2,46,Wien,Wien,N/A,12,Wohnung,2026-01-26T09:21:00Z,995.0,N/A
 1940600075,"Wienerbergstraße 11, 1BD, Elevator","Wien, 10. Bezirk, Favoriten",1100,1566,1,32,Wien,Wien,1.0,11,Wohnung,2026-01-26T09:20:00Z,1566.0,Wienerbergstraße 11
 1018125310,Traumhafte 3-Zimmer Gartenwohnung in 1210 nahe der Donauinsel!,"Wien, 21. Bezirk, Floridsdorf",1210,1482.91,3,74,Wien,Wien,1.0,0,Wohnung,2026-01-26T09:10:00Z,1482.91,Kantnergasse
 1699420294,Nahe an den Donau Auen - Neubauwohnung mit Balkon,"Wien, 22. Bezirk, Donaustadt",1220,967.83,2,56,Wien,Wien,1.0,1,Wohnung,2026-01-26T09:07:00Z,967.83,N/A
@@ -75,7 +76,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1404675686,Gemeindewohnung,"Wien, 21. Bezirk, Floridsdorf",1210,588.78,2,58,Wien,Wien,0.79,0,Wohnung,2026-01-25T17:45:00Z,588.78,Werndlgasse
 890629443,Kleine Perle im ultramodernen Wohnhaus mit Pool am Dach zu mieten // Small gem in an ultra-modern apartm. building with pool on the roof for rent //,"Wien, 02. Bezirk, Leopoldstadt",1020,1630.01,2,55,Wien,Wien,1.0,6,Wohnung,2026-01-25T17:36:00Z,1630.01,N/A
 1792049809,Helle 2-Zimmer-Wohnung mit Balkon im ruhigen Tivoliviertel,"Wien, 12. Bezirk, Meidling",1120,897.95,2,50,Wien,Wien,N/A,2,Wohnung,2026-01-25T17:33:00Z,897.95,N/A
-1310270323,"Charmante Wohnung im Grünen, WG - geeignet","Wien, 18. Bezirk, Währing",1180,966.7,2,57,Wien,Wien,N/A,1,Wohnung,2026-01-25T17:24:00Z,966.7,N/A
 1328548938,"Grüne Ruheoase im Herzen des 8. Bezirks - Schlafzimmer zum großen, ruhigem Innenhof - Optional mit Garage im Haus","Wien, 08. Bezirk, Josefstadt",1080,1480.44,2,67,Wien,Wien,0.79,N/A,Wohnung,2026-01-25T17:00:00Z,1480.44,Breitenfeldergasse
 1203038050,Helle 2-Zimmer Wohnung in ruhiger Lage,"Wien, 10. Bezirk, Favoriten",1100,600,2,33,Wien,Wien,0.79,1,Wohnung,2026-01-25T16:59:00Z,600.0,Kempelengasse
 1217658379,Wohnung zum vermieten,"Wien, 14. Bezirk, Penzing",1140,1000,2,52,Wien,Wien,N/A,2,Wohnung,2026-01-25T16:54:00Z,1000.0,N/A
@@ -177,8 +177,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1784071528,ODO25 - Smarte ERSTBEZUGS-Wohnungen in ausgezeichneter Lage nahe U3 & Kongresspark,"Wien, 16. Bezirk, Ottakring",1160,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-22T10:16:00Z,N/A,Odoakergasse 25
 803295877,ODO25 - Wohnen mit Stil,"Wien, 16. Bezirk, Ottakring",1160,748.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-22T09:06:00Z,N/A,Odoakergasse 25
 1414675422,IU - Idyllisch Urban,"Wien, 03. Bezirk, Landstraße",1030,1149,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-21T19:33:00Z,N/A,Wehleweg
+1028888358,MODERNES WOHNEN IN ST. GOTTHARD,"Wien, 14. Bezirk, Penzing",1140,939,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-21T13:24:00Z,N/A,N/A
 889826908,Neubauprojekt in Simmering - Erstbezug - 1- bis 3-Zimmer Wohnungen - zu mieten in 1110 Wien,"Wien, 11. Bezirk, Simmering",1110,698.99,0,N/A,Wien,Wien,N/A,N/A,N/A,2026-01-21T10:48:00Z,N/A,N/A
 778578701,Gepflegte Mietwohnungen in bester Lage beim Sonnwendviertel!,"Wien, 10. Bezirk, Favoriten",1100,943.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-20T15:25:00Z,N/A,Humboldtgasse 38
+1259218375,Moderne 2-Zimmer-Wohnung mit Loggia nahe U3 Kendlerstraße - ideal für Paare oder Singles,"Wien, 14. Bezirk, Penzing",1140,999,2,38,Wien,Wien,1.0,1,Wohnung,2026-01-26T20:39:00Z,999.0,N/A
 1949539024,Attraktive 2-Zimmer-Dachgeschosswohnung in zentraler Lage - Randhartingergasse 1100 Wien,"Wien, 10. Bezirk, Favoriten",1100,899.99,2,43,Wien,Wien,1.0,N/A,Wohnung,2026-01-26T20:33:00Z,899.99,Randhartingergasse 9-11
 810599455,Schöne 2-Zimmer-Wohnung mit großer Terrasse in zentraler Lage - JETZT ANFRAGEN!,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,52,Wien,Wien,1.0,N/A,Wohnung,2026-01-26T20:33:00Z,1099.0,Tokiostraße 5A
 1951389214,Helle 2-Zimmer-Wohnung in der Langobardenstraße 189 - ideal für Singles oder Paare!,"Wien, 22. Bezirk, Donaustadt",1220,1149.99,2,66,Wien,Wien,1.0,5,Wohnung,2026-01-26T20:33:00Z,1149.99,Langobardenstraße 189
@@ -578,4 +580,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1977992869,ab 01.04.2026 verfügbar: Helle 2-Zimmer-Wohnung in 1200 Wien,"Wien, 20. Bezirk, Brigittenau",1200,1050.01,2,48,Wien,Wien,1.0,N/A,Wohnung,2026-01-26T09:26:00Z,1050.01,N/A
 1409989222,Drei-Zimmer Luxuswohnung nahe Yppenplatz/Brunnenmarkt,"Wien, 16. Bezirk, Ottakring",1160,1600,3,90,Wien,Wien,1.0,3,Wohnung,2026-01-26T09:26:00Z,1600.0,N/A
 1401792028,"Frisch sanierte, großzügige Altbauwohnung mit Balkon in Toplage des 9. Bezirks","Wien, 09. Bezirk, Alsergrund",1090,3609.3,4,147,Wien,Wien,1.0,2,Wohnung,2026-01-26T09:25:00Z,3609.3,Maria Theresienstraße 19
-1451269371,"Smarte 1,5 Zimmer-Wohnung - Erstbezug in den DC Flats - zu mieten in 1220 Wien","Wien, 22. Bezirk, Donaustadt",1220,995,2,46,Wien,Wien,N/A,12,Wohnung,2026-01-26T09:21:00Z,995.0,N/A
