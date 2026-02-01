@@ -61,6 +61,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1746079294,| KAGRANER PLATZ | NEUBAU | AUSGEZEICHNETE LAGE |,"Wien, 22. Bezirk, Donaustadt",1220,869,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-29T04:35:00Z,N/A,Kagraner Platz
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City ERSTBEZUG,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,N/A,N/A,N/A,2026-01-26T10:53:00Z,N/A,N/A
 2041349408,Unbefristete Neubau-Mietwohnung im Oberen Hausfeld | Termin online buchen: www.hausfeld22.at/nordlicht,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-01-22T15:14:00Z,N/A,Alfred-Grasel-Gasse 18
+1187433973,Neubauwohnungen (Bj. 2022) Nähe Bahnhof Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2026-02-02T00:37:00Z,N/A,N/A
 1550490233,"helle 2-Zimmer-Wohnung 62m² mit 9.1m² Balkon , 4 Minuten Fußweg zum U1 Kagraner Platz","Wien, 22. Bezirk, Donaustadt",1220,1150,2,62,Wien,Wien,0.79,4,Wohnung,2026-02-01T22:25:00Z,1150.0,Donaufelderstrasse
 793641778,++NEW++ First occupancy: Bright 3-room flat with terrace on the 4th floor - Mollardgasse 50,"Wien, 06. Bezirk, Mariahilf",1060,2075,3,67,Wien,Wien,1.0,4,Wohnung,2026-02-01T21:49:00Z,2075.0,Mollardgasse 50
 1420126556,Charmante 2-Zimmer-Wohnung im Favoriten,"Wien, 10. Bezirk, Favoriten",1100,955,2,51,Wien,Wien,0.79,N/A,Wohnung,2026-02-01T21:49:00Z,955.0,Absberggasse
@@ -100,7 +101,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1217658379,Wohnung zum vermieten,"Wien, 14. Bezirk, Penzing",1140,1000,2,52,Wien,Wien,N/A,2,Wohnung,2026-02-01T16:54:00Z,1000.0,N/A
 810814679,Wohnung in Ottakring,"Wien, 16. Bezirk, Ottakring",1160,655.32,1,27,Wien,Wien,N/A,4,Wohnung,2026-02-01T16:45:00Z,655.32,N/A
 1743777562,Grünruhelage nahe Glanzing! Perfekt geschnittene 3-Zimmer-Wohnung mit bedingter Gartennutzung und optionalem Garagenplatz,"Wien, 19. Bezirk, Döbling",1190,1097.71,3,66,Wien,Wien,1.0,0,Wohnung,2026-02-01T16:25:00Z,1097.71,N/A
-1847655901,2-Zimmer-Wohnung in einem schönen Neubau -T27,"Wien, 17. Bezirk, Hernals",1170,824.27,2,50,Wien,Wien,1.0,3,Wohnung,2026-02-01T16:25:00Z,824.27,N/A
 1616321371,ERSTBEZUG - Sonnige 2 Zimmer Wohnung mit Balkon - U-Bahn nähe,"Wien, 12. Bezirk, Meidling",1120,1275,2,54,Wien,Wien,1.0,1.OG,Wohnung,2026-02-01T16:10:00Z,1275.0,An den Froschlacken 3
 633413775,"Vollmöblierte 1-Zimmer-Wohnung, 48 m² - Nähe Mariahilfer Straße","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,945,2,48,Wien,Wien,0.79,1,Wohnung,2026-02-01T15:57:00Z,945.0,Reindorfgasse
 2091297521,"Top Aussicht über Wien beim Prater, mit Ihrer exclusiven 3 Zimmerwohnung","Wien, 02. Bezirk, Leopoldstadt",1020,2890.95,3,105,Wien,Wien,1.0,19,Wohnung,2026-02-01T15:50:00Z,2890.95,Meiereistraße 14
@@ -216,7 +216,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1742729428,++NEU++ stilvolle 2-Zimmer-Wohnung mitten im Herzen der Stadt (1/19),"Wien, 06. Bezirk, Mariahilf",1060,1525,2,50,Wien,Wien,1.0,4,Wohnung,2026-01-31T19:35:00Z,1525.0,N/A
 1867982619,"Wohnung, Wien 5. Bezirk, ab sofort zu vermieten","Wien, 05. Bezirk, Margareten",1050,1100,2,55,Wien,Wien,0.79,2,Wohnung,2026-01-31T19:08:00Z,1100.0,Margaretenstraße
 980115125,Exklusive 4-Zimmer-Dachgeschoss Maisonette Wohnung mit Terrasse und Aufzug direkt ins Penthouse — 1060 Wien! - JETZT ZUSCHLAGEN,"Wien, 06. Bezirk, Mariahilf",1060,4412.63,4,252,Wien,Wien,1.0,N/A,Wohnung,2026-01-31T18:56:00Z,4412.63,Gumpendorfer Straße 66
-1035334937,Schöne Wohnung in Ruhelage direkt beim Kirschblütenpark,"Wien, 22. Bezirk, Donaustadt",1220,899,2,43,Wien,Wien,1.0,3,Wohnung,2026-01-31T18:25:00Z,899.0,Donaufelder Straße
+1035334937,Gemütliche Wohnung in Ruhelage direkt beim Kirschblütenpark,"Wien, 22. Bezirk, Donaustadt",1220,899,2,43,Wien,Wien,1.0,3,Wohnung,2026-01-31T18:25:00Z,899.0,Donaufelder Straße
 1615370532,Gemeindewohnung per Direktvergabe vor 30.11.25,"Wien, 03. Bezirk, Landstraße",1030,420,1,30,Wien,Wien,0.79,2,Wohnung,2026-01-31T18:08:00Z,420.0,Hofmansthalgasse
 774169668,*Top Altbau mit Wintergarten*U6 um`s Eck!,"Wien, 20. Bezirk, Brigittenau",1200,639.01,2,53,Wien,Wien,1.0,1,Wohnung,2026-01-31T17:55:00Z,639.01,N/A
 1290349104,"Sonnige 2,5 Zimmer Altbaumiete nähe Matzleinsdorferplatz","Wien, 05. Bezirk, Margareten",1050,1056,3,92,Wien,Wien,1.0,4,Wohnung,2026-01-31T17:35:00Z,1056.0,N/A
