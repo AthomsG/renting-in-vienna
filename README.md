@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                   | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|        779.5 |            46 |          2 | 07. Neubau       | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/m%C3%B6blierte-2-zimmer-wohnung-im-7.bezirk%21-1289726438/)          | Mar 13, 15:56      |
-|        730   |            50 |          2 | 16. Ottakring    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/hauptmietwohnung-im-hippen-yppenviertel-brunnenmarkt-1438595134/) | Mar 13, 15:39      |
-|        625   |            54 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/mietwohnung-54m2---ubahn-taborstra%C3%9Fe-1994869407/)         | Mar 13, 14:00      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                   | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        779.5 |            46 |          2 | 07. Neubau    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/m%C3%B6blierte-2-zimmer-wohnung-im-7.bezirk%21-1289726438/)          | Mar 13, 15:56      |
+|        730   |            50 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/hauptmietwohnung-im-hippen-yppenviertel-brunnenmarkt-1438595134/) | Mar 13, 15:39      |
