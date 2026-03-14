@@ -24,4 +24,5 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                     | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          629 |            59 |          3 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/3___zimmer__hoflage__ruhig__westbahnhof-887343199/) | Mar 14, 17:22      |
+|       518.91 |            47 |          2 | 06. Mariahilf            | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1060-mariahilf/%28reserviert%29-gemeindewohnung-direktvergabe-1060-1271473804/)    | Mar 14, 20:13      |
+|       629    |            59 |          3 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/3___zimmer__hoflage__ruhig__westbahnhof-887343199/) | Mar 14, 17:22      |
