@@ -22,8 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                           | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|        649.8 |            40 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/kompakte-zentral-gelegene-2-zimmer-wohnung---wg-geeignet-1899486254/)    | Mar 20, 21:37      |
-|        745   |            43 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/generalisierte-15-zimmer-wohnung-n%C3%A4he-u3-1580215634/)                  | Mar 20, 17:51      |
-|        799   |            60 |          2 | 12. Meidling   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/provisionsfrei-&-unbefristet%21-ruhige-wohnung-in-bester-lage-2058672343/) | Mar 20, 17:41      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                        | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        649.8 |            40 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/kompakte-zentral-gelegene-2-zimmer-wohnung---wg-geeignet-1899486254/) | Mar 20, 21:37      |
