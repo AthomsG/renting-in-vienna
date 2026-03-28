@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                            | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|        477.5 |            43 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/charmante-zweizimmerwohnung-beim-sch%C3%B6nbrunner-schlosspark-1535901884/) | Mar 28, 10:45      |
-|        780   |            58 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/2-zimmer-altbauwohnung-nahe-johnstra%C3%9Fe-1745174513/)   | Mar 27, 19:26      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                                 | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        755   |            44 |          2 | 16. Ottakring            | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/25-zimmer-wohnung-in-ruhiger-lage---besichtigungstermin-sonntag-29.3.2026-um-16.00-2013228379/) | Mar 28, 13:35      |
+|        477.5 |            43 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/charmante-zweizimmerwohnung-beim-sch%C3%B6nbrunner-schlosspark-1535901884/)                      | Mar 28, 10:45      |
+|        780   |            58 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/2-zimmer-altbauwohnung-nahe-johnstra%C3%9Fe-1745174513/)                        | Mar 27, 19:26      |
