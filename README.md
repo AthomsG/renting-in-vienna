@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                          | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       780    |            58 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/2-zimmer-altbauwohnung-nahe-johnstra%C3%9Fe-1745174513/) | Mar 27, 19:26      |
-|       561.24 |            39 |          2 | 02. Leopoldstadt         | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/helle-und-g%C3%BCnstige-2-zimmer-wohnung-2038477604/)                 | Mar 27, 11:00      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                            | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       477.5  |            43 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/charmante-zweizimmerwohnung-beim-sch%C3%B6nbrunner-schlosspark-1535901884/) | Mar 28, 10:45      |
+|       780    |            58 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/2-zimmer-altbauwohnung-nahe-johnstra%C3%9Fe-1745174513/)   | Mar 27, 19:26      |
+|       561.24 |            39 |          2 | 02. Leopoldstadt         | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/helle-und-g%C3%BCnstige-2-zimmer-wohnung-2038477604/)                   | Mar 27, 11:00      |
