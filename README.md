@@ -22,8 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                      | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       483.89 |            45 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/2-zimmer-dachgescho%C3%9Fwohnung-am-bacherplatz-zu-mieten-in-1050-wien-1628341693/) | Mar 31, 08:19      |
-|       787    |            40 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/kompakte-2-zimmerwohnung-mit-balkon---hofruhelage-1057662296/)                      | Mar 30, 20:32      |
-|       787.35 |            51 |          2 | 11. Simmering  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/neubauwohnung-in-guter-lage%21-1096338174/)                                          | Mar 30, 16:04      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                 | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       520    |            56 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeinewohnung-854755675/)                                      | Mar 31, 13:07      |
+|       787    |            40 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/kompakte-2-zimmerwohnung-mit-balkon---hofruhelage-1057662296/) | Mar 30, 20:32      |
+|       787.35 |            51 |          2 | 11. Simmering  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/neubauwohnung-in-guter-lage%21-1096338174/)                     | Mar 30, 16:04      |
