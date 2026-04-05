@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                          | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          490 |            78 |          5 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/gemeindewohnung-mit-vormerkschein-%28wohnticket%29-abzugeben-1530248471/)                               | Apr 05, 15:29      |
-|          510 |            46 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/wiener-wohnen-ticket-n%C3%B6tig-bis-31.03.2026-1889150612/)                                              | Apr 05, 11:20      |
-|          750 |            46 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/%28reserviert%29-gem%C3%BCtliche-ruhige-2-zimmer-wohnung-im-14.-bezirk-ab-sofort-zu-vermieten-1008031314/) | Apr 04, 17:26      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                            | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          490 |            78 |          5 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/gemeindewohnung-mit-vormerkschein-%28wohnticket%29-abzugeben-1530248471/) | Apr 05, 15:29      |
+|          510 |            46 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/wiener-wohnen-ticket-n%C3%B6tig-bis-31.03.2026-1889150612/)                | Apr 05, 11:20      |
