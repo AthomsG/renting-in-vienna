@@ -22,9 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                        | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       464.7  |            50 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/charmante-2%E2%80%91zimmer%E2%80%91wohnung-1741927859/)                                | Apr 09, 06:57      |
-|       636    |            84 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/ger%C3%A4umige-3-zimmer-wohnung-im-5.og-1267654464/)                                   | Apr 09, 06:57      |
-|       687.12 |            75 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/charmante-3%E2%80%91zimmer%E2%80%91wohnung-in-der-laxenburger-stra%C3%9Fe-1538337120/) | Apr 09, 06:57      |
-|       506.29 |            69 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/ger%C3%A4umige-2-zimmer-wohnung-im-3.og-1170510653/)                                     | Apr 09, 06:57      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                      | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          459 |            40 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/hofseitiger-altbau-am-brunnenmarkt-1265789598/)      | Apr 10, 08:50      |
+|          636 |            84 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/ger%C3%A4umige-3-zimmer-wohnung-im-5.og-1267654464/) | Apr 09, 06:57      |
