@@ -22,7 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                              | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          590 |            43 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/unbefristete-gem%C3%BCtliche-2-zimmer-wohnung-in-1170-wien-sucht-langzeitmieter/in--kein-lift-%21-1415915636/) | Apr 13, 13:33      |
-|          745 |            45 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/%22green-heart%22---die-geburtsstunde-der-gartenmaisonette-1684445595/)                                        | Apr 13, 13:22      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                           | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          780 |            34 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/%28reserviert%29-singleapartment-mit-franz%C3%B6sischem-balkon-in-der-margaretenstra%C3%9Fe-1659602294/) | Apr 13, 15:06      |
