@@ -22,10 +22,9 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                        | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       750    |            53 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmerwohnung-53m%C2%B2-zentral-begehbar-1100-wien-2054623928/)                      | Apr 18, 11:30      |
-|       490    |            43 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-zu-vergeben-1155684736/)                                               | Apr 18, 09:21      |
-|       794    |            50 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/zwei-zimmer---50m%C2%B2---hauptbahnhof-n%C3%A4he-894279327/)                           | Apr 17, 22:03      |
-|       723    |            56 |          2 | 17. Hernals    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/topaltbau-hauptmiete-unbefristet-f%C3%BCr-p%C3%A4rchen-oder-single-geeignet-1235451150/) | Apr 17, 13:23      |
-|       734.32 |            60 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/sch%C3%B6ne-helle-altbauwohnung-in-5-minuten-in-der-stadt%21-1718689362/)             | Apr 17, 13:05      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                   | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       798.94 |            53 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/linzer-stra%C3%9Fe---2-zimmer-neubau-zu-vermieten-1121926889/)      | Apr 18, 14:56      |
+|       750    |            53 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmerwohnung-53m%C2%B2-zentral-begehbar-1100-wien-2054623928/) | Apr 18, 11:30      |
+|       490    |            43 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gemeindewohnung-zu-vergeben-1155684736/)                          | Apr 18, 09:21      |
+|       794    |            50 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/zwei-zimmer---50m%C2%B2---hauptbahnhof-n%C3%A4he-894279327/)      | Apr 17, 22:03      |
