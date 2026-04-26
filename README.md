@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                           | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          476 |            42 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/gemeindewohnung-direktvergabe-2067147379/) | Apr 24, 21:39      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                  | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       743.97 |            52 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/nachmieter%2Ain-gesucht-f%C3%BCr-eine-charmante-2-zimmer-altbauwohnung-in-ruhelage-1057793447/) | Apr 26, 11:00      |
