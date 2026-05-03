@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                 | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          695 |            59 |          2 | 12. Meidling   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/)                                                           | May 03, 14:42      |
-|          700 |            55 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/top-zimmer/-modern-room-1030-wien---u3-gasometer-gym-inkl.-&-fully-furnished-1959838971/) | May 02, 22:01      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                                 | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          610 |            47 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/mietwohnung-891608599/)                                                         | May 03, 17:29      |
+|          695 |            59 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/)                                                           | May 03, 14:42      |
+|          700 |            55 |          2 | 03. Landstraße           | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/top-zimmer/-modern-room-1030-wien---u3-gasometer-gym-inkl.-&-fully-furnished-1959838971/) | May 02, 22:01      |
