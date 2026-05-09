@@ -22,9 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                           | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       485    |            45 |          2 | 14. Penzing              | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/gemeindebauwohnung-2-zimmer-1874551773/)                                    | May 09, 15:19      |
-|       515    |            50 |          2 | 09. Alsergrund           | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/gemeindewohnung-im-9.-bezirk-1878656007/)                                | May 09, 12:31      |
-|       480    |            56 |          2 | 05. Margareten           | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/wiener-wohnen-wohnung-2073918310/)                                       | May 08, 20:30      |
-|       768.15 |            41 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/ruhiger-sonniger-wohntraum-mit-balkon-nahe-u3-856308885/) | May 08, 19:00      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                             | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          485 |            45 |          2 | 14. Penzing    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/gemeindebauwohnung-2-zimmer-1874551773/)                      | May 09, 15:19      |
+|          515 |            50 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/%28reserviert%29-gemeindewohnung-im-9.-bezirk-1878656007/) | May 09, 12:31      |
+|          480 |            56 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/wiener-wohnen-wohnung-2073918310/)                         | May 08, 20:30      |
