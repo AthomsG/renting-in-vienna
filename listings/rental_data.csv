@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1007674561,Nahe Schönbrunn: 2-Zimmer-Wohnung mit Balkon und Wintergarten sowie ein opt. Stellplatz!,"Wien, 14. Bezirk, Penzing",1140,1390,2,57,Wien,Wien,1.0,2,Wohnung,2026-05-09T17:28:00Z,1390.0,Max-Reinhardt-Gasse
+2095901054,Jetzt einziehen: 4-Zimmer Wohnung mit moderner Ausstattung und Freifläche!,"Wien, 17. Bezirk, Hernals",1170,1899,4,108,Wien,Wien,1.0,2,Wohnung,2026-05-09T17:28:00Z,1899.0,Dittersdorfgasse 8
+1625845252,"Moderne 2-Zimmer Dachgeschosswohnung mit Klimaanlage, Einbauküche und Terrasse - ab 01.05. beziehbar!","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1253.52,2,54,Wien,Wien,1.0,N/A,Wohnung,2026-05-09T17:28:00Z,1253.52,Gebrüder-Lang-Gasse 1
 1005196101,"Großzügige 4-Zimmer Dachgeschosswohnung inkl. Einbauküche, Klimaanlage und sonniger Freifläche!","Wien, 06. Bezirk, Mariahilf",1060,2695,4,105,Wien,Wien,1.0,N/A,Wohnung,2026-05-09T17:28:00Z,2695.0,Mollardgasse 27
 1483077872,Maisonette mit Flair: Hochwertige Wohnung mit großzügiger Freiflächen! Einbauküche und Klimaanlage inklusive!,"Wien, 13. Bezirk, Hietzing",1130,2249,4,93,Wien,Wien,1.0,1,Wohnung,2026-05-09T17:28:00Z,2249.0,Vitusgasse 6
 2076156245,Charmante 2-Zimmer Dachgeschosswohnung inkl. Einbauküche und Terrasse!,"Wien, 21. Bezirk, Floridsdorf",1210,949.99,2,55,Wien,Wien,1.0,2,Wohnung,2026-05-09T17:28:00Z,949.99,Stammersdorfer Straße 238
@@ -129,6 +132,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1862033879,"Gepflegte Mietwohnungen nahe Donau, Augarten und Prater!","Wien, 20. Bezirk, Brigittenau",1200,1079.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-05-04T14:15:00Z,N/A,Innstraße 23
 877912898,DC-FLATS: 302 brandneue High-End-Apartments bei der UNO-City ERSTBEZUG,"Wien, 22. Bezirk, Donaustadt",1220,670,0,N/A,Wien,Wien,0.79,N/A,N/A,2026-05-04T10:53:00Z,N/A,Donau-City-Straße
 1528396658,DC2 Tower: SKY RESIDENCES,"Wien, 22. Bezirk, Donaustadt",1220,1100,0,N/A,Wien,Wien,1.0,N/A,N/A,2026-05-04T08:15:00Z,N/A,N/A
+1427417197,EXKLUSIVES WOHNEN MIT POOL ? URBANES FEELING MIT BESONDEREM KOMFORT,"Wien, 22. Bezirk, Donaustadt",1220,1410,1,31,Wien,Wien,0.5,N/A,Wohnung,2026-05-11T02:22:00Z,1410.0,N/A
+1200046137,PRESTIGETRÄCHTIGER STILALTBAU AM GRABEN UND NEBEN DER PETERSKIRCHE,"Wien, 01. Bezirk, Innere Stadt",1010,5475,5,178,Wien,Wien,0.5,N/A,Wohnung,2026-05-11T02:19:00Z,5475.0,N/A
+1223565628,Rosental und Dachterrasse,"Wien, 14. Bezirk, Penzing",1140,1482.95,2,70,Wien,Wien,0.5,2,Wohnung,2026-05-11T02:13:00Z,1482.95,N/A
+1851157222,"Hochwertige, moderne Zwei-Zimmer-Mietwohnung in 1030 Wien - Nähe Rochusmarkt und Prater - Energieeffizienter Neubau","Wien, 03. Bezirk, Landstraße",1030,993.8,2,40,Wien,Wien,1.0,3,Wohnung,2026-05-11T02:06:00Z,993.8,Erdberger Lände 26
 1352691517,"ELEGANT LOFTARTIGE GARTENWOHNUNG stilsicher saniert - viel Liebe zum Detail, moderner 60ies Style","Wien, 18. Bezirk, Währing",1180,3161,3,142,Wien,Wien,0.5,1,Wohnung,2026-05-11T00:50:00Z,3161.0,N/A
 2002642870,Hochwertig sanierte 2-Zimmer-Wohnung mit Loggia & Grünblick - Nähe Am Spitz,"Wien, 21. Bezirk, Floridsdorf",1210,1170,2,60,Wien,Wien,0.79,0,Wohnung,2026-05-11T00:46:00Z,1170.0,Schleifgasse
 1187433973,Neubauwohnungen (Bj. 2022) Nähe Bahnhof Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2026-05-11T00:37:00Z,N/A,N/A
@@ -298,7 +305,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2135872409,WOHNEN MIT QUALITÄT ? STILVOLL IM 21. BEZIRK,"Wien, 21. Bezirk, Floridsdorf",1210,1834.8,0,N/A,Wien,Wien,0.5,N/A,Wohnung,2026-05-10T03:19:00Z,1834.8,N/A
 1882841617,CHARMANTER UND VOLLMÖBLIERTER WOHNHIT AM LIESINGBACH,"Wien, 23. Bezirk, Liesing",1230,1280,2,67,Wien,Wien,0.5,N/A,Wohnung,2026-05-10T03:18:00Z,1280.0,N/A
 2126511186,Großzügige 5 Zimmer - Altbauwohnung mit Balkon und Loggia,"Wien, 18. Bezirk, Währing",1180,2395,5,145,Wien,Wien,0.5,2,Wohnung,2026-05-10T02:17:00Z,2395.0,N/A
-1345712061,Singletraum mit überschaubaren Kosten (inklusive Heizkosten und Warmwasser) - unbefristet,"Wien, 03. Bezirk, Landstraße",1030,603.62,2,41,Wien,Wien,0.5,N/A,Wohnung,2026-05-10T02:08:00Z,603.62,N/A
 1382995246,3 Zimmer Familienwohnung /WG Traum mit Garage in Hietzing,"Wien, 13. Bezirk, Hietzing",1130,1290,3,90,Wien,Wien,0.5,N/A,Wohnung,2026-05-10T02:08:00Z,1290.0,N/A
 1401243875,WUNDERSCHÖNE GEMEINDEWOHNUNG MIT KOMPLETTER EINRICHTUNG ZU VERGEBEN Vormerkschein erforderlich: 31.03.,"Wien, 12. Bezirk, Meidling",1120,409.69,1,40,Wien,Wien,0.5,3,Wohnung,2026-05-09T23:25:00Z,409.69,N/A
 1574531322,Helle 1-Zimmer-Wohnung in 1160 Wien - frisch saniert & sofort bezugsbereit,"Wien, 16. Bezirk, Ottakring",1160,750,1,30,Wien,Wien,0.79,2,Wohnung,2026-05-09T23:04:00Z,750.0,Fröbelgasse
@@ -326,6 +332,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1263981490,3er WG Studentenwohnung in 1020 Wien - Heinestraße | Ab 01. August 2026 verfügbar,"Wien, 02. Bezirk, Leopoldstadt",1020,1600,3,90,Wien,Wien,0.79,2,Wohnung,2026-05-09T17:44:00Z,1600.0,Heinestraße
 2033016505,Altbau-Juwel in 1010 Wien - 171 m² | 3 Zimmer | Klimaanlage | Premium Lage,"Wien, 01. Bezirk, Innere Stadt",1010,4900,3,172,Wien,Wien,1.0,3,Wohnung,2026-05-09T17:36:00Z,4900.0,N/A
 980534283,"Wohlfühloase in der Donaustadt, Edith Kramer Weg","Wien, 22. Bezirk, Donaustadt",1220,1120,2,68,Wien,Wien,0.5,N/A,Wohnung,2026-05-09T17:31:00Z,1120.0,N/A
-1007674561,Nahe Schönbrunn: 2-Zimmer-Wohnung mit Balkon und Wintergarten sowie ein opt. Stellplatz!,"Wien, 14. Bezirk, Penzing",1140,1390,2,57,Wien,Wien,1.0,2,Wohnung,2026-05-09T17:28:00Z,1390.0,Max-Reinhardt-Gasse
-2095901054,Jetzt einziehen: 4-Zimmer Wohnung mit moderner Ausstattung und Freifläche!,"Wien, 17. Bezirk, Hernals",1170,1899,4,108,Wien,Wien,1.0,2,Wohnung,2026-05-09T17:28:00Z,1899.0,Dittersdorfgasse 8
-1625845252,"Moderne 2-Zimmer Dachgeschosswohnung mit Klimaanlage, Einbauküche und Terrasse - ab 01.05. beziehbar!","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1253.52,2,54,Wien,Wien,1.0,N/A,Wohnung,2026-05-09T17:28:00Z,1253.52,Gebrüder-Lang-Gasse 1

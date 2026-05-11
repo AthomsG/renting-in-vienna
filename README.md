@@ -22,7 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                                       | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       695    |            59 |          2 | 12. Meidling   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/)                                                                                 | May 10, 14:42      |
-|       603.62 |            41 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/singletraum-mit-%C3%BCberschaubaren-kosten-%28inklusive-heizkosten-und-warmwasser%29---unbefristet-1345712061/) | May 10, 02:08      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                       | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          695 |            59 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/) | May 10, 14:42      |
