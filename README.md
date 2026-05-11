@@ -22,6 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                       | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:---------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          695 |            59 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/) | May 10, 14:42      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                                                      | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       730    |            38 |          2 | 15. Rudolfsheim-Fünfhaus | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1150-rudolfsheim-f%C3%BCnfhaus/lichtdurchflutete-single--oder-p%C3%A4rchenwohnung-mit-charme-%28provisionsfrei%29-1282439326/)      | May 11, 09:37      |
+|       798.28 |            47 |          2 | 14. Penzing              | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/ruhige-helle-2-zimmer-wohnung-%7C-barrierefreier-neubau-%7C-bahnhof-penzing-%7C-garagenstellplatz-optional-976486417/) | May 11, 07:58      |
+|       695    |            59 |          2 | 12. Meidling             | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/wohnung-3.-stock-mit-lift-1531307843/)                                                                                | May 10, 14:42      |
