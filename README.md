@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                              | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       600    |            48 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/wiener-wohnen-wohnung-im-16ten-bezirk-zu-vermieten-1468797792/)                                              | May 24, 15:21      |
-|       780    |            44 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/helle-2-zimmer-wohnung-alsergrund-1327778199/)                                                              | May 23, 20:57      |
-|       750.52 |            55 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/provisionsfrei:-unbefristeter-55m%C2%B2-altbau-mit-2-zimmern-n%C3%A4he-u3-ottakring---1160-wien-2113422344/) | May 23, 19:36      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                 | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          600 |            48 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/wiener-wohnen-wohnung-im-16ten-bezirk-zu-vermieten-1468797792/) | May 24, 15:21      |
+|          780 |            44 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/helle-2-zimmer-wohnung-alsergrund-1327778199/)                 | May 23, 20:57      |
