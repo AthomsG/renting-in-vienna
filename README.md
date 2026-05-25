@@ -24,5 +24,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                             | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       726    |            43 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/wohnung-columbusgasse-1776314544/)                          | May 25, 21:45      |
 |       790    |            50 |          2 | 12. Meidling  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1120-meidling/private-wohnung-am-schedifkaplatz-1027308197/)               | May 25, 13:57      |
 |       517.25 |            51 |          2 | 14. Penzing   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/helle-2-zimmer-gemeindewohnung-zur-direktvergabe-1796042197/) | May 25, 08:55      |
