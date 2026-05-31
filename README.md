@@ -22,9 +22,10 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                      | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       579    |            47 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-wohnung-1953030695/)                        | May 31, 07:03      |
-|       799    |            67 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/3-zimmerwohnung-superzustand-1149261490/)            | May 31, 06:53      |
-|       550    |            51 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-gemeindewohnung-1100-wien-2094899393/) | May 30, 20:04      |
-|       787.23 |            51 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/neubauwohnung---u-3%21-960017484/)                   | May 30, 13:49      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                  | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       612.7  |            53 |          2 | 17. Hernals   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1170-hernals/unbefristet:-2-zimmer-im-2.-stock-nahe-elterleinplatz-1753647038/) | May 31, 13:45      |
+|       579    |            47 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-wohnung-1953030695/)                                    | May 31, 07:03      |
+|       799    |            67 |          3 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/3-zimmerwohnung-superzustand-1149261490/)                        | May 31, 06:53      |
+|       550    |            51 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-gemeindewohnung-1100-wien-2094899393/)             | May 30, 20:04      |
+|       787.23 |            51 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/neubauwohnung---u-3%21-960017484/)                               | May 30, 13:49      |
