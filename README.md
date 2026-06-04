@@ -22,8 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                            | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|        517.8 |            51 |          2 | 03. Landstraße   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/direktvergabe-gemeindewohnung-1030-1067166170/)                      | Jun 04, 12:34      |
-|        680   |            48 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/helle-2--zimmer-gemeindewohnung-in-favoriten-823316574/)                   | Jun 03, 22:07      |
-|        728   |            48 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/helle-2-zimmer-wohnung---ideal-f%C3%BCr-student-oder-paare-1974964060/) | Jun 03, 13:13      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                      | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        590   |            59 |          3 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/3-zimmer-gemeindewohnung-mit-balkon---direktvergabe-%7C-1100-wien-%28hanssonsiedlung%29-1571471755/) | Jun 04, 13:51      |
+|        517.8 |            51 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/direktvergabe-gemeindewohnung-1030-1067166170/)                                                | Jun 04, 12:34      |
+|        680   |            48 |          2 | 10. Favoriten  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/helle-2--zimmer-gemeindewohnung-in-favoriten-823316574/)                                             | Jun 03, 22:07      |
