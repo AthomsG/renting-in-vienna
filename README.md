@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                                      | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|        570   |            45 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/unbefristet-g%C3%BCnstig-wohnen%21-1424987998/)                                                                | Jun 13, 11:25      |
-|        674.3 |            51 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/unbefristete-topsanierte-wohnung.-809474370/)                                                                        | Jun 12, 19:14      |
-|        750.3 |            38 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/gem%C3%BCtliches-m%C3%B6bliertes-apartment-in-innenstadtn%C3%A4he---miete-f%C3%BCr-maximal-6-monate%21-1791360481/) | Jun 12, 13:07      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                       | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        570   |            45 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/unbefristet-g%C3%BCnstig-wohnen%21-1424987998/) | Jun 13, 11:25      |
+|        674.3 |            51 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/unbefristete-topsanierte-wohnung.-809474370/)         | Jun 12, 19:14      |
