@@ -24,6 +24,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                       | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       755    |            52 |          2 | 16. Ottakring  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/provisionsfreie-2-zimmer-mietwohnung-1160-wien-1943211209/)           | Jun 21, 17:56      |
 |       518.24 |            47 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/wiener-wohnen-direktvergabe-1659383225/)                        | Jun 21, 09:16      |
 |       798.15 |            49 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/%28reserviert%29-gepflegte-2-zimmerwohnung-mit-parkblick-837749591/) | Jun 21, 00:45      |
 |       514    |            49 |          2 | 11. Simmering  | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/gemeindewohnung-anfrage-stopp%21%21%21-1558077974/)                   | Jun 20, 20:41      |
