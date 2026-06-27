@@ -22,11 +22,10 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                       | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          550 |            51 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/%28reserviert%29-direktvergabe-gemeindewohnung-1100-wien-2094899393/) | Jun 27, 20:04      |
-|          510 |            55 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/55-qm2-wohnung-im-10-bezirk-1459181861/)                              | Jun 27, 18:56      |
-|          486 |            50 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-wiener-wohnen-2-zimmer-wohnung-885864528/)              | Jun 27, 13:53      |
-|          535 |            51 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-wohnung-gemeinde-direktvergabe-2057843669/)                  | Jun 27, 11:31      |
-|          750 |            50 |          2 | 10. Favoriten    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmerwohnung-mit-ankleidezimmer-858881631/)                        | Jun 27, 09:17      |
-|          470 |            58 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/keine-anfragen-mehr-%21%21%21-908998444/)                          | Jun 26, 20:46      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                       | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          550 |            51 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/%28reserviert%29-direktvergabe-gemeindewohnung-1100-wien-2094899393/) | Jun 27, 20:04      |
+|          510 |            55 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/55-qm2-wohnung-im-10-bezirk-1459181861/)                              | Jun 27, 18:56      |
+|          486 |            50 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/direktvergabe-wiener-wohnen-2-zimmer-wohnung-885864528/)              | Jun 27, 13:53      |
+|          535 |            51 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmer-wohnung-gemeinde-direktvergabe-2057843669/)                  | Jun 27, 11:31      |
+|          750 |            50 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/2-zimmerwohnung-mit-ankleidezimmer-858881631/)                        | Jun 27, 09:17      |
