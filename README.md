@@ -22,9 +22,9 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                 | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       775    |            33 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/modernes-single-apartment-mit-terrasse---erstbezug-1965841874/) | Jul 02, 13:48      |
-|       550    |            60 |          2 | 11. Simmering | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1110-simmering/wiener-wohnen-gemeindewohnung-1064884572/)                      | Jul 02, 11:05      |
-|       775.15 |            52 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/ger%C3%A4umige-2-zimmer-wohnun-2111841652/)                     | Jul 02, 07:02      |
-|       528    |            43 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/2-zimmer-zentrumsnah-neu-renoviert-528.---1990404233/)          | Jul 01, 16:06      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       606.29 |            46 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/gepflegte-zwei-zimmerwohnung-im-herzen-favoritens---n%C3%A4he-waldm%C3%BCllerpark-1942504432/) | Jul 02, 17:12      |
+|       775    |            33 |          2 | 10. Favoriten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1100-favoriten/modernes-single-apartment-mit-terrasse---erstbezug-1965841874/)                                | Jul 02, 13:48      |
+|       775.15 |            52 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/ger%C3%A4umige-2-zimmer-wohnun-2111841652/)                                                    | Jul 02, 07:02      |
+|       528    |            43 |          2 | 16. Ottakring | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1160-ottakring/2-zimmer-zentrumsnah-neu-renoviert-528.---1990404233/)                                         | Jul 01, 16:06      |
