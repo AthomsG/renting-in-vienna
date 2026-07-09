@@ -1,7 +1,8 @@
 """Publish the cumulative listings store to Kaggle.
 
 The published dataset is the full, unfiltered history of every Vienna
-apartment ever scraped, with the ``Ad ID`` column removed. Several guards
+apartment ever scraped, with internal and constant columns (``Ad ID``,
+``Description``, ``Address``, ``State``, ``District``) removed. Several guards
 make sure the dataset can only ever grow:
 - the store is append-only and deduplicated by Ad ID (see storage.py),
 - the export must clear an absolute row-count floor,
@@ -22,6 +23,11 @@ import pandas as pd
 from vienna_rentals import config, storage
 
 logger = logging.getLogger(__name__)
+
+# Columns stripped before publication: internal identifiers, free text, and
+# columns that are constant for a Vienna-only dataset (State is always "Wien"
+# and District duplicates the numeric district in Location).
+COLUMNS_TO_DROP = [storage.AD_ID_COLUMN, "Description", "Address", "State", "District"]
 
 
 def setup_kaggle_credentials() -> None:
@@ -49,8 +55,8 @@ def setup_kaggle_credentials() -> None:
 
 
 def prepare_export(df: pd.DataFrame) -> pd.DataFrame:
-    """Strip the ad identifier before publication."""
-    return df.drop(columns=[storage.AD_ID_COLUMN])
+    """Strip internal columns (ad id, description, address) before publication."""
+    return df.drop(columns=COLUMNS_TO_DROP, errors="ignore")
 
 
 def get_published_file_size(dataset_slug: str, filename: str) -> int | None:
