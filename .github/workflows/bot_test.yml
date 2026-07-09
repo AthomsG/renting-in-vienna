@@ -9,21 +9,21 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+        run: uv python install
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: uv sync --locked
 
       - name: Run Telegram Bot Test
         env:
           BOT_API_KEY: ${{ secrets.BOT_API_KEY }}  # Use your GitHub Secrets for the bot token
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # Use your GitHub Secrets for the channel ID
-        run: |
-          python testing/telegram_bot.py
+        run: uv run vienna-rentals test-telegram

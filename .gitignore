@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+
+# Tooling
+.ruff_cache/
+.pytest_cache/
+
+# Local artifacts
+response_pretty.txt
+dataset_folder/
+
+# OS
+.DS_Store
