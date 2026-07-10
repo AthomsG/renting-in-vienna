@@ -84,12 +84,22 @@ def test_non_apartment_property_types_are_dropped():
 # ---------- export shape ---------- #
 
 
-def test_export_drops_internal_and_constant_columns():
+def test_export_drops_internal_constant_and_redundant_columns():
     export = transform.prepare_public_export(_frame(["a", "b"]))
 
-    for dropped in ("Ad ID", "Description", "Address", "State", "District"):
+    for dropped in (
+        "Ad ID",
+        "Description",
+        "Address",
+        "State",
+        "District",
+        "Property Type",
+        "Price",
+        "Postcode",
+    ):
         assert dropped not in export.columns
-    assert "Price" in export.columns
+    assert "Rent (€)" in export.columns
+    assert "Location" in export.columns
     assert "Wohn-Ticket" in export.columns
 
 

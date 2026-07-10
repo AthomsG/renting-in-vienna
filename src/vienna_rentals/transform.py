@@ -5,9 +5,11 @@ Type "Wohnung" — the raw history also carries a tail of other states and
 apartment subtypes), enriched with a binary ``Wohn-Ticket`` column (adverts
 reserved for holders of Vienna's social-housing ticket, spelled "Wohnticket",
 "Wohn-Ticket", or "wohn ticket" in listing descriptions) and stripped of
-internal or constant columns: ``Ad ID`` (internal identifier), ``Description``
-and ``Address`` (free text), ``State`` (constant after the filter) and
-``District`` (duplicates the district in ``Location``).
+internal, constant, or redundant columns: ``Ad ID`` (internal identifier),
+``Description`` and ``Address`` (free text), ``State`` (constant after the
+filter), ``District`` (duplicates the district in ``Location``),
+``Property Type`` (constant after the filter), ``Price`` (duplicates
+``Rent (€)``), and ``Postcode`` (duplicates the postcode in ``Location``).
 """
 
 import logging
@@ -35,6 +37,9 @@ COLUMNS_TO_DROP = [
     Listing.CSV_COLUMNS["address"],
     Listing.CSV_COLUMNS["state"],
     Listing.CSV_COLUMNS["district"],
+    Listing.CSV_COLUMNS["property_type"],
+    Listing.CSV_COLUMNS["price"],
+    Listing.CSV_COLUMNS["postcode"],
 ]
 
 

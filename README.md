@@ -57,8 +57,10 @@ with:
 - a binary **`Wohn-Ticket`** column — 1 when the description marks the ad as
   reserved for holders of Vienna's social-housing ticket ("Wohnticket",
   "Wohn-Ticket", "wohn ticket", any casing);
-- internal and constant columns removed: `Ad ID`, `Description`, `Address`,
-  `State` (constant after the filter), `District` (duplicated in `Location`).
+- internal, constant, and redundant columns removed: `Ad ID`, `Description`,
+  `Address`, `State` (constant after the filter), `District` (duplicated in
+  `Location`), `Property Type` (constant after the filter), `Price`
+  (duplicates `Rent (€)`), `Postcode` (duplicated in `Location`).
 
 ## Setup
 
