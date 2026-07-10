@@ -13,6 +13,7 @@ dist/
 # Local artifacts
 response_pretty.txt
 dataset_folder/
+full_history.csv
 
 # OS
 .DS_Store
