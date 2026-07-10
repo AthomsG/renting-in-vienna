@@ -24,6 +24,6 @@ jobs:
 
       - name: Run Telegram Bot Test
         env:
-          BOT_API_KEY: ${{ secrets.BOT_API_KEY }}  # Use your GitHub Secrets for the bot token
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # Use your GitHub Secrets for the channel ID
+          BOT_API_KEY: ${{ secrets.BOT_API_KEY }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: uv run vienna-rentals test-telegram

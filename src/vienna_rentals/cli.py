@@ -1,91 +1,97 @@
-"""Command-line entry point for the pipeline steps.
+"""Command-line entry point.
 
 Usage: vienna-rentals <command>
 
 Commands:
-    scrape         Scrape willhaben and merge results into the listings store.
-    filter         Filter the store to personal preferences (check_these.csv).
-    notify         Update the README table and send Telegram notifications.
-    kaggle         Publish the full listings store (without Ad ID) to Kaggle.
+    run            Execute one full pipeline run (scrape, dedupe, publish, notify).
+    seed           Bootstrap the private history dataset from a local CSV.
     test-telegram  Send a test message to the Telegram channel.
 """
 
 import argparse
 import logging
+from pathlib import Path
 
-import pandas as pd
+from vienna_rentals.config import Settings
 
-logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
-
-
-def cmd_scrape() -> None:
-    from vienna_rentals import scraper, storage
-
-    listings = scraper.scrape_all_listings()
-    storage.merge_listings(listings)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 
-def cmd_filter() -> None:
-    from vienna_rentals import filtering, storage
+def cmd_run(args: argparse.Namespace) -> None:
+    from vienna_rentals import pipeline
 
-    filtered = filtering.filter_listings(storage.load_listings())
-    filtering.save_filtered(filtered)
-    print(f"There are {len(filtered)} listings that match your requirements.")
-
-
-def cmd_notify() -> None:
-    from vienna_rentals import config, readme, telegram
-
-    filtered = pd.read_csv(config.FILTERED_CSV)
-    recent = readme.prepare_recent_listings(filtered)
-
-    old_links = readme.read_previous_links()  # snapshot before the table is rewritten
-    readme.update_readme(recent)
-
-    new_listings = telegram.select_new_listings(recent, old_links)
-    telegram.send_notifications(new_listings)
-
-
-def cmd_kaggle() -> None:
-    from vienna_rentals import kaggle_export
-
-    kaggle_export.publish_to_kaggle()
-
-
-def cmd_test_telegram() -> None:
-    import os
-
-    import requests
-
-    api_token = os.getenv("BOT_API_KEY")
-    channel_id = os.getenv("CHANNEL_ID")
-    response = requests.post(
-        f"https://api.telegram.org/bot{api_token}/sendMessage",
-        data={"chat_id": channel_id, "text": "Test message from bot", "parse_mode": "Markdown"},
-        timeout=30,
+    pipeline.run(
+        Settings.from_env(),
+        skip_telegram=args.skip_telegram,
+        dry_run=args.dry_run,
     )
-    if response.ok:
-        print("Message sent successfully.")
-    else:
-        raise RuntimeError(f"Failed to send message. Response: {response.text}")
 
 
-COMMANDS = {
-    "scrape": cmd_scrape,
-    "filter": cmd_filter,
-    "notify": cmd_notify,
-    "kaggle": cmd_kaggle,
-    "test-telegram": cmd_test_telegram,
-}
+def cmd_seed(args: argparse.Namespace) -> None:
+    from vienna_rentals import config, history, kaggle_io
+
+    settings = Settings.from_env()
+    settings.ensure("kaggle_username", "kaggle_api_key", "private_dataset_slug")
+
+    csv_path = Path(args.csv)
+    if csv_path.name != config.HISTORY_CSV_NAME:
+        raise SystemExit(
+            f"The seed file must be named {config.HISTORY_CSV_NAME} (got {csv_path.name}); "
+            "the pipeline downloads it from the dataset by that exact name."
+        )
+    seeded = history.load_history(csv_path)  # validates the schema before uploading
+    print(f"Seeding {settings.private_dataset_slug} with {len(seeded)} rows...")
+
+    kaggle_io.configure_credentials(settings)
+    kaggle_io.create_private_dataset(
+        csv_path, settings.private_dataset_slug, title="Vienna Rentals - Full History"
+    )
+    print("Done. The pipeline can now run against this dataset.")
 
 
-def main() -> None:
+def cmd_test_telegram(args: argparse.Namespace) -> None:
+    from vienna_rentals import telegram
+
+    telegram.send_test_message(Settings.from_env())
+    print("Message sent successfully.")
+
+
+def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="vienna-rentals", description="Vienna rental listings pipeline."
     )
-    parser.add_argument("command", choices=COMMANDS)
-    args = parser.parse_args()
-    COMMANDS[args.command]()
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    run_parser = subparsers.add_parser("run", help="Execute one full pipeline run.")
+    run_parser.add_argument(
+        "--skip-telegram",
+        action="store_true",
+        help="Run the pipeline without sending Telegram notifications.",
+    )
+    run_parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Scrape and report what would happen, but publish and notify nothing.",
+    )
+    run_parser.set_defaults(handler=cmd_run)
+
+    seed_parser = subparsers.add_parser(
+        "seed", help="Create the private history dataset from a local full_history.csv."
+    )
+    seed_parser.add_argument("csv", help="Path to the full_history.csv to upload.")
+    seed_parser.set_defaults(handler=cmd_seed)
+
+    test_parser = subparsers.add_parser(
+        "test-telegram", help="Send a test message to the Telegram channel."
+    )
+    test_parser.set_defaults(handler=cmd_test_telegram)
+
+    return parser
+
+
+def main() -> None:
+    args = build_parser().parse_args()
+    args.handler(args)
 
 
 if __name__ == "__main__":

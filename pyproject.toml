@@ -1,14 +1,13 @@
 [project]
 name = "vienna-rentals"
-version = "1.0.0"
-description = "Scrape Vienna rental listings from willhaben, notify via Telegram, and publish to Kaggle."
+version = "2.0.0"
+description = "Stateless pipeline: scrape Vienna rental listings from willhaben, deduplicate against a private Kaggle history, publish to Kaggle, and notify via Telegram."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "kaggle>=2.2.3",
     "pandas>=2.2",
     "requests>=2.32",
-    "tabulate>=0.9",
     "tqdm>=4.66",
 ]
 

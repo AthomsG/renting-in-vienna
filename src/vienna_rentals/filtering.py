@@ -1,4 +1,4 @@
-"""Filter the listings store down to the apartments worth checking."""
+"""Filter listings down to the apartments worth a Telegram notification."""
 
 import logging
 
@@ -53,9 +53,5 @@ def filter_listings(df: pd.DataFrame) -> pd.DataFrame:
     ].copy()
 
     filtered["Link"] = filtered.apply(_build_link, axis=1)
-    logger.info("%d listings match the configured preferences.", len(filtered))
+    logger.info("%d of %d listings match the configured preferences.", len(filtered), len(df))
     return filtered
-
-
-def save_filtered(filtered: pd.DataFrame) -> None:
-    filtered.to_csv(config.FILTERED_CSV, index=False)

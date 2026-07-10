@@ -1,0 +1,52 @@
+name: Scraping Pipeline
+
+# The pipeline is stateless: state lives in a private Kaggle dataset, so this
+# workflow never commits to the repository. That keeps runs fast, the history
+# clean, and avoids the scheduling penalties that busy commit-per-run
+# workflows tend to accumulate.
+
+on:
+  schedule:
+    # Every 6 minutes (GitHub's cron is best-effort, so expect longer gaps).
+    - cron: "*/6 * * * *"
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+permissions:
+  contents: read # No writes: this workflow never pushes anything.
+
+concurrency:
+  # Overlapping runs would race on the private history dataset (double
+  # download -> double append). Queue instead of overlapping, and never
+  # cancel a run that is already publishing.
+  group: scraping-pipeline
+  cancel-in-progress: false
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Run the pipeline
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_API_KEY: ${{ secrets.KAGGLE_API_KEY }}
+          PRIVATE_KAGGLE_DATASET_SLUG: ${{ secrets.PRIVATE_KAGGLE_DATASET_SLUG }}
+          KAGGLE_DATASET_SLUG: ${{ secrets.KAGGLE_DATASET_SLUG }}
+          BOT_API_KEY: ${{ secrets.BOT_API_KEY }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: uv run vienna-rentals run

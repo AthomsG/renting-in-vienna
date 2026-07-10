@@ -10,10 +10,11 @@ dist/
 .ruff_cache/
 .pytest_cache/
 
-# Local artifacts
-response_pretty.txt
-dataset_folder/
-full_history.csv
+# Secrets
+.env
+
+# Data never lives in this repository — it lives in the Kaggle datasets.
+*.csv
 
 # OS
 .DS_Store
