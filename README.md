@@ -1,5 +1,5 @@
-![Scraping Pipeline](https://github.com/AthomsG/renting-in-vienna/actions/workflows/pipeline.yml/badge.svg)
-![CI](https://github.com/AthomsG/renting-in-vienna/actions/workflows/ci.yml/badge.svg)
+[![Scraping Pipeline](https://github.com/AthomsG/renting-in-vienna/actions/workflows/pipeline.yml/badge.svg?branch=main)](https://github.com/AthomsG/renting-in-vienna/actions/workflows/pipeline.yml)
+[![CI](https://github.com/AthomsG/renting-in-vienna/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AthomsG/renting-in-vienna/actions/workflows/ci.yml)
 
 # Renting in Vienna
 
