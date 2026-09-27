@@ -14,8 +14,10 @@ from typing import ClassVar
 
 # ---------- willhaben API ---------- #
 
+# willhaben retired the www.willhaben.at/webapi/iad proxy route (404 since
+# late September 2026); the search backend it fronted is now reached directly.
 WILLHABEN_SEARCH_URL = (
-    "https://www.willhaben.at/webapi/iad/search/atz/seo/immobilien/"
+    "https://ad-search.willhaben.at/restapi/v2/search/atz/seo/immobilien/"
     "mietwohnungen/mietwohnung-angebote"
 )
 WILLHABEN_HEADERS = {
@@ -24,7 +26,7 @@ WILLHABEN_HEADERS = {
 }
 SEARCH_PARAMS = {
     "page": "1",
-    "rows": "1000",
+    "rows": "200",  # server-side cap per page
     "areaId": "900",  # Wien
     "PROPERTY_TYPE": "3",  # Wohnung
     "periode": "2",  # posted in the last 2 days
